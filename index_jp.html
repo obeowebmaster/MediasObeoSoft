@@ -1,1 +1,150 @@
-<h1>Hello World!<h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Obeo Soft | Videos</title>
+    <style>
+        body {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            margin-bottom: 20px;
+            background-color: #ffffff;
+            border-bottom: 1px solid #dedede;
+        }
+        .container {
+            max-width: 1280px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: auto;
+        }
+        .navbar-fixed-top{
+            position: fixed;
+            min-height: 80px;
+            padding-top: 20px;;
+            top: 0;
+            right: 0;
+            left: 0;
+            z-index: 1030;
+        }
+        
+        .logo img {
+            width: 220px; /* Ajustez la taille du logo selon vos besoins */
+        }
+
+        .flags {
+            display: flex;
+            gap: 10px;
+        }
+
+        .flags img {
+            width: 18px; /* Ajustez la taille des drapeaux selon vos besoins */
+            cursor: pointer;
+        }
+
+        .row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        #videos{
+            margin-top: 100px;
+        }
+        .video {
+            width: calc(33.33% - 20px);
+            box-sizing: border-box;
+            padding: 10px;
+        }
+
+        .video img {
+            width: 100%;
+            height: auto;
+        }
+
+        .video p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header class="navbar-fixed-top">
+        <div class="container">
+        <div class="logo">
+            <img src="images/logos/logo_obeo.png" alt="Logo Obeo" />
+        </div>
+        <div class="flags">
+            <img src="images/flags/flag_fr.png" alt="French" onclick="changeLanguage('fr')" />
+            <img src="images/flags/flag_en.png" alt="English" onclick="changeLanguage('en')" />
+        </div>
+    </div>
+    </header>
+    
+<div id="videos">
+    <h1>All @EclipseCapella Videos</h1>
+</div>
+
+<script>
+    function changeLanguage(lang) {
+        if (lang === 'fr') {
+            window.open('https://www.obeosoft.com/fr/', '_blank');
+        } else if (lang === 'en') {
+            window.open('https://www.obeosoft.com/en/', '_blank');
+        }
+    }
+
+    fetch('videos.json')
+        .then(response => response.json())
+        .then(data => {
+            // Filtrer les vidéos avec videoId non null
+            const filteredVideos = data.filter(video => video.video_id !== null);
+
+            const videosDiv = document.getElementById('videos');
+
+            let rowDiv; // Variable pour stocker la balise div de la ligne actuelle
+            for (let i = 0; i < filteredVideos.length; i++) {
+                const video = filteredVideos[i];
+
+                const videoId = video.video_id;
+                const videoUrl = `https://media.obeosoft.com/capella/${videoId}.mp4`;
+                const videoThumbnailUrl = `images/thumbnails/${videoId}.webp`; 
+                const videoTitle = video.title;
+                const videoDuration = video.duration_string;
+
+                const videoElement = document.createElement('div');
+                videoElement.classList.add('video');
+
+                const thumbnailElement = document.createElement('img');
+                thumbnailElement.src = videoThumbnailUrl;
+                videoElement.appendChild(thumbnailElement);
+
+                const titleElement = document.createElement('p');
+                titleElement.textContent = videoTitle;
+                videoElement.appendChild(titleElement);
+
+                const durationElement = document.createElement('p');
+                durationElement.textContent = `Duration: ${videoDuration}`;
+                videoElement.appendChild(durationElement);
+
+                const linkElement = document.createElement('a');
+                linkElement.href = videoUrl;
+                linkElement.textContent = 'Watch the video';
+                videoElement.appendChild(linkElement);
+
+                if (i % 3 === 0) { // Si nous avons atteint une nouvelle ligne
+                    rowDiv = document.createElement('div');
+                    rowDiv.classList.add('row');
+                    videosDiv.appendChild(rowDiv);
+                }
+
+                rowDiv.appendChild(videoElement); // Ajouter la vidéo à la ligne actuelle
+            }
+        })
+        .catch(error => console.error('Erreur lors du chargement du fichier JSON :', error));
+</script>
+
+</body>
+</html>
