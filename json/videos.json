@@ -1,0 +1,522 @@
+[
+  {
+    "title": "Capella Webinars",
+    "description": "Collection of Capella Webinars",
+    "video_id": null,
+    "playlist": null,
+    "playlist_id": null,
+    "thumbnail": ".webp",
+    "playlist_index": null,
+    "duration_string": null
+  },
+  {
+    "title": "Powering Capella Champions: Enablers for Model Authoring and Utilization | Siemens | Capella Webinar",
+    "description": "Powering Capella Champions: Enablers for Effective Model Authoring and Utilization\n\nPresented by Anthony Komar\nYou can check Anthony Komar's YouTube channel dedicated to Capella right here: https://www.youtube.com/ @innovatingwithcapella  \n \nHosted by Martin Lebourgeois\n\nSlides available here: https://bit.ly/capella_webinar_231214_slides\n\n***\n\nIn today's complex systems engineering landscape, Capella has emerged as a powerful tool for model-based systems engineering (MBSE). This presentation explores key enablers for Capella champions to ensure the successful adoption and utilization of Capella within an organization.\n\nTraining: Effective training is foundational for developing Capella champions. Tailored programs, from beginner to advanced levels, empower individuals to become proficient in Capella. Strategies for designing training programs aligned with organizational goals are discussed.\n\nExtensible Authoring: Capella's extensible authoring capabilities allow customization to specific domains and engineering practices. Developing custom viewpoints, libraries, and domain-specific extensions is crucial for a seamless fit with organizational requirements.\n\nAccessible Model Content: To maximize the impact of Capella models, enabling non-authors to access and utilize model contents is essential. Strategies for visualization, reporting, and data sharing allow stakeholders to extract insights and make informed decisions.\n\nFostering Capella champions is crucial for successful MBSE adoption. Through comprehensive training, enhanced authoring capabilities, and enabling non-authors to leverage model contents, organizations can unlock Capella's potential, driving efficiency and innovation in systems engineering. This presentation offers practical guidance for organizations on their journey to becoming Capella champions and realizing the benefits of MBSE.\n\nAnthony Komar has been practicing and supporting systems engineering for over 35 years. He is a key contributor to the development and deployment of model-based system engineering products for Siemens Digital Industries Software.\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters: \n0:00 - Intro\n2:11 - What is a Champion? And how to become a Capella Champion\n5:50 - Step 1: Building Skills\n11:32 - Step 2: Sharing what you learned\n13:35 - Demonstration\n30:37 - Step 3: Leveraging what was built\n31:45 - Demonstration\n41:25 - Leveraging what was built - The Future\n43:38 - Q&A: How did you learn Python for Capella?\n46:25 - Q&A: For the three models and computed values, is it possible to check compliance between them?\n48:04 - Q&A: What is your Champion advice to get into Capella and Open Source Simulation?\n51:30 - Q&A: How do you connect OpenAI with Capella?\n54:18 - Outro",
+    "video_id": "heqUpxDaz_c",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "heqUpxDaz_c.webp",
+    "playlist_index": 1,
+    "duration_string": "54:41"
+  },
+  {
+    "title": "A Model Based System Architecture Methodology Leveraging the ARCADIA Method | GWU | Capella Webinar",
+    "description": "Presented by Dr. Eric Dano\nHosted by Laurent Delaigue\n\nSlides available here: https://bit.ly/capella_webinar_231005\n\n***\n\nSystem Architecture, its derived requirements and systems analysis performed, are often attributed to defining 70% of the cost and capabilities of a system. However, after nearly two decades of Model Based Systems Engineering (MBSE), there is a lack of architecture focused methodologies and tools to aid programs in creating a robust, transdisciplinary system architecture. \n\nOne notable exception is the Thales developed Architecture Analysis and Design Integrated Approach (ARCADIA) method and associated Capella modeling tool. The ARCADIA Architecture Development Method (ADM) provides instance-based methodologies for each ADM step with rich viewpoints and views to ensure a robust architecture is obtained. As the goal of the proposed methodology is to rapidly create a robust, transdisciplinary system architecture, ARCADIA was selected for its native alignment with this goal. \n\nHowever, the ARCADIA method is like a framework and requires a defined methodology to be applied to it to determine what views, and in what order, constitutes the desired architectural model. \n\nThe proposed methodology defined these elements based on alignment with the IEEE 15288:2015 architecture standard, and to further the goals of ease of learning, rapid modeling, and reduced modeler workload/errors.\n\nDr. Dano's Capella model : https://obeo-mirror-capella-releases.s3.eu-west-1.amazonaws.com/models/Missing_Person_Locator_Example.zip\n\n***\nChapters:\n0:00 - Intro\n0:25 - Speakers Introduction\n1:27 - Motivation behind the project\n3:40 - Outline\n3:56 - System Architecture Definition\n5:30 - Goal of the Proposed Methodology\n9:30 - Advantages of Capella\n12:35 - Proposed Methodology\n14:25 - Example: MPL System\n14:58 - Main presentation\n37:14 - Example: \"Ility\" Supplemental View\n39:43 - Conclusion\n42:46 - Q&A: State Machines\n44:40 - Q&A: How to customize Arcadia for small companies\n46:14 - Q&A: Using ARCADIA to adress DODAF Services viewpoints\n47:05 - Q&A: Did you connect requirements with architecture element\n48:30 - Q&A: How many levels of function in the model?\n49:49 - Q&A: Does Arcadia have a define ontology?\n50:38 - Q&A: Is there any challenged not addressed by the tool?\n52:11 - Q&A: Advantages of Capella/ARCADIA compared to OPM\n53:36- Q&A: Once the system architecture is iterated and developed using Arcadia capella, how does it get translated down the line ?\n56:22 - Q&A: Engraining testability at the start of modelling activities\n57:40 - Outro\n***",
+    "video_id": "--9Cnj3XJk0",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "--9Cnj3XJk0.webp",
+    "playlist_index": 2,
+    "duration_string": "58:09"
+  },
+  {
+    "title": "Digitally Assisted Design for Safety | Anzen | Capella Webinar",
+    "description": "Presented by Pablo Lopez Negro\nHosted by Samuel Rochet\n\nSlides available here: https://bit.ly/capella_webinar_14092023_slides\n\n***\n\nIs your system robust to the loss of one or more functions? Does your system require interaction with other systems to operate safely?\nDoes the design and operational concept of the system include contingency means? Do these contingency means correctly mitigate the risks?\n\nThese and other similar considerations are becoming more important with the emergence of autonomous systems and complex systems of systems. The introduction of digital tools and in particular model-based systems engineering allows to capture the complexity of these products starting from the operational analysis and supporting the process throughout the whole product life cycle.\n\nWith ATICA, system architects and designers will be able to analyze safety implications starting from the conceptual needs and mission description; modeling risks associated to the system, assessing the probability of occurrence and severity, and deciding upon the needs of contingency and mitigation means. ATICA enriches the Arcadia framework and provides safety analysis capabilities for each step of the system definition, design, and verification process.\n\nIn this webinar, we will address an example with an autonomous vertical take-off and landing (VTOL) vehicle, conceived for operation in urban environments (urban air mobility). We will present the operational description and system architecture, and we will conduct the Functional Hazard Analysis (FHA) directly from Capella and aligned with the normative standards in force in the aeronautic industry (ARP-4761 / ED-135).\n\nFinally, we will introduce safety analysis covering the logical and physical architecture levels, showcasing the use of Capella, Arcadia and ATICA for Fault Tree Analysis (FTA) and Failure Modes and Effects Analysis (FMEA).\n\n***\nChapters:\n0:00 - Speakers Introduction\n1:35 - Summary \n4:20 - Main presentation\n26:25 - Capella eVTOLDemo\n32:53 - Back to presentation\n40:30 - Q&A: STPA integration with ATICA\n41:10 - Q&A: Which function to use for FC identification?\n43:27 - Q&A: What process for System Analysis probabilistic requirements ?\n44:57 - Q&A: Does ATICA support FMEA?\n45:40- Q&A: Failure tolerance association to each FC\n46:53 - Q&A: Can you use other safety standards?\n47:32 - Q&A: What's the licensing model for the tool?\n48:14 - Q&A: Is there a license for academic use?\n48:34 - Q&A: ATICA supports OMG's RAAML?\n49:12 - Q&A: Does the tool support plausibility check? Semi-automatic safety analysis?\n51:05 - Q&A: Which fields are filled manually and which automatically?\n53:20 - Q&A: Is there a way to link the safety rankings to functions?\n54:16 - Q&A: Is the tool suitable to carry out system safety anaysis?\n55:00 - Conclusion, Next Events & Capella Days 2023\n***",
+    "video_id": "xh7Rvqdo-SE",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "xh7Rvqdo-SE.webp",
+    "playlist_index": 3,
+    "duration_string": "57:52"
+  },
+  {
+    "title": "PdQSat: Aplicação MBSE em um projeto universitário | Capella Webinar Portugese",
+    "description": "Presented by Bruna Queiroz & Maria Letícia Fraga as UMFG alumni.\nAnimated by Christopher Cerqueira.\nHosted by Obeo.\n\nPlease note that this webinar is entirely in portugese and no english subtitles were made.\n***\n\nNeste webinar, Bruna Queiroz e Maria Letícia Fraga compartilharão sua experiência no uso do Capella para o desenvolvimento e propostas da arquitetura do PdQSat, um CubeSat desenvolvido pela Escola de Engenharia da UFMG e pelo Instituto de Ciências Exatas da UFMG.\n\nO PdQSat é um projeto multidisciplinar com duas missões, uma de cunho tecnológico para caracterização de uma bateria de Li-S e um micro-supercapacitor, e outra missão voltada para o desenvolvimento educacional de estudantes e professores de diversas áreas da engenharia. Nesse contexto, MBSE foi utilizado para apoiar a análise do sistema e seu contexto, melhorar a comunicação entre os interessados e aumentar a qualidade do sistema final.\n\nJunte-se a este webinar para descobrir como o MBSE e o Capella ajudaram a equipe a capturar e analisar o contexto operacional e as funções do sistema, além de projetar uma arquitetura que atende às necessidades e requisitos operacionais.\n***\n\nSlides of the speakers' presentation: https://bit.ly/capella_webinar_02082023_slides_BR",
+    "video_id": "-_xfG4HMAI0",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "-_xfG4HMAI0.webp",
+    "playlist_index": 4,
+    "duration_string": "1:21:12"
+  },
+  {
+    "title": "Connecting Capella and ModelCenter to Analyze System Architecture | Ansys | Capella Webinar",
+    "description": "Presented by Alexandre Luc & Scott Ragon from Ansys\nHosted by Samuel Rochet\n\nSlides available here: https://bit.ly/capella_webinar_230711_slide\n\n***\n\nThis webinar showcased the utilization of Capella to create the systems architecture model and the use of ModelCenter to connect Capella to any engineering analysis tool for requirements verification and system optimization throughout the product life cycle. The webinar provide a forum to garner feedback on the features of the Capella connector and insights on roadmap initiatives. \n\nDuring this session, our expert presenters demonstrated the seamless integration between Capella and ModelCenter, enabling the promise of MBSE. They illustrated how this integrated solution empowers engineers and system architects to effectively design, analyze, and optimize complex systems by leveraging Capella's robust modeling capabilities and ModelCenter's comprehensive analysis and optimization features. During this demonstration, participants engaged in polls, and feedback sessions on the Capella connector.\n\nKey Topics to be Covered:\n- Introduction to Capella: A feature-rich modeling tool for system architecture design\n- Overview of ModelCenter: An integrated analysis and optimization platform\n -Integrating Capella with ModelCenter: Enabling efficient and collaborative MBSE workflows\n- Demonstrating real-world applications of Capella and ModelCenter integration\n -Engaging in a feedback session for MBSE implementation and best practices\n\nWhether you are a systems architect, engineer, or a professional involved in system development, this webinar provided valuable insights into leveraging Capella and ModelCenter to advance your MBSE implementation. \n\n***\nChapters:\n0:00 - Speakers Introduction\n1:08 - Summary\n2:14 - Subject introduction\n13:48 - Poll #1: In what part do you use Capella?\n15:20 - Toy Catapult Use Case\n19:55 - Poll #2: What level of analysis prior to detailed design?\n20:59 - ModelCenter Live Demo\n50:29 - Q&A: Is Ansys ModelCenter a Model Repository/Library management system?\n51:53 - Q&A: Why using data in place of physical asset?\n53:02 - Q&A: Is it possible to \"multithread\" the matlab simulation in this current \"Design of Experiments\" trade off analysis?\n53:46 - Q&A: Do you expect to exploit information from Capella scenarios ?\n55:26 - Q&A: Does it also provide connection with openPlcxml format for PLC ?\n56:37 - Q&A: The use of mathematical expressions from requirements in MBSE\n57:37 - Q&A: Could Ansys ModelCenter be used to allow model information to be exchanged with other MBSE tools?\n58:15 - Q&A: Ansys Contacts Information\n58:47 - Q&A: Next Capella Events\n***",
+    "video_id": "z5kvjZDaCWU",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "z5kvjZDaCWU.webp",
+    "playlist_index": 5,
+    "duration_string": "1:00:11"
+  },
+  {
+    "title": "Mastering Arcadia Method: A Deep Dive into Extensive MBSE Resources | Thales | Capella Webinar",
+    "description": "Presented by Jean-Luc Voirin, from Thales\nHosted by Laurent Delaigue.\n\n***\n\nArcadia is the model-based systems engineering method at the heart of the open-source Capella modeling tool.\n\nPromoting a viewpoint-driven approach (as described in ISO/IEC 42010), it emphasizes a clear distinction between need and solution to support enterprise-wide collaboration and co-engineering.\n\nTo help systems engineers master Arcadia, the community continually produces resources in various formats (books, web pages, articles, videos, datasheets, etc.) and for different purposes, ranging from introductions to very precise topics.\n\nDuring this webinar, you will embark on a journey through the extensive resources at your disposal. Mainly, you will have the exclusive opportunity to discover brand new documents derived from the experience of Jean-Luc Voirin, the principal author of the method, gained through his involvement in projects over many years.\n\nChapters:\n0:00 - Introduction\n2:18 - Already Existing Ressources\n13:30 - Goals and Methods of the Document\n18:50 - New Arcadia Reference Documents Presentation\n43:20 - Q&A: Difference between datamodel and metamodel\n45:06 - Q&A: Operational and problem analysis\n46:20 - Q&A: Existing model to use REC/RPL representations\n47:14 - Q&A: Arcadia method with UAF standard\n48:09 - Q&A: Selecting LA or PA for Capella\n49:33 - Q&A: Document generation from model with M2doc\n50:29- Q&A: Activity diagram with Arcadia Method\n52:18 - Q&A: Modeling together multiple Capella releases\n54:25 - NEXT EVENTS (Capella Days, INCOSE, next webinars)\n*",
+    "video_id": "Pnm5x7n2kF4",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "Pnm5x7n2kF4.webp",
+    "playlist_index": 7,
+    "duration_string": "55:58"
+  },
+  {
+    "title": "Assess the environmental impacts of your system architecture | OBEO | Capella Webinar",
+    "description": "Presented by Arnaud Dieumegard from Obeo.\nHosted by Samuel Rochet.\n\n***\n\nHow to make environmentally conscious decisions when designing a system?\n\nPerforming a life cycle assessment (LCA) can help you precisely identify the types of impacts a system has, from the extraction of raw materials to its end-of-life phase. However, this is often a tedious process that involves inputting the system architecture into an LCA tool and mapping it to environmental databases. This makes it difficult to repeat the process multiple times for the same system.\n\nSo why not reuse your Capella models to conduct LCAs?\n\nEcodesign for Capella is a new add-on that allows systems architects to enter data on the life expectancy of components, materials utilized, consumptions, and emissions directly in Capella, and automatically generate a life cycle inventory in an LCA tool like OpenLCA.\n\nIn the essential collaboration between systems and environmental engineers to reduce the environmental impacts of a complex system, this add-on enables them to make eco-responsible design choices from the beginning, by conducting reliable life cycle analyses, faster and more frequently.\n*\n\nChapters:\n0:00 - Introduction\n2:00 - Main presentation\n29:20 - Ecodesign Demonstration\n37:00 - 2nd part of the presentation\n46:18 - Q&A: Which environmental database can be used as Life cycle inventory?\n47:28 - Q&A: Was there any difference on the lead-time?\n48:28 - Q&A: Is this extension of capella for LCA open Source ?\n49:15 - Q&A: Can the tool account for circularity/component reuse?\n50:38 - Q&A: What about the carbon footprint of the supply chain?\n51:48 - Q&A: Can we customize the state machine of the LC?\n52:19 - Q&A: Any possibility to connect to GaBi or SimaPro?\n52:51 - Q&A: What about the product optimisation?\n54:14- Q&A: Why the analysis of the life cycle is important at the design phase?\n55:15 - Q&A: Does system engineer and LCA export work on the same part of a system during test phase?\n56:31 - Q&A: What is your position on PLMs trying to calculate LCA?\n57:42 - Q&A: Can this system be applied to the evaluation of environmental impact of laws of government? \n*",
+    "video_id": "3PcidKuh3e8",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "3PcidKuh3e8.webp",
+    "playlist_index": 8,
+    "duration_string": "59:41"
+  },
+  {
+    "title": "Assess the environmental impacts of your system architecture | OBEO | Capella Webinar",
+    "description": "Presented by Arnaud Dieumegard from Obeo.\nHosted by Samuel Rochet.\n\n***\n\nHow to make environmentally conscious decisions when designing a system?\n\nPerforming a life cycle assessment (LCA) can help you precisely identify the types of impacts a system has, from the extraction of raw materials to its end-of-life phase. However, this is often a tedious process that involves inputting the system architecture into an LCA tool and mapping it to environmental databases. This makes it difficult to repeat the process multiple times for the same system.\n\nSo why not reuse your Capella models to conduct LCAs?\n\nEcodesign for Capella is a new add-on that allows systems architects to enter data on the life expectancy of components, materials utilized, consumptions, and emissions directly in Capella, and automatically generate a life cycle inventory in an LCA tool like OpenLCA.\n\nIn the essential collaboration between systems and environmental engineers to reduce the environmental impacts of a complex system, this add-on enables them to make eco-responsible design choices from the beginning, by conducting reliable life cycle analyses, faster and more frequently.\n*\n\nChapters:\n0:00 - Introduction\n2:00 - Main presentation\n29:20 - Ecodesign Demonstration\n37:13 - 2nd part of the presentation\n46:30 - Q&A: Which environmental database can be used as Life cycle inventory?\n47:40 - Q&A: Was there any difference on the lead-time?\n48:40 - Q&A: Is this extension of capella for LCA open Source ?\n49:27 - Q&A: Can the tool account for circularity/component reuse?\n50:50 - Q&A: What about the carbon footprint of the supply chain?\n52:00 - Q&A: Can we customize the state machine of the LC?\n52:31 - Q&A: Any possibility to connect to GaBi or SimaPro?\n53:04 - Q&A: What about the product optimisation?\n54:27- Q&A: Why the analysis of the life cycle is important at the design phase?\n55:28 - Q&A: Does system engineer and LCA export work on the same part of a system during test phase?\n56:44 - Q&A: What is your position on PLMs trying to calculate LCA?\n57:54 - Q&A: Can this system be applied to the evaluation of environmental impact of laws of government? \n*",
+    "video_id": "DVSqUOOjqSY",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "DVSqUOOjqSY.webp",
+    "playlist_index": 9,
+    "duration_string": "59:53"
+  },
+  {
+    "title": "Cybersecurity Assets & Threats Modeling with Capella | Thales | Capella Webinar",
+    "description": "Presented by Juan Navas and Sophie Plazanet from Thales Engineering\n\n***\n\nThe increasing risk of cyberattacks on systems poses a significant threat to organizations and individuals worldwide.\n\nIdentifying threats as soon as possible during the engineering process is hence a stake for all of us. To do so, a close collaboration between systems and cybersecurity engineering teams is required.\n\nDiscover Darc, a new Capella add-on that enables systems engineers to address cybersecurity concerns while defining system architectures:\n• Identify assets and trust boundaries.\n• Identify threats\n• Characterize security needs.\n\n*\nDownload the DARC Viewpoint here: https://www.eclipse.org/capella/addons.html\n\nFictive case study: https://github.com/eclipse/capella-cybersecurity/releases\n*\n\nChapters:\n0:00 - Introduction\n2:00 - Main presentation\n21:24 - Fictive case studies\n22:44 - DARC Viewpoint demonstration\n43:05 - Q&A: Is it possible to add more threat types?\n43:27 - Q&A: Are the assets further elaborated when we move to other architecture perspectives?\n44:40 - Q&A: Can you share insights from internal usage of the tool?\n45:32 - Q&A: What is Traceability (Accountability?)\n45:56 - Q&A: Can PVMT be used to extend the set of properties included by default in the new Cybersecurity elements?\n46:30 - Q&A: Which standard did you target for the DARC annotations information?\n48:36 - Q&A: Is it possible to identify and differentiate physical threats and cyber threats?\n49:27 - Q&A: Will the information related to DARC VP be catched with Python 4Capella?\n49:44- Q&A: Is it possible to filter the darc elements?\n50:20 - Q&A: Is the shown example model publically available?\n50:42 - Q&A: Does the library of attacks come from a specific framework?\n52:49 - Q&A: Do you consider that DARC might also be applicable to privacy and personal data protection?\n*",
+    "video_id": "h1p7CeMbn40",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "h1p7CeMbn40.webp",
+    "playlist_index": 10,
+    "duration_string": "56:09"
+  },
+  {
+    "title": "Making Arcadia work for you - a look at framework tailoring in Thales UK | Thales | Capella Webinar",
+    "description": "Presented by Alex Laing and Andrew Pemberton from Thales UK\n\n*\n\nArchitecture frameworks provide an approach to describing systems and the presentation of these elements and relationships to deliver the stakeholder needs. Essentially, frameworks provide templates for our engineering artefacts.\n\nThe design of a framework must accommodate a level of freedom in its usage; specific enough to answer the majority of stakeholder concerns, whilst generic enough to allow for differences between projects. This balancing act often results in framework design being more generic to allow for a wider audience. Having an untailored framework, which is more ‘open’, can lead to creating inconsistent viewpoints.\n\nArcadia is one such framework as implemented through the Capella tool. The framework provides 4 perspectives/levels for product definition:\n- The Operational Analysis, where the user needs are considered. Note: no concept of the System at this level.\n- The System Analysis, where we define the contribution and scope of the System as a ‘black box’, identifying external interfaces, and top-level system functions.\n- The Logical Architecture, where we break the System down into logical ‘blocks’ and decompose the functionality.\n- The Physical Architecture, in which we define a (candidate) physical architecture, further decompose the functions, and deploy this functionality to the physical sub-systems, hardware, software and/or firmware.\n\nIn this talk, we acknowledge the strengths of the Arcadia framework, and the benefits it brings, whilst considering the need to tailor the generic viewpoints. We will provide examples of how we have adopted the generic Arcadia framework and further specified some of the viewpoints to meet the needs of our stakeholders. We will discuss future work looking at how we can translate these specialisations across other areas of the model. Finally, we will provide some suggestions and advice on tailoring views to meet your own needs and ensuring stakeholder engagement with the model.\n\n*\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia\n\n*\n\nChapters:\n0:00 - Introduction\n2:19 - Main presentation\n48:14 - Q&A: How do you work out requirements management and traceability?\n49:24 - Q&A: Have you ever managed V&V needs in the definition of tailoring?\n50:45 - Q&A: How is your experience to use Capella in bottom up design?\n54:43 - Q&A: What were the main barriers of embedding Capella into the Thales organisation ?\n57:55 - Q&A: How do you maintain the \"big picture\" view?\n1:00:07 - Q&A: How have you captured and enforced modelling rules/conventions amongst members of the modelling team ?\n1:00:10 - Q&A: What's your balance of trained Capella Modellers vs non-systems engineers?\n1:03:23 - Q&A: In terms of Framework tailoring, are you actually changing anything in the framework data model?\n1:04:42 - Q&A: Can you explain how you generated documentation to views?\n1:06:52 - Q&A: How does Thales capture design rationale in Capella?\n1:08:33 - Q&A: The Functional Chains: are these of the individual Functions?\n1:11:19 - Q&A: Did you developed a color taxonomy code?\n1:11:58 - Q&A: Haven't you used Operational Analysis to capture Stakeholder needs?\n1:15:28 - Q&A: Unanswered questions\n\n*",
+    "video_id": "5GzJELbUcAE",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "5GzJELbUcAE.webp",
+    "playlist_index": 11,
+    "duration_string": "1:17:04"
+  },
+  {
+    "title": "Capella Webinar - Der lange Weg vom Angebot zum Projekt unterstützt durch Capella",
+    "description": "Presented by: Michael Schäfer\n***\nAls vor einigen Jahren in Nordeuropa ein großes Projekt im Bereich der Leit- und Sicherungstechnik für Eisenbahnen ausgeschrieben war, hat Thales sich an diesem Projekt beteiligt und dort zum ersten Mal in einer Angebotsphase ARCADIA als Methodik und Capella® als Tool für Model-Based-System-Engineering eingesetzt. Auf den Capella Days 2018 wurden von uns die Ergebnisse dieses Einsatzes vorgestellt. In der Zwischenzeit hat sich nun dieses Angebotsprojekt in ein reales Projekt verwandelt.\n\nDamit stellte sich für uns bei Thales die Frage, wie arbeiten wir in ARCADIA und Capella® weiter. Der Vortrag zeigt daher den \"langen Weg\" vom Angebotsmodell zum einem Projektmodell in Capella®. Neben Fragen wie \"Was kann aus dem Angebotsmodell wiederverwendet werden?\" oder \"Wie können wir die Anzahl der Systemarchitekten, die an dem Projekt arbeiten, schnell erhöhen?\", werden auch einige der Fallstricke auf diesem Weg präsentiert.\n\nZusätzlich gibt dieser Vortrag Antworten auf Fragen wie \"Welche der verschiedenen Sichten von ARCADIA sind für welchen Zweck geeignet?\" oder \"Wie kann man spezielle Themen wie die Kommunikation mit Kunden, die Beschreibung externer Schnittstellen oder Sicherheitsaspekte für ein großes Eisenbahnverkehrsmanagementsystem modellieren?\".\n\nSeminar Kernaussagen\nFolgende Kernaussagen ergeben sich aus den Erfahrungen des Einsatzes von ARCADIA und Capella® auch in frühen Phasen eines Projekts:\n\n- Die Methodik und das Tool lassen sich gewinnbringend auch in einer Angebotsphase einsetzen, wenn man sich auf die notwendigen Teile beschränkt, damit das Angebotsteam eine einheitliche Sicht auf den Entwurf erhält.\n- Dieses Angebotsmodell lässt sich im Umsetzungsprojekt weiterverwenden, wobei der Fokus auf den funktionalen Aspekten und deren Beschreibung liegt.\n- Als hilfreich hat sich eine Fokussierung auf kritische Bereiche herausgestellt, z.B. auf Funktionen, die eine Sicherheitsrelevanz tragen.\n- Als Herausforderung stellt sich auch hier der notwendige kulturelle Wandel von einem textuellen, dokumentenzentrierten Vorgehen zu einem modellbasierten Vorgehen.\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-m...\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "TiZa9Hm0sDs",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "TiZa9Hm0sDs.webp",
+    "playlist_index": 12,
+    "duration_string": "53:01"
+  },
+  {
+    "title": "Model Simulation and Analysis in Capella | Glaway | Capella Webinar",
+    "description": "Presented by Kai Liu from Glaway\n\n*\n\n\"Through a large number of engineering practices in China, we found that customers not only pay attention to how the object product can be modeled more quickly and reasonably, but also pay attention to the correctness of the model itself. Therefore, the simulability and analyzability of the model are very important.\n\nUsers expect Capella to provide value in logic simulation and parametric analysis. According to the needs of customers, improvements have been made in the following aspects:\n\n1. We decided to add the concept and related elements of activity diagrams in Sysml to Capella to make the function flow executable;\n2. Referring to the state machine specification in Sysml, we assign dynamic execution rules to the elements in the Capella state machine so that they can be simulated and operated;\n3. Support nested calls and interrupt logic between state machines and activity diagrams to enrich the simulation scenarios.\n4. Support integration and calling with Matlab to make algorithm verification simpler and more feasible.\n5. Developed a running interface for simulation, so that engineers can get more information through simulation (for example: simulation animation effect; simulation speed adjustable;\nSimulation can be paused; simulation data can be modified in real-time and feedback can be obtained; simulation data can be recorded and related curves generated)\"\n\n*\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia\n\n*",
+    "video_id": "3jumY0VhZb4",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "3jumY0VhZb4.webp",
+    "playlist_index": 13,
+    "duration_string": "49:06"
+  },
+  {
+    "title": "Applying MBSE as a support for Systems Engineering Standards | SAMARES | Capella Webinar",
+    "description": "Presented by Sébastien Dubé from SAMARES\n\n*\nSlides: https://bit.ly/capella_webinar_220922_slides\n*\n\n\"How to efficiently apply recommended practices of Systems Engineering: The Health Agriculture UAV case study\n\nWith the emergence of Cyber-Physical Systems (computer systems in which physical elements are controlled or monitored by computer-based algorithms), defining a solution which satisfies stakeholder needs and various constraints is a hard task to complete. This is the reason why the Systems Engineering community defined standardized practices (such as the ones defined in ISO15288:2015), to realize successful systems, several years ago.\n\nHowever, performing these practices with the traditional \"\"document based\"\" approach may be limited due to the difficulty of checking the overall consistency of the engineering documents. Using MBSE methods and tools (such as proposed by the ARCADIA method and Capella tool) is a great help to support the stakeholder requirements analysis and system requirements / architecture definition. However, it is sometimes difficult to \"\"map/instantiate\"\" the standard processes (ISO15288:2015) to implementation using ARCADIA method and Capella, especially when adapted to the specific practices of each company. \n\nDuring this talk, you will gain insights concerning the relations between the ISO15288:2015 processes and the ARCADIA approach, illustrated using the Health Agriculture UAV case study and focus on some common topics such as implementation of MOEs/MOPs in the model. \"\n\n*\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia\n\n*",
+    "video_id": "E-obpCZUcqA",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "E-obpCZUcqA.webp",
+    "playlist_index": 14,
+    "duration_string": "1:00:49"
+  },
+  {
+    "title": "Simulation with Python and MATLAB® | PGM | Capella Webinar",
+    "description": "Presented by Renfei Xu from PGM\n\n***\nSlides: https://bit.ly/capella_webinar_220901_slides\n\n***\nSA common need in system architecture design is to verify that if the architect is correct and can satisfy its requirements.\n\nExecution of system architect model means to interact with state machines to test system’s control logic. It can verify if the logical sequences of functions and interfaces in different scenarios are desired.\n\nHowever, only sequence itself is not enough to verify its consequence or output. So we need each function to do what it is supposed to do during model execution to verify its output, and that is what we called “simulation”.\n\nThis presentation introduces how to embed Python or MATLAB® codes inside functions to do “simulation” within Capella.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "UiE0l-zdabY",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "UiE0l-zdabY.webp",
+    "playlist_index": 15,
+    "duration_string": "58:51"
+  },
+  {
+    "title": "Connecting textual requirements and Capella models | TheReuseCompany | Capella Webinar",
+    "description": "Presented by José Pereira and José Fuentes from The Reuse Company.\n\n***\nSlides: https://bit.ly/capella_webinar_220623_slides\n\n***\nSES ENGINEERING Studio: Achieving the perfect equilibrium between Textual Requirements and Models in Capella enhanced by Automatic Interoperability, Quality & Traceability operations\n\nThe importance of models is imperative in any Systems Engineering project. However, truth is not exclusively found within models. The need to describe external contracts, regulations, or non-functional requirements, for instance, can be more efficiently satisfied by using textual specifications. In order to achieve the desired “Common Source of Truth”, model and textual requirements must be connected and coexist, desirable enhanced by the automatization of the consistency checking, automatically modifying one side when changes are produced on the other end...\n\nWithin The REUSE Company, we have realised how crucial it is to facilitate this connection and provide Systems Engineers with the tools required for applying SE across the entire process as seamlessly as possible. This solution is the SES ENGINEERING Studio, and within this webinar, the following capabilities will be shown:\n\n- The SES ENGINEERING Studio offers the capability to assess consistency between textual requirements and Capella models.\n- Automatic generation of Capella models from Textual Requirements inside an RMS (Requirements Management System). This also involves the possibility to complete the exact opposite operation, generating textual requirements from Capella models.\n- Seamless traceability management between textual requirements (in any RMS) and model elements in Capella; This includes the possibility to automatically suggest traces based on the semantic content of the textual requirement.\n- If the preferred option is to maintain these textual requirements inside Capella, we offer the possibility to provide a round-trip process between any RMS and Requirements Viewpoint within Capella; thus, allowing that modification at either end, to be synchronized.\n- Automatic quality assessment of Capella models following a number of pre-established rules or allowing the users to define tailored rules.\n- Automatic interoperability between SysML and Arcadia models.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "C07-D3zdFoY",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "C07-D3zdFoY.webp",
+    "playlist_index": 16,
+    "duration_string": "54:39"
+  },
+  {
+    "title": "Get into MBSE-MBSA process with a dedicated toolchain | ALL4TEC | Capella Webinar",
+    "description": "Presented by:\n\nJean Godot (ALL4TEC)\n\n***\nSlides: https://bit.ly/capella_webinar_220519_slides\n\n***\n\nE/E systems and cyber-physical systems are carrying out more and more advanced and safety critical features in many domains such as transport, energy, industry, farming, medical, etc. Therefore, during last few years, to manage the development of those complex systems, companies have moved from a document-based approach to a model-based approach associated with very specific tools.\n\nHowever, system and safety engineering, and some other related engineering domains like cybersecurity for instance, are still too often conducted independently, whereas safety and system attributes are largely interdependent. There is a need to foster greater collaboration between these disciplines to avoid errors and also to maintain time-to-market.\n\nThat's why since several years, ALL4TEC, with its safety analysis tool Safety Architect, has been working to connect its tool with system solutions to couple MBSE and MBSA. The goal is to better ensure consistency between system design and safety analysis.\n\nDuring this talk, ALL4TEC presents its Capella add-on that allows annotation of Capella models with basic safety information, smart export and dynamic connection to share data between Capella and Safety Architect to support MBSE-MBSA.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "fpF-Jat9GJ4",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "fpF-Jat9GJ4.webp",
+    "playlist_index": 17,
+    "duration_string": "1:05:51"
+  },
+  {
+    "title": "MBSE and Model-Based Testing with Capella | Spherea | Capella Webinar",
+    "description": "Presented by:\n\nBenjamin Bossa (SPHEREA)\n\nBenjamin is a System Architect with +10 years’ experience on simulation and virtual testing. He is currently in charge of model based related activities at SPHEREA, implementing MBSE approach and studying cross engineering domain between System Engineering, Safety Assessment and Testing. He holds a PhD on Fluid dynamics and a Master’s Degree in Physics.\n\nYann Fusero (SPHEREA)\n\nYann is a System Architect with +15 years’ experience on performing and implementing Systems Engineering practices in industrial organizations. He currently leads the Systems Engineering team with architects implementing MBSE approaches on operational projects. His team is in charge of Testability activities which allow definition of optimized test strategy for SPHEREA customers. He holds a PhD on Computer Science, a MSc on Electronics and Signal Processing and Master’s Degree in Engineering in Physics from ESPCI Paris.\"\n\n***\nSlides: https://bit.ly/capella_webinar_220421_slides\n\n***\n\nNowadays, we are surrounded by system of systems, autonomous systems, interconnected systems or distributed heterogeneous systems with an increase in architecture complexity.\n\nKeeping these systems operational is a challenge as the number of potential failures which may affect their availability also increases drastically. In order to optimize availability, maintenance activities have to be designed within the design phase of the system.\n\nWhatever the implementation choice, detection, diagnostic or prevention of failures require tests.\nThe goal for autonomous systems also pushes towards embedded detection and prevention capabilities and thus arguing and decision making between system engineers and maintenance engineers to share solutions in their respective activities.\n\nIn this presentation, we will talk about the ability of a system designed with Capella to be tested, including in the maintenance phase. This means to interconnect several kinds of models representing different perspectives: System Design (MBSE), RAMS Analysis (Reliability, Availability, Maintainability and Safety) and Testability.\n\nWe will present how a MBSE approach with Capella can be used to initiate a testability study performed with the eXpress tool from DSI International.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "HCaJpD9KXh8",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "HCaJpD9KXh8.webp",
+    "playlist_index": 18,
+    "duration_string": "54:25"
+  },
+  {
+    "title": "Capella Annual Message | Thales | Capella Webinar",
+    "description": "Presented by Juan Navas from Thales\n\n***\nSlides: https://bit.ly/capella_webinar_220407_slides\n\n***\n2022, here we are! It's the perfect time to take a look back at 2021 and make plans for 2022!\n\nIn this webinar, Juan Navas presents the major events of 2021, the roadmap for 2022, and the main features included in the latest version of Capella, but also reviews the ecosystem's innovations and the evolutions of the add-ons\n\nJuan Navas is MBSE Expert in Thales Corporate Engineering. He leads the team that accompanies managers and architects implement MBSE practices on operational projects to improve their engineering performance. He is a System Architect with +10 years’ experience, he holds a PhD in Computer Science, an MSc in control and computer science, and Electronics and Electrical Engineering Degrees.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "dqft5DrQENE",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "dqft5DrQENE.webp",
+    "playlist_index": 19,
+    "duration_string": "1:12:28"
+  },
+  {
+    "title": "System of Systems Modeling with Capella | Siemens | Capella Webinar",
+    "description": "Presented by Tony Komar from Siemens\n\n***\nSlides: https://www.slideshare.net/secret/MSkAhP8kCIfrPe\n\n***\nSystem of Systems modeling comes with a tough decision for practitioners using traditional SysML V1 tools. Do I go with SysML V1, or do I look at Unified Architecture Framework? Capella eliminates that challenge with one notation that can be used for both.\n\nTony Komar has been practicing and supporting systems engineering for over 35 years.\nToday he is a key contributor to the development and deployment of model-based system engineering products for Siemens Digital Industries Software.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "WCC_iHyChKQ",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "WCC_iHyChKQ.webp",
+    "playlist_index": 20,
+    "duration_string": "1:04:53"
+  },
+  {
+    "title": "Capella (once again) in space, meeting nano-satellites | Artal | Capella Webinar",
+    "description": "Presented by: \n\n- Jonathan Lasalle - MBSE Specialist\nMBSE Department head at Artal / Magellium \n\n***\nSlides: https://bit.ly/capella_webinar_220120_slides\n\n***\nPreviously, Capella models (slightly extended by new features dedicated to system test specification) was used by the French Space Agency (CNES) to demonstrate that the current document-centric process could be improved. Applied on the “Space Variable Objects Monitor (SVOM)” operational use case, it helped the CNES in the definition and the validation of its future space system dedicated to the gamma ray detection and study. \n\nProof being made, Kineis, created by the CNES and the CLS, reiterates the experience and continues to make it a strategic technology for science. Its current challenge is to add 25 state-of-the-art nano-satellites to the existing system to enhance IoT capabilities and address new markets. In line with the CNES Capella experience, Kineis decided to build its “System Test” process on Capella. \n\nThe extendibility and the flexibility of Capella nevertheless allowed them to carry on the previously initiated toolchain in order to cover the full process and support more use cases.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "_KemiYQ7w70",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "_KemiYQ7w70.webp",
+    "playlist_index": 21,
+    "duration_string": "54:21"
+  },
+  {
+    "title": "Python for Capella | Thales & Obeo | Capella Webinar",
+    "description": "Scripting with Python to interact with Capella model\n\nPresented by: \n- Sophie Plazanet (Thales Group) - MBSE Specialist\nMaster of Engineering & Master of Research in Advanced Systems & Robotics – Arts & Métiers ParisTech\n- Arnaud Dieumegard (Obeo) - Eclipse Modeling Consultant\nPh.D. in Reliability for Systems and Software - INP Toulouse\n\n***\nSlides: https://bit.ly/capella_webinar_211216_slides\n\n***\nHave you ever wanted to easily extract engineering data from your Capella model? Have you ever wanted to easily modify your Capella model and import information into it to update it?\n\nThis webinar will present a prototype Capella Add on that will address several example use cases: \n- Read information from a Capella model and export to Excel, with queries\n- Update information in a Capella model\n- Add elements in a Capella model\n\nThis new Capella add-on uses a common scripting language, not dedicated to Capella: Python. It offers the capacity to use sample scripts addressing basic need and to build its own scripts, with libraries for common add-ons (Requirement, PVMT).\n\nIt’s easy to share, to use, has high customization capabilities support of Capella and Team for Capella, wide compatibility with Capella versions.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "-LEx-stcAHA",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "-LEx-stcAHA.webp",
+    "playlist_index": 22,
+    "duration_string": "33:59"
+  },
+  {
+    "title": "What if you could simulate your Capella model ? | Thales | Capella Webinar",
+    "description": "Presented by Pierre Nowodzienski (THALES)\n\n***\nSlides: https://bit.ly/capella_webinar_210902_slides\n\n***\nWhen designing increasingly complex systems, engineers need to master the behavior of the solution they will deliver, throughout the engineering life-cycle.\n\nArcadia and Capella MBSE practices allow them to share a common understanding of the foreseen solution and to secure the solution definition. In some cases, engineers need to execute their architecture models to early validate the specified behavior, to perform architecture tradeoffs and to provide a reference for further implementation.\n\nThis webinar presented how we address these needs by coupling the best-in-class architectural design practices provided by Capella with the powerful simulation capabilities provided by Matlab & Simulink.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "PXnMfgEoTGM",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "PXnMfgEoTGM.webp",
+    "playlist_index": 23,
+    "duration_string": "47:44"
+  },
+  {
+    "title": "Modeling & Simulation of CubeSat-based Missions'Concept of Operations | Endurosat | Capella Webinar",
+    "description": "The Modeling and Simulation of CubeSat-Based Missions\n\nPresented by Danillo Pallamin de Almeida - Systems Engineer at EnduroSat\n\n***\nSlides: https://bit.ly/capella_webinar_210701_slides\n\n***\nDiscover how Arcadia/Capella is used to model and simulate concept of operations scenarios for CubeSat-based missions. During this webinar, Danilo Pallamin de Almeida, who worked as a Space Systems Engineer for the NanosatC-BR2 mission at INPE, the Brazilian Institute for Space Research, will present how CubeSat-based missions have been modeled with Capella.\n\nThe model describing an initial architecture mission and concept of operations (CONOPS) is used to generate a script that configures a satellite simulator with the corresponding mission parameters.\n\nYou will see how it allows the INPE to:\n\n- run concept of operations scenarios simulations,\n- use the results for power/data-budget analyses and trade studies\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "HhB-Ao1tpaY",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "HhB-Ao1tpaY.webp",
+    "playlist_index": 24,
+    "duration_string": "46:03"
+  },
+  {
+    "title": "Using Capella on a Brazilian Nanosat Project | Federal University of Santa Maria | Capella Webinar",
+    "description": "Discover how MBSE is used on the Brazilian CubeSat development program.\n\nPresented by Giulia Herdies - Aerospace Engineer Student at the Federal University of Santa Maria\n\n***\nSlides: https://bit.ly/capella_webinar_210610_slides\n\n***\nWith two nano satellites already in operation (NANOSATC-BR1 and NANOSATC-BR2), the Brazilian National Institute for Space Research (INPE-MCTI) is currently in the conceptual phase of a third mission (NANOSATC-BR3).\n\nGiulia Herdies from the Federal University of Santa Maria in Brazil, will present how the Capella tool and the Arcadia method are used in the second phase of the project, to develop the concept of this mission.\n\nDuring this webinar, she explains:\n-Why the use of MBSE is vital for development of the conceptual phase, by allowing a global understanding of the mission by all involved.\n \n-How stakeholders' needs and project restrictions were broken down within the operational, functional and physical aspects, which resulted in a preliminary definition of a viable concept solution.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "wMDfoAQqnWI",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "wMDfoAQqnWI.webp",
+    "playlist_index": 25,
+    "duration_string": "56:43"
+  },
+  {
+    "title": "Towards the single source of truth with Publication & Cloud for Capella | Obeo | Capella Webinar",
+    "description": "Towards the single source of truth with Publication for Capella & Cloud for Capella\n\nPresented by: Stéphane Lacrampe - Director of Obeo Canada\n\n***\nSlides: https://bit.ly/capella_webinar_210527_slides\n\n***\nThe Capella tool, through multiple feedbacks and its rapid adoption by the systems engineers community, constitutes a major enabler for the success of this journey. The Arcadia method plays a significant role, by offering a pragmatic vision of MBSE, centered on the practices and concerns of systems engineers.\n\nThe holy grail of the single source of truth is at hand. But a tool like Capella is part of a larger ecosystem of engineering tools. The next challenge is now to make this repository of system data available to all stakeholders and to break down the silos between our engineering activities.\n\nThis webinar, after having introduced the problem, will illustrate how Publication for Capella and Cloud for Capella contribute to making the single source of truth a dream come true.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "teja1DXXy-0",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "teja1DXXy-0.webp",
+    "playlist_index": 26,
+    "duration_string": "1:08:18"
+  },
+  {
+    "title": "Capella in the preliminary design of the micro launcher ENVOL | CT INGENIERIE | Capella Webinar",
+    "description": "Presented by : \n- Julien MORANE, Systems Engineer at CT INGENIERIE\n\n***\nSlides: https://bit.ly/CapellaWebinar_CTEngineering_Slides\n\n\n***\nDiscover why Capella has been chosen by CT Ingenierie and its partners, and how it has been deployed for guaranteeing the correct coordination between teams, requirement following, and for a rigorous description of the sub-systems developed by their partners. \n\nCT Ingenierie is involved in the ENVOL project (European Newspace Vertical Orbital Launcher). Developing a small launch vehicle enabling cheap, frequent, and flexible access to the Low Earth Orbit. \n\nWhat is project ENVOL? \nThe EU-funded ENVOL project intends to establish the first European commercial, competitive and green launch service. \n\nThe project will designate an innovative and industrial low-cost launch system, then demonstrate and advance crucial launcher technologies to guarantee market preparedness and competitiveness, then prepare a business plan and identify the institutions able to attract investments.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "VCJO0n16SQk",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "VCJO0n16SQk.webp",
+    "playlist_index": 27,
+    "duration_string": "1:00:08"
+  },
+  {
+    "title": "What's New: Capella 2021 Annual Message | Thales | Capella Webinar",
+    "description": "Presented by :\n\nJuan Navas: Modelling & Simulation Lead Expert at Thales\n\n***\nSlides: https://bit.ly/CapellaWebinar_WhatsNew2021_slides\n\n***\nLooking back at 2020 and forward into 2021\n\nIn this webinar, Juan Navas will present the major milestones of 2020,\nthe main features included in the brand new Capella 5.0, and the perspectives on the Capella ecosystem.\n\nJuan Navas is MBSE Expert in Thales Corporate Engineering. He leads the team that accompanies managers and architects implement MBSE practices on operational projects to improve their engineering performance.\nHe is a System Architect with +10 years’ experience, he holds a PhD in Computer Science, an MSc in control and computer science, and Electronics and Electrical Engineering Degrees.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "aIBVZtY_Wnw",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "aIBVZtY_Wnw.webp",
+    "playlist_index": 28,
+    "duration_string": "1:02:19"
+  },
+  {
+    "title": "Writing perfect textual requirements in Capella MBSE Tool | The REUSE Company | Capella Webinar",
+    "description": "Presented by \n\n- José Fuentes, Chief Operating Officer at the REUSE Company.\n\n***\nSlides: https://fr.slideshare.net/Obeo_corp/capella-webinar-writing-perfect-textual-requirements\n\n***\nLearn how textual and model requirements are working together towards success!\nWhile Eclipse Capella is a model-based systems engineering environment, it’s also clear that it enables the creation of model requirements that complement textual requirements.\n\nWhen dealing with both, textual and model requirements, ensuring consistency and completeness are key to the final success of our systems.\n\nThis webinar introduces a new add-on for Capella, the so-called RAT for Capella (by The REUSE Company).\n\nIts main goals are:\n- to ensure the correctness of the requirements that are managed within Capella; \n- to help authors follow a pattern to end up with a well-formed requirement;\n- to ensure naming consistency between the model elements and the textual requirements,\n- to provide a complete round-trip in Capella between other Requirements Management System and RAT.\n\nThis webinar describes the RAT for Capella add-on, and provides a live demo of the tool.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "Aqz0vaOo_VM",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "Aqz0vaOo_VM.webp",
+    "playlist_index": 29,
+    "duration_string": "1:05:26"
+  },
+  {
+    "title": "Simplifying MBSE Tasks with Capella and MapleMBSE | Maplesoft | Capella Webinar",
+    "description": "Presented by: \n\n- Paul Goossens, Vice President at MBSE Solutions Maplesoft\n\n- Bharani Mohan, Product Manager at Maplesoft\n\n***\nSlides: https://fr.slideshare.net/Obeo_corp/webinar-simplifying-mbse-tasks-with-capella-and-maplembse\n\n***\nDiscover how to use Excel-based interfaces to collaborate on Capella models.\n\nMapleMBSE 2020.1 adds support for Capella. Organizations using Capella can now edit models within MapleMBSE, allowing them to simplify MBSE tasks and increase engagement with MBSE processes at their company.\n\nDuring this webinar, you will see how to work with a Capella systems model using MapleMBSE\n\nThe demonstration will highlight how all stakeholders can collaborate through the systems model using task-specific, Excel-based interfaces found in MapleMBSE.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "nnqdgxSObk0",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "nnqdgxSObk0.webp",
+    "playlist_index": 30,
+    "duration_string": "54:56"
+  },
+  {
+    "title": "Definition of project profiles to streamline MBSE deployment efforts | AsSystem | Capella Webinar",
+    "description": "Presented by:\n\n- Victor Richet, Technical Engineer at AsSystem\n\n- Benjamin Baudouin, Systems Engineer at AsSystem\n\n***\nSlides: https://fr.slideshare.net/Obeo_corp/capella-webinar-definition-of-project-profiles-to-streamline-mbse-deployment-efforts\n\n***\nDiscover how Capella has been deployed and used in a large range of projects in the field of the energy industry with AsSystem\n\nAsSystem has over 50 years of experience providing industrial infrastructures with engineering services and managing projects complex in size, technological content, and safety requirements.\n\nWith the help of Capella and Model-Based System Engineering (MBSE), AsSystem as a leading engineering company is helping its clients to face big challenges against an exponential increase in demand worldwide for energy combined with the goals of achieving sustainability of energy supply and reductions in greenhouse gas emissions.\n\nDuring this webinar, you will:\n\nGet an overview of their pathway towards MBSE approach to structure projects more and more complex and organizations more and more transverse, their MBSE motivations as a communication means for extended organization, and for co-development within other engineering team.\n\nDiscover how their initiative architecture has provided both a modeling platform and methodology that can be flexibly adapted to best fit their engineering, construction and research context.\n\nUnderstand how their systems architects can closely collaborate with engineers responsible for multiple design, construction and commissioning tasks, within a robust framework to ensure both quick and long term added value.\n\n\nVictor Richet is an engineer in nuclear reactor physics by training. He has solid experience in the design and deployment of digital and digital engineering tools.\n\nBenjamin Baudouin is an atomic engineer by training. He is committed to implementing the deployment of system engineering methods, primarily model-based approaches, on complex nuclear infrastructure projects.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "6ooZ6I0uEDs",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "6ooZ6I0uEDs.webp",
+    "playlist_index": 31,
+    "duration_string": "1:02:05"
+  },
+  {
+    "title": "Academic research case of a lunar lander mission modeled with Capella | ITA | Capella Webinar",
+    "description": "Presented by:\n\n- Mateus Venturini, Aerospace Engineer at the Italien Space Center\n\n***\nSlides: https://fr.slideshare.net/Obeo_corp/capella-webinar-academic-research-case-of-a-lunar-lander-mission-modelled-in-capella\n\n***\nDiscover how Capella has been used in Garatéa Mission,\nthe Brazilian first attempt to send a probe to lunar orbit / surface.\nThe Aeronautics Institute of Technology (ITA) is one of the top engineering Brazilian schools in advanced research in aerospace science and technology.\n\nAstrobotic provides an end-to-end safe delivery service for payloads\nto the Moon. On each delivery mission to the Moon,\nthose are integrated onto a single Peregrine Lunar Lander and then launched on a commercially procured launch vehicle.\n\nMateus Venturini has made researches about one of Garatéa’s mission and its Astrobotic lunar landing vehicle (the Peregrine Lunar Lander). \n\nThe standard physical mounting interface for the payloads needs to be optimized for the specific mission profile. \n\nDiscover how ITA, through the work of Mateus Venturini, used Capella to optimize all the systems of the Peregrine Lunar Lander.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "gHUUM0py7uk",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "gHUUM0py7uk.webp",
+    "playlist_index": 32,
+    "duration_string": "58:30"
+  },
+  {
+    "title": "Effective Communication Network Development through a Model-Based Systems Approach | Capella Webinar",
+    "description": "Using MBSE to deliver effective solutions in the Telecom domain\n\n***\nSlides: https://fr.slideshare.net/Obeo_corp/webinar-capella-effective-communication-network-development-through-a-modelbased-systems-approach\n \n***\nEveryone depends on secure and robust communication networks.\nNowadays communication service providers need to adapt more quickly, with increasing network complexity and financial pressure.\nIt is often necessary to deploy the latest technology to keep up with competitive and capacity demands but, without a systems approach, one still risks user frustration, projects overruns and market delays.\n\nIn such an environment, how does one develop communication network solutions that satisfy stakeholders? There is strong evidence that a model-based systems approach effectively manages complexity and reduces risk. The International Council on Systems Engineering (INCOSE) provides a worked example for communication service providers to achieve competitive advantage.\n\nThis webinar was driven by John Risson and Fabrice Lestideau:\n\nJohn Risson\nDirector and Principal, Anacom Pty Ltd\nChair, INCOSE Telecommunications Working Group\n\nJohn Risson is an engineering manager and senior systems engineer with expertise in the design, implementation and operation of national communication network systems. He enabled successful completion of a complex $1.1B commercial network upgrade program by leading its systems engineering effort. He also assured delivery of a $1B government network by recommending design and operational interventions. He has over 22 years of experience in Australia and East Asia.\nCo-founder of Obeo, Stéphane Lacrampe is Director the North American subsidiary of Obeo in Vancouver, Canada. MBSE enthusiast, Arcadia/Capella evangelist and Open Source advocate, Stéphane is also an active INCOSE member.\n\nFabrice Lestideau\nDirector and Principal, Thinksystems Pty Ltd\n\nOver the last 16 years, Fabrice Lestideau has been involved in the development of complex critical systems such as electronic warfare (C4I + EW), maritime patrol, air traffic control or heavy rail systems. In his roles as Systems Engineering Manager and Solution Architect, he has specialised in model-based systems engineering, providing training in the use of the Arcadia methodology and the Capella Tool developed by Thales. Now working for the Victorian Department of Transport in charge of the development of a transport Network Architecture, he is co leading the development of a commercial telecommunication model for the INCOSE Telecommunication Working Group.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "QGzpp0zC6m0",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "QGzpp0zC6m0.webp",
+    "playlist_index": 33,
+    "duration_string": "1:25:54"
+  },
+  {
+    "title": "Simultaneously edit Capella models with Team for Capella | Obeo | Capella Webinar",
+    "description": "Presented by :\n\n- Stéphane Lacrampe\n\nCo-founder of Obeo, Stéphane Lacrampe is the director of the North American subsidiary of Obeo in Vancouver, Canada. MBSE enthusiast, Arcadia/Capella evangelist, and Open Source advocate, Stéphane is also an active INCOSE member. \n\n***\nSlides: https://fr.slideshare.net/Obeo_corp/webinar-capella-simultaneously-edit-capella-models-with-team-for-capella\n\n***\nDiscover how several users working on an MBSE project can simultaneously edit the same Capella model without conflicts.\n\n[ Automatic fine-grained locking ]\nThanks to a fine-grained locking mechanism, users automatically lock the model elements they are modifying. Modifications are performed on the shared model, and visible to other users as soon as they are saved.\n\nTeam for Capella is a Capella add-on to simply share your models on the same server.\n\nTeam for Capella is owned by Thales Global Services.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\n\nCreative Commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "ijFNJ8oVvzI",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "ijFNJ8oVvzI.webp",
+    "playlist_index": 34,
+    "duration_string": "46:11"
+  },
+  {
+    "title": "Collaborative Model Based System Architecture Development | CNXMotion | Webinar Capella",
+    "description": "Presented by:\n\n- Scott Millsap, Systems architect with CNXMotion\n\nSlides: https://fr.slideshare.net/Obeo_corp/capella-webinar-experiences-with-collaborative-system-architecture-development-within-a-joint-venture-organization\n\nCNXMotion is a joint venture between Continental and Nexteer Automotive.\nDiscover how each member of their engineering team is aligned with a common understanding of the intended system architecture and how with Model Based Systems Engineering (MBSE), they collaboratively develop motion control solutions for autonomous vehicle applications.  \n\nDuring this webinar, you will:\n- Get an overview of their organization’s experiences with using MBSE, their motivations as a communication means for extended organization, and for co-development within other engineering team.\n- Discover how their system architecture tool has provided both a modeling platform and methodology that can be flexibly adapted to best fit their research and development context.  \n- Understand how their systems architects can closely collaborate with engineers responsible for downstream design captures including vehicle and system behavioral simulations, software algorithms, human-machine interfaces, and hardware electrical mechanizations.\n \nThe presentation includes an illustrative example of a Capella model that has lead the design team to a successful demonstration of motion control design concepts, sharing the realized benefits of using MBSE as a collaboration means between internal and external engineering teams.\n\nScott Millsap is a systems architect with CNXMotion, a Continental and Nexteer Automotive joint venture, where he presently leads systems architecture development.  He has deployed the Capella MBSE tool within the company to support design activities with a primary focus on autonomous vehicle research and development. Prior to joining CNXMotion in January 2018, Mr. Millsap has over 25 years of experience in the development of electric power steering systems at Nexteer Automotive, and his key roles have included control systems, systems engineering, and most recently automotive functional safety based from the ISO-26262 standard.",
+    "video_id": "2vYEp7JLtx8",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "2vYEp7JLtx8.webp",
+    "playlist_index": 35,
+    "duration_string": "1:02:06"
+  },
+  {
+    "title": "Fostering MBSE in Engineering culture | Thales | Capella Webinar",
+    "description": "Presented by:\n\n- Juan Navas, Thales\n\n***\nSlides: https://fr.slideshare.net/Obeo_corp/capella-webinar-2020-03-03-fostering-mbse-in-engineering-culture-229813076\n\n***\nJuan Navas is a Systems Architect with +10 years’ experience on performing and implementing Systems Engineering practices in industrial organizations. He accompanies systems engineering managers and systems architects implement Model-Based Systems Engineering and Product Line Engineering approaches in operational projects, helping them defining their engineering strategies, objectives and practices.\n\nThales has been deploying Arcadia and Capella MBSE methods and tools for the past 15 years. As for any journey, there have been many joys and not less difficulties.\n\nDuring this webinar, Thales presents the foundations of their MBSE approach, how their engineering practices have been improved with the use of models, and what are they doing now to sustain and drive this model-based transformation. \n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***",
+    "video_id": "nCM1iEW9L0o",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "nCM1iEW9L0o.webp",
+    "playlist_index": 36,
+    "duration_string": "56:45"
+  },
+  {
+    "title": "What's new in Capella 1.4? (by Thales) | Webinar Capella",
+    "description": "This webinar was driven by Juan Navas (from Thales)\n\nJuan Navas is a Systems Architect with +10 years’ experience on performing and implementing Systems Engineering practices in industrial organizations. He accompanies systems engineering managers and systems architects implement Model-Based Systems Engineering and Product Line Engineering approaches in operational projects, helping them defining their engineering strategies, objectives and practices.\n\nSlides: https://fr.slideshare.net/Obeo_corp/webinar-2020-january-15th-whats-new-in-capella-14\n\nCapella webinar on January 15th, 2020. \n\n00:04 Look back on 2019\n04:31 Assembly of Functional Chains and control constructs\n14:35 New implementation of the concept of Actor \n23:21Capella core evolutions",
+    "video_id": "AhRpOjfyPbk",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "AhRpOjfyPbk.webp",
+    "playlist_index": 37,
+    "duration_string": "1:02:59"
+  },
+  {
+    "title": "Multi-domain product architecture: start integrated, stay integrated | Siemens | Capella Webinar",
+    "description": "Presented by :\n\nPascal Vera, Director of Product Management at Siemens PLM Software\n\n***\nSlides: https://fr.slideshare.net/Obeo_corp/capella-webinar-multi-domain-product-architecture-start-integrated-stay-integrated-206387180\n\n***\nThe electronics industry adage '90% of the components work as designed but 50% fail when you plug them in'\r is multiplied as you bring together electronics, software, and mechanics in today's complex products.\r\n\r\nPreventing these types of cross-product integration problems requires a cross-domain level of thinking supported\r by integrated Model-Based System Engineering (MBSE)\r and architecting solutions that can be continuously verified\r and validated through simulations to identify issues early.\r\n\r\nBased on Capella, and integrated with Teamcenter,\r System Modeling Workbench provides\r an integrated multi-domain product architecture\r\nthat enables a cross-domain digital thread:\r 'start integrated, stay integrated'.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "UXbeECKU38A",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "UXbeECKU38A.webp",
+    "playlist_index": 38,
+    "duration_string": "1:10:50"
+  },
+  {
+    "title": "Model Execution and System Simulation in Capella | Glaway | Capella Webinar",
+    "description": "Presented by Renfel XU\n\n***\nSlides: https://fr.slideshare.net/Obeo_corp/capella-webinar-model-execution-and-system-simulation\n\n***\nDiscover how to do model execution in Capella, and how to embed digital mockup inside functions to do 'system simulation' with a higher confidence.\n\nA common need in system architecture design is to verify that the architect is correct and can satisfy its requirements.\n\nExecution of system architect model means to interact with state machines to test system’s control logic.\nIt can verify if the logical sequences of functions and interfaces in different scenarios are desired.\n\nHowever, only sequence itself is not enough to verify its consequence or output.\n\nSo we need each function to do what it is supposed to do during model execution to verify its output. That's what we called 'system simulation'.\n\n***\nFollow us on our blog and different social networks to stay up to date on upcoming Capella events:\n\nBlog : https://blog.obeosoft.com/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool\nTwitter : https://twitter.com/capella_arcadia\n\n***\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives.",
+    "video_id": "pS0VMtmwa5M",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "pS0VMtmwa5M.webp",
+    "playlist_index": 39,
+    "duration_string": "1:02:06"
+  },
+  {
+    "title": "La méthode Arcadia par l'exemple | Thales | Capella Webinar",
+    "description": "Presented by \n\n- Jean-luc Voirin, Technical Director at Thales\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "NIFayQAueso",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "NIFayQAueso.webp",
+    "playlist_index": 40,
+    "duration_string": "59:59"
+  },
+  {
+    "title": "Functional chains with Arcadia and Capella: Concepts and exploitation (by Thales) | Webinar Capella",
+    "description": "Webinar - September 19th, 2019\n\nDiscover how functional chains play a central role in model-based engineering with Arcadia\nand the Capella open MBSE tool \n\nIn this Webinar, We Will:\n \n- Explore the conceptual aspects of functional chains.\n\n- Provide insights on how functional chains help strengthen architectural design, master incremental development, drive and optimize verification and validation activities, and support non-functional analysis.\n\n- Demonstrate the game-changing evolutions brought to Capella 1.3.1, with the addition of both advanced composition capabilities and sequence/control concepts.\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "ZqvfSURUpIY",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "ZqvfSURUpIY.webp",
+    "playlist_index": 41,
+    "duration_string": "41:15"
+  },
+  {
+    "title": "Introduction to Arcadia Capella with a toy catapult project (by Singapore Univ.) | Webinar Capella",
+    "description": "Discover both Capella and Arcadia with an example of product design \n\nLearn how to build a toy catapult system thanks to the Arcadia method and the Capella open MBSE tool. \n\n\n\nIn this Webinar, We: \n\n- Distinguish between systems engineering, which is concerned with the entire design-build-test-deploy cycle of systems development, and systems architecture, which is concerned \nwith system concept development and architectural design. \n\n- Contrast the System Modeling Language, SysML, \nappropriate for systems engineering, with the more focused tool, Capella, and its associated methodology, Arcadia, \nwhich is more appropriate for systems architecture development. \n\n- Provide an overview of the attractive features of Capella, \nfrom the point of view of initiating modelers into the language of systems architecture and briefly demonstrate our longer free public tutorial.\n\nThis webinar was driven by Professor Peter L. Jackson:\nPr. Jackson is Head, Engineering Systems and Design Pillar at Singapore University of Technology and Design. He served as the Director of the Cornell University Systems Engineering Program and led the introduction of its online Master of Engineering degree program in systems engineering ranked in the top eight such programs by US News and World Report. He published over thirty articles and is the author of an introductory text on systems engineering, 'Getting Design Right: A Systems Approach'. He is a celebrated instructor of industrial engineering and the creator of dozens of experiential learning games and tools.\n\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "K4eU8nj1nok",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "K4eU8nj1nok.webp",
+    "playlist_index": 42,
+    "duration_string": "1:01:20"
+  },
+  {
+    "title": "Arcadia / Capella for a large complex mechanical system (by Rolls Royce) | Webinar Capella",
+    "description": "Rolls-Royce is a pre-eminent engineering company focused on world-class power and propulsion systems.\n\nThis webinar discussed how Rolls-Royce is using Arcadia /  Capella to define the architecture of a large civil aerospace turbofan engine. MBSE promises to help manage system complexity and minimise the associated risk. \n\nThis webinar was driven by Jim Daly:\nJim Daly has nearly forty years’ experience in aerospace engine development: fuel systems; control systems; software development; process improvement and thirteen years in current role as a System Architect at Rolls-Royce, responsible for control system and whole engine architecture and since 2016 deployment of MBSE.\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "njW_zdE_FzI",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "njW_zdE_FzI.webp",
+    "playlist_index": 43,
+    "duration_string": "53:06"
+  },
+  {
+    "title": "What's new in Capella 1.3? (by Thales) | Webinar Capella",
+    "description": "This webinar held on January 2019, mostly focuses on Capella 1.3\n\n0:27 - Capella community: Growing!\n1:54 - Capella Core - Navigations within the workbench, relationships between model elements and diagrams, diagram packaging, hypertext links between diagrams, semantic browser enrichments, diff/merge enrichments, import of sample projects, etc.\n14:03 - Capella Core - Table editing and table visualization\n19:56 - Capella Core - Diagram ergonomics (management of hidden elements, magic connection creation tool, etc.)\n26:08 - Team For Capella - Fine grained change tracking\n31:44 - PVMT add-on - Enrich your Capella models with domain extensions\n34:56 - Filtering add-on - Annotate your model elements with criteria and generate filtered models\n41:49 - Next steps, what we are working on\n\n[If you want to be informed about the next Capella Webinars, send us a message here: https://www.obeo.fr/fr/contact]\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "-YB169e54Sg",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "-YB169e54Sg.webp",
+    "playlist_index": 44,
+    "duration_string": "50:52"
+  },
+  {
+    "title": "Easily enrich Capella models with your domain extensions (by Thales) | Webinar Capella",
+    "description": "This webinar was held on November 2018.\nThis video describes the PVMT add-on for Capella.\n4:24       Presentation of the case study\n12:39     Specify your own domain-specific properties\n20:34     Set and visualize values on model elements’ properties\n32:47     Change the graphical style according to values of properties\n40:33     Get started: install instructions and more\n\n[If you want to be informed about the next Capella Webinars, send us a message here: https://www.obeo.fr/fr/contact]\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "ieVmw54YE94",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "ieVmw54YE94.webp",
+    "playlist_index": 45,
+    "duration_string": "43:34"
+  },
+  {
+    "title": "Modeling states and modes with Arcadia and Capella: method and tool perspectives | Webinar Capella",
+    "description": "Capella is an Open Source MBSE tool (Model-Based Systems Engineering) that has been deployed successfully on a large number of Systems Engineering projects. \n\nMastering modes and states is key to analyze the expected behavior and performance of a system in different spectrums of situations. However, as systems and missions become more complex, the combination of modes and states across system, subsystem, and component levels becomes exponential and jeopardizes this good understanding.\n\nIn this webinar, Stephane Bonnet :\n- Presents the original Arcadia / Capella approach for integrating the study of the impacts of modes and states in architectural design, both from methodological and tooling perspectives.\n- Explains the introduction of the concepts of “configurations” and \"situations” as means to specify and analyze the system in specific contexts.\n\nIf you want to be informed about the next Capella Webinars, send us a message here: https://www.obeo.fr/fr/contact\n\nFollow us on Twitter: @capella_arcadia \nJoin the discussion on LinkedIN:  https://www.linkedin.com/in/capella-mbse-tool/\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "74eKWrSs8hI",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "74eKWrSs8hI.webp",
+    "playlist_index": 46,
+    "duration_string": "35:29"
+  },
+  {
+    "title": "Equivalences and differences between Arcadia/Capella and SysML (by Thales & Obeo) | Webinar Capella",
+    "description": "[If you want to be informed about the next Capella Webinars, send us a message here: https://www.obeo.fr/fr/contact]\n\n00:03 Why do we do this webinar?\n02:56 Disclaimer\n03:22 Arcadia - reminder\n05:14 High-level introduction\n07:29 Similarities / Equivalences\n  08:31 Block Definition Diagram\n  10:05 Internal Block Diagram\n  11:04 Activity Diagram\n  12:56 Sequence Diagram\n  15:07 State Machine Diagram\n  18:18 Use Case Diagram\n  18:57 Requirement Diagram\n  19:39 Parametric Diagram\n20:58 Differences - Functional Analysis\n28:06 Differences - Functions/Components/Interfaces integration \n30:50 Differences - Management of instances \n37:02 Why Capella is not a SysML profile?\n40:05 What about SysML v2 ?\n\nDesigning complex and critical systems requires a level of rigor in engineering practices that only formalized and tool-supported modeling approaches can provide.\n\nThe Arcadia / Capella solution embeds a methodological guidance that constitutes one of its most significant originalities and success factors. By lowering the learning curve for systems engineers, Capella is an enabler for large-scale MBSE adoption.\n\nLargely inspired from several industry standards, Arcadia / Capella simultaneously form an enrichment and a simplification of SysML: a large proportion of the core concepts of the Arcadia method are aligned on the SysML ones, and most SysML diagrams have twins in Capella.\n \n\nIn this webinar, we will:\n \n- Show to which extent Arcadia / Capella can be considered as a “SysML-like” solution, by illustrating diagrams and concepts equivalences\n\n- Present the main differences between SysML and Arcadia / Capella and provide rationales\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "qFfj8K3uj3Y",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "qFfj8K3uj3Y.webp",
+    "playlist_index": 47,
+    "duration_string": "44:46"
+  },
+  {
+    "title": "Variability management with Capella and pure::variants (by pure-systems) | Webinar Capella",
+    "description": "Compared to single product development, developing and maintaining a portfolio of related products comes with additional challenges.\n\nProduct Line Engineering can increase your engineering competitiveness by systematically handling variability across all your engineering assets from requirements to code in a systematic way.\n\nThrough variant management, the development process becomes\nmore efficient, faster, and more reliable.\n\nDiscover how to efficiently outline and manage all parts of products\n \n\nIn this webinar, we will illustrate:\n \n- How the PLE challenges can be tackled for all assets of the development lifecycle using pure::variants and focusing on its integration with Capella.\n \n- Which approach is needed to realize a high reuse rate that minimizes the maintenance effort and maximizes the productivity.\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "_ScqY5CVZoI",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "_ScqY5CVZoI.webp",
+    "playlist_index": 48,
+    "duration_string": "58:37"
+  },
+  {
+    "title": "Thales return on experience: usage of Capella in bid phase of railway signalling  | Webinar Capella",
+    "description": "[Webinar] Use of Capella in bid phase of railway signalling projects, experiences and challenges\n\nIn this webinar, we will illustrate:\n\nHow the different layers of the Arcadia method and its corresponding implementation in Capella could be used to solve several problems occurring in the bid phase.\n\nHow Thales overcame the challenges resulting from the broad variability of solution in the railway signalling business.\n\nspeaker: \nDr Michael Schaefer is working since 1992 for Thales and the redecessor companies Alcatel and SEL as software and system architect in the following areas:\n\n- Software architecture for mail line and urban rail control systems in Germany, Austria and Switzerland\n- System engineering, mainly requirements analysis and management for Signalling Systems of several customers (in Germany (Deutsche Bahn), Saudi-Arabia, Denmark, etc.)\n- System architecture, esp. model based approaches with several UML tools, as well as with Arcadia/Capella for large scale Signalling Systems\n- Working as System Safety expert for Railway Signalling. In this context member of several standardization working groups of CENELEC\n- As Lead System Architect for Main Line Rail Signalling in Thales Germany responsible for developing a Model Based Reference System Architecture to manage the variability of railway signalling solutions\nSince 2015 he is Certified System Engineering Professional (CSEP) of INCOSE.\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "7LaUVdvSwR0",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "7LaUVdvSwR0.webp",
+    "playlist_index": 49,
+    "duration_string": "49:46"
+  },
+  {
+    "title": "Strategies and tools for model reuse with Capella (by Artal and Thales) | Webinar Capella",
+    "description": "How to manage libraries and building blocks?\n\nReusing models or parts of models with Capella\nis not only conceptually appealing, it is a real productivity enabler.\nBut it is also a true challenge!\n\nTechnical solutions initially dedicated to simple duplication\nand synchronisation of model parts have recently evolved\nand now enable multiple, classical use cases of reusing models.\n\nIn this webinar, we will illustrate:\n\nHow the Capella technology of replicable elements (aka REC/RPL) both enables\nflexible design workflows (including instance-driven modeling) and\nmakes possible the modeling of architectures by assembly of building blocks.\n\n\nHow Yuzu leverages Capella to help manage the life-cycle\nof building blocks and model assets, their dependencies,\ntheir versioning, their publication, etc.\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "I28EhAXe-i8",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "I28EhAXe-i8.webp",
+    "playlist_index": 50,
+    "duration_string": "58:38"
+  },
+  {
+    "title": "How is Capella different? (by Thales) | Webinar Capella",
+    "description": "Capella is an Open Source MBSE tool (Model-Based Systems Engineering) that has been deployed successfully on a large number of Systems Engineering projects. This video explains the main differences and highlights what makes Capella successful : the Arcadia method, its coupling with the Capella tool, its comprehensiveness but also the open community supporting it.\n\nIf you want to be informed about the next Capella Webinars, send us a message here: https://www.obeo.fr/fr/contact\n\n00:42 : Introduction : What is Capella ?\n01:44 : Scope - What is Capella meant for ?\n03:49 : Method-coupled. What does this mean ?\n07:54 : Operational analysis - Start with \"why?\"\n09:39 : Comprehensiveness - More than just blocks and interfaces\n19:08 : Comprehensiveness (again) - Architecture evaluation\n23:00 : Engineering continuity. From wishful thinking to implementation\n29:41 : Open Source - What does it mean FOR YOU ?\n32:54 : Purposeful - The story of the \"Mode & States\" evolution\n36:47 : User-driven - Specified (and monitored) by its end-users\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "aefpyMBxB-4",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "aefpyMBxB-4.webp",
+    "playlist_index": 51,
+    "duration_string": "51:51"
+  },
+  {
+    "title": "What's new in Capella 1.2? (by Thales) | Webinar Capella",
+    "description": "Quick tour of the most significant evolutions coming with the version 1.2 of Capella\n\n00:48 - Small evolutions (edition of constraints, semantic browser queries, AQL interpreter, consistency of interfaces)\n6:00 - Beginning of « Not that small evolutions » with Rich Text descriptions\n6:56 - Computed simplified CE/PL\n9:02 - Impacts of modes and states on system execution\n13:40 - Advanced diff/merge policies\n19:11 - Libraries and building blocks (read-only replicas — RPL —  and easy creation of records — REC)\n25:45 - Transfer of elements between projects and libraries\n28:45 - Diagrams ergonomics\n31:01 - Performance\n32:25 - Documentation\n33:12 - GIT (not really covered in this webinar)\n33:55 - Task management and history in Team for Capella\n38:31 - Ecosystem (M2Doc, pure::variants connector, coupling with Safety Architect, Yuzu model asset management)\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "zd6ea5p97NM",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "thumbnail": "zd6ea5p97NM.webp",
+    "playlist_index": 52,
+    "duration_string": "47:24"
+  }
+]
