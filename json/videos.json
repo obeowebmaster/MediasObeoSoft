@@ -1,23 +1,14 @@
 [
   {
-    "title": "Capella Webinars",
-    "description": "Collection of Capella Webinars",
-    "video_id": null,
-    "playlist": null,
-    "playlist_id": null,
-    "thumbnail": ".webp",
-    "playlist_index": null,
-    "duration_string": null
-  },
-  {
     "title": "Powering Capella Champions: Enablers for Model Authoring and Utilization | Siemens | Capella Webinar",
     "description": "Powering Capella Champions: Enablers for Effective Model Authoring and Utilization\n\nPresented by Anthony Komar\nYou can check Anthony Komar's YouTube channel dedicated to Capella right here: https://www.youtube.com/ @innovatingwithcapella  \n \nHosted by Martin Lebourgeois\n\nSlides available here: https://bit.ly/capella_webinar_231214_slides\n\n***\n\nIn today's complex systems engineering landscape, Capella has emerged as a powerful tool for model-based systems engineering (MBSE). This presentation explores key enablers for Capella champions to ensure the successful adoption and utilization of Capella within an organization.\n\nTraining: Effective training is foundational for developing Capella champions. Tailored programs, from beginner to advanced levels, empower individuals to become proficient in Capella. Strategies for designing training programs aligned with organizational goals are discussed.\n\nExtensible Authoring: Capella's extensible authoring capabilities allow customization to specific domains and engineering practices. Developing custom viewpoints, libraries, and domain-specific extensions is crucial for a seamless fit with organizational requirements.\n\nAccessible Model Content: To maximize the impact of Capella models, enabling non-authors to access and utilize model contents is essential. Strategies for visualization, reporting, and data sharing allow stakeholders to extract insights and make informed decisions.\n\nFostering Capella champions is crucial for successful MBSE adoption. Through comprehensive training, enhanced authoring capabilities, and enabling non-authors to leverage model contents, organizations can unlock Capella's potential, driving efficiency and innovation in systems engineering. This presentation offers practical guidance for organizations on their journey to becoming Capella champions and realizing the benefits of MBSE.\n\nAnthony Komar has been practicing and supporting systems engineering for over 35 years. He is a key contributor to the development and deployment of model-based system engineering products for Siemens Digital Industries Software.\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters: \n0:00 - Intro\n2:11 - What is a Champion? And how to become a Capella Champion\n5:50 - Step 1: Building Skills\n11:32 - Step 2: Sharing what you learned\n13:35 - Demonstration\n30:37 - Step 3: Leveraging what was built\n31:45 - Demonstration\n41:25 - Leveraging what was built - The Future\n43:38 - Q&A: How did you learn Python for Capella?\n46:25 - Q&A: For the three models and computed values, is it possible to check compliance between them?\n48:04 - Q&A: What is your Champion advice to get into Capella and Open Source Simulation?\n51:30 - Q&A: How do you connect OpenAI with Capella?\n54:18 - Outro",
     "video_id": "heqUpxDaz_c",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "heqUpxDaz_c.webp",
     "playlist_index": 1,
-    "duration_string": "54:41"
+    "duration": "54:41"
   },
   {
     "title": "A Model Based System Architecture Methodology Leveraging the ARCADIA Method | GWU | Capella Webinar",
@@ -25,9 +16,10 @@
     "video_id": "--9Cnj3XJk0",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "--9Cnj3XJk0.webp",
     "playlist_index": 2,
-    "duration_string": "58:09"
+    "duration": "58:09"
   },
   {
     "title": "Digitally Assisted Design for Safety | Anzen | Capella Webinar",
@@ -35,9 +27,10 @@
     "video_id": "xh7Rvqdo-SE",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "xh7Rvqdo-SE.webp",
     "playlist_index": 3,
-    "duration_string": "57:52"
+    "duration": "57:52"
   },
   {
     "title": "PdQSat: Aplicação MBSE em um projeto universitário | Capella Webinar Portugese",
@@ -45,9 +38,10 @@
     "video_id": "-_xfG4HMAI0",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "-_xfG4HMAI0.webp",
     "playlist_index": 4,
-    "duration_string": "1:21:12"
+    "duration": "1:21:12"
   },
   {
     "title": "Connecting Capella and ModelCenter to Analyze System Architecture | Ansys | Capella Webinar",
@@ -55,9 +49,10 @@
     "video_id": "z5kvjZDaCWU",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "z5kvjZDaCWU.webp",
     "playlist_index": 5,
-    "duration_string": "1:00:11"
+    "duration": "1:00:11"
   },
   {
     "title": "Mastering Arcadia Method: A Deep Dive into Extensive MBSE Resources | Thales | Capella Webinar",
@@ -65,9 +60,10 @@
     "video_id": "Pnm5x7n2kF4",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "Pnm5x7n2kF4.webp",
     "playlist_index": 7,
-    "duration_string": "55:58"
+    "duration": "55:58"
   },
   {
     "title": "Assess the environmental impacts of your system architecture | OBEO | Capella Webinar",
@@ -75,9 +71,10 @@
     "video_id": "3PcidKuh3e8",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "3PcidKuh3e8.webp",
     "playlist_index": 8,
-    "duration_string": "59:41"
+    "duration": "59:41"
   },
   {
     "title": "Assess the environmental impacts of your system architecture | OBEO | Capella Webinar",
@@ -85,9 +82,10 @@
     "video_id": "DVSqUOOjqSY",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "DVSqUOOjqSY.webp",
     "playlist_index": 9,
-    "duration_string": "59:53"
+    "duration": "59:53"
   },
   {
     "title": "Cybersecurity Assets & Threats Modeling with Capella | Thales | Capella Webinar",
@@ -95,9 +93,10 @@
     "video_id": "h1p7CeMbn40",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "h1p7CeMbn40.webp",
     "playlist_index": 10,
-    "duration_string": "56:09"
+    "duration": "56:09"
   },
   {
     "title": "Making Arcadia work for you - a look at framework tailoring in Thales UK | Thales | Capella Webinar",
@@ -105,9 +104,10 @@
     "video_id": "5GzJELbUcAE",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "5GzJELbUcAE.webp",
     "playlist_index": 11,
-    "duration_string": "1:17:04"
+    "duration": "1:17:04"
   },
   {
     "title": "Capella Webinar - Der lange Weg vom Angebot zum Projekt unterstützt durch Capella",
@@ -115,9 +115,10 @@
     "video_id": "TiZa9Hm0sDs",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "TiZa9Hm0sDs.webp",
     "playlist_index": 12,
-    "duration_string": "53:01"
+    "duration": "53:01"
   },
   {
     "title": "Model Simulation and Analysis in Capella | Glaway | Capella Webinar",
@@ -125,9 +126,10 @@
     "video_id": "3jumY0VhZb4",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "3jumY0VhZb4.webp",
     "playlist_index": 13,
-    "duration_string": "49:06"
+    "duration": "49:06"
   },
   {
     "title": "Applying MBSE as a support for Systems Engineering Standards | SAMARES | Capella Webinar",
@@ -135,9 +137,10 @@
     "video_id": "E-obpCZUcqA",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "E-obpCZUcqA.webp",
     "playlist_index": 14,
-    "duration_string": "1:00:49"
+    "duration": "1:00:49"
   },
   {
     "title": "Simulation with Python and MATLAB® | PGM | Capella Webinar",
@@ -145,9 +148,10 @@
     "video_id": "UiE0l-zdabY",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "UiE0l-zdabY.webp",
     "playlist_index": 15,
-    "duration_string": "58:51"
+    "duration": "58:51"
   },
   {
     "title": "Connecting textual requirements and Capella models | TheReuseCompany | Capella Webinar",
@@ -155,9 +159,10 @@
     "video_id": "C07-D3zdFoY",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "C07-D3zdFoY.webp",
     "playlist_index": 16,
-    "duration_string": "54:39"
+    "duration": "54:39"
   },
   {
     "title": "Get into MBSE-MBSA process with a dedicated toolchain | ALL4TEC | Capella Webinar",
@@ -165,9 +170,10 @@
     "video_id": "fpF-Jat9GJ4",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "fpF-Jat9GJ4.webp",
     "playlist_index": 17,
-    "duration_string": "1:05:51"
+    "duration": "1:05:51"
   },
   {
     "title": "MBSE and Model-Based Testing with Capella | Spherea | Capella Webinar",
@@ -175,9 +181,10 @@
     "video_id": "HCaJpD9KXh8",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "HCaJpD9KXh8.webp",
     "playlist_index": 18,
-    "duration_string": "54:25"
+    "duration": "54:25"
   },
   {
     "title": "Capella Annual Message | Thales | Capella Webinar",
@@ -185,9 +192,10 @@
     "video_id": "dqft5DrQENE",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "dqft5DrQENE.webp",
     "playlist_index": 19,
-    "duration_string": "1:12:28"
+    "duration": "1:12:28"
   },
   {
     "title": "System of Systems Modeling with Capella | Siemens | Capella Webinar",
@@ -195,9 +203,10 @@
     "video_id": "WCC_iHyChKQ",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "WCC_iHyChKQ.webp",
     "playlist_index": 20,
-    "duration_string": "1:04:53"
+    "duration": "1:04:53"
   },
   {
     "title": "Capella (once again) in space, meeting nano-satellites | Artal | Capella Webinar",
@@ -205,9 +214,10 @@
     "video_id": "_KemiYQ7w70",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "_KemiYQ7w70.webp",
     "playlist_index": 21,
-    "duration_string": "54:21"
+    "duration": "54:21"
   },
   {
     "title": "Python for Capella | Thales & Obeo | Capella Webinar",
@@ -215,9 +225,10 @@
     "video_id": "-LEx-stcAHA",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "-LEx-stcAHA.webp",
     "playlist_index": 22,
-    "duration_string": "33:59"
+    "duration": "33:59"
   },
   {
     "title": "What if you could simulate your Capella model ? | Thales | Capella Webinar",
@@ -225,9 +236,10 @@
     "video_id": "PXnMfgEoTGM",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "PXnMfgEoTGM.webp",
     "playlist_index": 23,
-    "duration_string": "47:44"
+    "duration": "47:44"
   },
   {
     "title": "Modeling & Simulation of CubeSat-based Missions'Concept of Operations | Endurosat | Capella Webinar",
@@ -235,9 +247,10 @@
     "video_id": "HhB-Ao1tpaY",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "HhB-Ao1tpaY.webp",
     "playlist_index": 24,
-    "duration_string": "46:03"
+    "duration": "46:03"
   },
   {
     "title": "Using Capella on a Brazilian Nanosat Project | Federal University of Santa Maria | Capella Webinar",
@@ -245,9 +258,10 @@
     "video_id": "wMDfoAQqnWI",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "wMDfoAQqnWI.webp",
     "playlist_index": 25,
-    "duration_string": "56:43"
+    "duration": "56:43"
   },
   {
     "title": "Towards the single source of truth with Publication & Cloud for Capella | Obeo | Capella Webinar",
@@ -255,9 +269,10 @@
     "video_id": "teja1DXXy-0",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "teja1DXXy-0.webp",
     "playlist_index": 26,
-    "duration_string": "1:08:18"
+    "duration": "1:08:18"
   },
   {
     "title": "Capella in the preliminary design of the micro launcher ENVOL | CT INGENIERIE | Capella Webinar",
@@ -265,9 +280,10 @@
     "video_id": "VCJO0n16SQk",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "VCJO0n16SQk.webp",
     "playlist_index": 27,
-    "duration_string": "1:00:08"
+    "duration": "1:00:08"
   },
   {
     "title": "What's New: Capella 2021 Annual Message | Thales | Capella Webinar",
@@ -275,9 +291,10 @@
     "video_id": "aIBVZtY_Wnw",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "aIBVZtY_Wnw.webp",
     "playlist_index": 28,
-    "duration_string": "1:02:19"
+    "duration": "1:02:19"
   },
   {
     "title": "Writing perfect textual requirements in Capella MBSE Tool | The REUSE Company | Capella Webinar",
@@ -285,9 +302,10 @@
     "video_id": "Aqz0vaOo_VM",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "Aqz0vaOo_VM.webp",
     "playlist_index": 29,
-    "duration_string": "1:05:26"
+    "duration": "1:05:26"
   },
   {
     "title": "Simplifying MBSE Tasks with Capella and MapleMBSE | Maplesoft | Capella Webinar",
@@ -295,9 +313,10 @@
     "video_id": "nnqdgxSObk0",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "nnqdgxSObk0.webp",
     "playlist_index": 30,
-    "duration_string": "54:56"
+    "duration": "54:56"
   },
   {
     "title": "Definition of project profiles to streamline MBSE deployment efforts | AsSystem | Capella Webinar",
@@ -305,9 +324,10 @@
     "video_id": "6ooZ6I0uEDs",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "6ooZ6I0uEDs.webp",
     "playlist_index": 31,
-    "duration_string": "1:02:05"
+    "duration": "1:02:05"
   },
   {
     "title": "Academic research case of a lunar lander mission modeled with Capella | ITA | Capella Webinar",
@@ -315,9 +335,10 @@
     "video_id": "gHUUM0py7uk",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "gHUUM0py7uk.webp",
     "playlist_index": 32,
-    "duration_string": "58:30"
+    "duration": "58:30"
   },
   {
     "title": "Effective Communication Network Development through a Model-Based Systems Approach | Capella Webinar",
@@ -325,9 +346,10 @@
     "video_id": "QGzpp0zC6m0",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "QGzpp0zC6m0.webp",
     "playlist_index": 33,
-    "duration_string": "1:25:54"
+    "duration": "1:25:54"
   },
   {
     "title": "Simultaneously edit Capella models with Team for Capella | Obeo | Capella Webinar",
@@ -335,9 +357,10 @@
     "video_id": "ijFNJ8oVvzI",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "ijFNJ8oVvzI.webp",
     "playlist_index": 34,
-    "duration_string": "46:11"
+    "duration": "46:11"
   },
   {
     "title": "Collaborative Model Based System Architecture Development | CNXMotion | Webinar Capella",
@@ -345,9 +368,10 @@
     "video_id": "2vYEp7JLtx8",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "2vYEp7JLtx8.webp",
     "playlist_index": 35,
-    "duration_string": "1:02:06"
+    "duration": "1:02:06"
   },
   {
     "title": "Fostering MBSE in Engineering culture | Thales | Capella Webinar",
@@ -355,9 +379,10 @@
     "video_id": "nCM1iEW9L0o",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "nCM1iEW9L0o.webp",
     "playlist_index": 36,
-    "duration_string": "56:45"
+    "duration": "56:45"
   },
   {
     "title": "What's new in Capella 1.4? (by Thales) | Webinar Capella",
@@ -365,9 +390,10 @@
     "video_id": "AhRpOjfyPbk",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "AhRpOjfyPbk.webp",
     "playlist_index": 37,
-    "duration_string": "1:02:59"
+    "duration": "1:02:59"
   },
   {
     "title": "Multi-domain product architecture: start integrated, stay integrated | Siemens | Capella Webinar",
@@ -375,9 +401,10 @@
     "video_id": "UXbeECKU38A",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "UXbeECKU38A.webp",
     "playlist_index": 38,
-    "duration_string": "1:10:50"
+    "duration": "1:10:50"
   },
   {
     "title": "Model Execution and System Simulation in Capella | Glaway | Capella Webinar",
@@ -385,9 +412,10 @@
     "video_id": "pS0VMtmwa5M",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "pS0VMtmwa5M.webp",
     "playlist_index": 39,
-    "duration_string": "1:02:06"
+    "duration": "1:02:06"
   },
   {
     "title": "La méthode Arcadia par l'exemple | Thales | Capella Webinar",
@@ -395,9 +423,10 @@
     "video_id": "NIFayQAueso",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "NIFayQAueso.webp",
     "playlist_index": 40,
-    "duration_string": "59:59"
+    "duration": "59:59"
   },
   {
     "title": "Functional chains with Arcadia and Capella: Concepts and exploitation (by Thales) | Webinar Capella",
@@ -405,9 +434,10 @@
     "video_id": "ZqvfSURUpIY",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "ZqvfSURUpIY.webp",
     "playlist_index": 41,
-    "duration_string": "41:15"
+    "duration": "41:15"
   },
   {
     "title": "Introduction to Arcadia Capella with a toy catapult project (by Singapore Univ.) | Webinar Capella",
@@ -415,9 +445,10 @@
     "video_id": "K4eU8nj1nok",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "K4eU8nj1nok.webp",
     "playlist_index": 42,
-    "duration_string": "1:01:20"
+    "duration": "1:01:20"
   },
   {
     "title": "Arcadia / Capella for a large complex mechanical system (by Rolls Royce) | Webinar Capella",
@@ -425,9 +456,10 @@
     "video_id": "njW_zdE_FzI",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "njW_zdE_FzI.webp",
     "playlist_index": 43,
-    "duration_string": "53:06"
+    "duration": "53:06"
   },
   {
     "title": "What's new in Capella 1.3? (by Thales) | Webinar Capella",
@@ -435,9 +467,10 @@
     "video_id": "-YB169e54Sg",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "-YB169e54Sg.webp",
     "playlist_index": 44,
-    "duration_string": "50:52"
+    "duration": "50:52"
   },
   {
     "title": "Easily enrich Capella models with your domain extensions (by Thales) | Webinar Capella",
@@ -445,9 +478,10 @@
     "video_id": "ieVmw54YE94",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "ieVmw54YE94.webp",
     "playlist_index": 45,
-    "duration_string": "43:34"
+    "duration": "43:34"
   },
   {
     "title": "Modeling states and modes with Arcadia and Capella: method and tool perspectives | Webinar Capella",
@@ -455,9 +489,10 @@
     "video_id": "74eKWrSs8hI",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "74eKWrSs8hI.webp",
     "playlist_index": 46,
-    "duration_string": "35:29"
+    "duration": "35:29"
   },
   {
     "title": "Equivalences and differences between Arcadia/Capella and SysML (by Thales & Obeo) | Webinar Capella",
@@ -465,9 +500,10 @@
     "video_id": "qFfj8K3uj3Y",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "qFfj8K3uj3Y.webp",
     "playlist_index": 47,
-    "duration_string": "44:46"
+    "duration": "44:46"
   },
   {
     "title": "Variability management with Capella and pure::variants (by pure-systems) | Webinar Capella",
@@ -475,9 +511,10 @@
     "video_id": "_ScqY5CVZoI",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "_ScqY5CVZoI.webp",
     "playlist_index": 48,
-    "duration_string": "58:37"
+    "duration": "58:37"
   },
   {
     "title": "Thales return on experience: usage of Capella in bid phase of railway signalling  | Webinar Capella",
@@ -485,9 +522,10 @@
     "video_id": "7LaUVdvSwR0",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "7LaUVdvSwR0.webp",
     "playlist_index": 49,
-    "duration_string": "49:46"
+    "duration": "49:46"
   },
   {
     "title": "Strategies and tools for model reuse with Capella (by Artal and Thales) | Webinar Capella",
@@ -495,9 +533,10 @@
     "video_id": "I28EhAXe-i8",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "I28EhAXe-i8.webp",
     "playlist_index": 50,
-    "duration_string": "58:38"
+    "duration": "58:38"
   },
   {
     "title": "How is Capella different? (by Thales) | Webinar Capella",
@@ -505,9 +544,10 @@
     "video_id": "aefpyMBxB-4",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "aefpyMBxB-4.webp",
     "playlist_index": 51,
-    "duration_string": "51:51"
+    "duration": "51:51"
   },
   {
     "title": "What's new in Capella 1.2? (by Thales) | Webinar Capella",
@@ -515,8 +555,823 @@
     "video_id": "zd6ea5p97NM",
     "playlist": "Capella Webinars",
     "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@EclipseCapella",
     "thumbnail": "zd6ea5p97NM.webp",
     "playlist_index": 52,
-    "duration_string": "47:24"
+    "duration": "47:24"
+  }, 
+  {
+    "title": "Capella - Tutoriel : La Sonnette Electronique 1/2",
+    "description": "Nous vous proposons de prendre 20 minutes pour une approche très pédagogique de la modélisation système sous Capella. \nNous avons choisi un modèle très simpliste de façon à prendre le temps d'expliquer les différentes phases de la modélisation.\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "6B0AtWEdj9I",
+    "playlist": "Capella - The technology",
+    "playlist_id": "PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "6B0AtWEdj9I.webp",
+    "playlist_index": 13,
+    "duration": "27:48"
+  },
+  {
+    "title": "Capella - Tutoriel : La Sonnette Electronique 2/2",
+    "description": "Tutoriel Modélisation Système avec Capella : de l'intérêt de l'architecture logique - La Sonnette Electronique - FR\n\nRéutilisation du modèle déjà réalisée, celui de la sonnette, pour vous montrer l’intérêt de l’architecture logique.\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "OHBgrSGVdLY",
+    "playlist": "Capella - The technology",
+    "playlist_id": "PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "OHBgrSGVdLY.webp",
+    "playlist_index": 14,
+    "duration": "30:38"
+  },
+  {
+    "title": "Capella Talk @ EclipseCon NA 215 - The Pitch",
+    "description": "Capella Talk @ EclipseCon NA 2014, San Francisco\n\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "whg79Xr_r6w",
+    "playlist": "Capella - The technology",
+    "playlist_id": "PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "whg79Xr_r6w.webp",
+    "playlist_index": 20,
+    "duration": "55"
+  },
+  {
+    "title": "Fostering MBSE in the engineering culture",
+    "description": "Keynote speech of INCOSE IW 2020 at Los Angeles on Jan 25th, 2020.",
+    "video_id": "nxIB65aa4JE",
+    "playlist": "Capella - The technology",
+    "playlist_id": "PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "nxIB65aa4JE.webp",
+    "playlist_index": 31,
+    "duration": "27:47"
+  },
+  {
+    "title": "Collaborative Model-Based Engineering and Large Systems Development | ESA | Capella Days 2023",
+    "description": "Presented by Catherine Morlet and Alberto González from the European Space Agency.\nThe slides of the presentation are available right here: https://bit.ly/CD23_ESA_slides\n\n***\nThis presentation reports on the collaborative Model-Based System Engineering (MBSE) approach followed for Galileo Second Generation using Team4Capella. We address the choices made and methodology applied in Phase B of the system design activity in the past years, with a team spread in different companies’ and geographically distributed. We address the handling of branches of model at different security classification levels with an approach based on synchronising branches rather than split of a large model that makes it suitable for parallel development thus compatible with schedule/time-keeping constraint of the project. Overall, there is a need of rigorous methodology to facilitate synchronisation activities, to have common development approaches including terminology/nomenclature to identify relevant classified items (functions, exchange item, scenarios, etc.), and to document/textualized the information allowing for automatic and frequent generation of the design documentation. \nIn large projects, team members are involved in different roles, thus implying “rules” as well on who is acting on a part of a model. But also, some may be focused on review/supervision of the model which implies the need for means for commenting models rather than developing. Instead of exporting (e.g. in word documents) we expect that tools such as “Publication for Capella” would help enlarging the users of MBSE within the team.\nAnother area under investigation is the collaboration across teams to ensure digital continuity throughout the disciplines or sub-systems. We are starting to use the system-to-subsystem transition plugin with the aim to maintain interfaces between sub-systems and specification of each subsystem, and apportion some engineering parameters between subsystems thanks to a model. Direct interaction at model level is expected, and, through synchronisation mechanisms, integrate at the system level the outcomes from the subsystems in a form of a federated model.\n\n***\nReferences: \nEmbarking to end-to-end system modelling for Galileo Second Generation\npresented at MBSE2022 in Toulouse\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Intro and Outline\n1:30 - Galileo and its complexity\n6:09 - Collaborative end-to-end system design including security levels\n17:03 - Collaboration among stakeholders \n27:39 - Concluding remarks\n34:23 - Q&A: Can Capella be used to asses change options for complex system?\n35:15 - Q&A: Do you use other tools along with Capella to manage requirements?\n36:40 - Q&A: How did you managed all the interfaces?\n38:00 - Q&A: Have you worked with external team using SysXML?\n39:53 - Q&A: Questions concerning the internal and external teams.\n44:41 - Q&A: Why you choose to use Capella?\n46:40 - Outro",
+    "video_id": "feENMW8uB8Q",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "feENMW8uB8Q.webp",
+    "playlist_index": 1,
+    "duration": "46:47"
+  },
+  {
+    "title": "Introducing MBSE in an Organization Successfully | Thales | Capella Days 2023",
+    "description": "Presented by Erik Visser from Thales\nThe slides of the presentation are available right here: https://bit.ly/CD23_Thales_slides\n\n***\nDo you strongly believe in Model Based System Engineering? Do you think MBSE leads to building better products? Do you really love Capella? So did we!\nNevertheless, when we attempted to introduce model based system engineering in our organization a couple of years ago, we failed to make that a success.\nApparently, introducing MBSE, Arcadia and Capella in an organization requires more than just the manual for Capella and reading Jean-Luc Voirin's great book on Arcadia.\n\nThis presentation will share the experiences and the lessons we learned, that allowed us to (re)introduce MBSE in our organization successfully.\n\n***\nReferences: \nhttps://www.thalesgroup.com/fr/marches/defense-et-securite/radio-communications/communications-terrestres/gamme-produits-sotas\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Intro\n1:33 - SOTAS product overview\n3:34 - First time introducing MBSE\n10:55 - A fresh start to MBSE\n16:04 - Putting MBSE into practice\n30:20 - In Summary: What we did to introduce MBSE successfully\n32:42 - Q&A: Did you identified a dedicated role within the organisation?\n35:14 - Q&A: What are the benefits of Capella over other modelling tools?\n36:16 - Q&A: Is the electronics hardware team using Capella?\n37:45 - Q&A: Is there a certain rule for seperating products from components?\n41:22 - Q&A: Is it possible to do a reliability analysis in Capella?\n41:48 - Q&A: How to perform bidirectional traceability in Capella?\n43:31 - Q&A: Is the model also used for information between Detailed Designers?\n45:20 - Q&A: What is the best solution to train teams on Capella?\n47:08 - Outro",
+    "video_id": "aUfJkQvWCJQ",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "aUfJkQvWCJQ.webp",
+    "playlist_index": 2,
+    "duration": "47:14"
+  },
+  {
+    "title": "Model-Driven Design of an Electromechanical Actuation System | Anzen & CESA | Capella Days 2023",
+    "description": "Model-Driven Design and Development of an Electromechanical Actuation System\n\nPresented by Elena García from CESA Héroux Devtek & Luis Cárdenas from Anzen Engineering\nThe slides presentations are available right here: Capella Days 2023 - S1T3 - CESA & Anzen Engineering\n\n***\nCoordination of multidisciplinary teams is often a challenge when facing the design and development of complex systems subjected to strict product policies such as the standards applicable in the aeronautics industry.\n\nModel-based systems engineering, and more generally, model-driven approaches to design and develop such systems offer alternatives to facilitate the work of the main stakeholders involved in the process. In particular, the paradigms of centralized source of information, enhanced traceability or automated analysis speed-up significantly the design and verification tasks and reduce the sources of errors; which results in an overall gain of quality in the engineering processes.\n\nIn this talk we will showcase the implementation of a model-driven approach to the design and development of an electromechanical actuator conceived to control the aerodynamic surfaces of a conventional aircraft. Our industrial partner is involved in a transformation process towards the digitalization of their engineering activities and is interested in particular in using MBSE as a way to foster collaboration between teams and ensure consistency across different engineering tasks.\n\nOur work started with an analysis of different MBSE tools, evaluating the suitability of such tools to meet a set of criteria considered relevant to support efficiently the process, not only at systems engineering level, but also coupling with other engineering disciplines that will interact with the model. For different reasons that will be detailed in the webinar Capella was selected as the reference platform for this activity.\n\nUsing Capella, the stakeholder needs for the electromechanical actuator have been analyzed and developed across the system, logical and physical architectures. In the talk, the main features of the system will be described, emphasizing the specificities of the model that allow the coordination and sharing of information between teams (mainly electronics, simulation and RAMS).\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Summary & introduction to the company\n1:42 - Project Scope\n3:50 - Electromechanical Actuation System\n11:30 - MBSE tools trade-off\n14:00 - Digital Engineering Framework\n18:12 - Requirements Management with IBM DOORS\n20:40 - System Model\n27:35 - ATICA4Capella - Safety Metamodel\n29:03 - ATICA4Capella - MBSA & FHA\n30:31 - ATICA4Capella - Requirements Viewpoint\n31:21 - ATICA4Capella - MBSA Logical level\n32:07 - Failure net/FMES Generation\n33:33 - Connection with Simulink\n34:34 - Conclusions\n37:20 - Next Steps\n38:13 - Q&A: How does Capella differ from Reliability Workbech by Isograph?\n40:01 - Q&A: How much time did it take to develop the model?\n42:07 - Q&A: How do you connect Capella to Simulink?\n42:59 - Q&A: Does ATICA support user-defined enumerations for risk assessment?\n43:50 - Q&A: Question about the model development for EMA.\n48:30 - Outro",
+    "video_id": "InuatecgwwU",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "InuatecgwwU.webp",
+    "playlist_index": 3,
+    "duration": "48:37"
+  },
+  {
+    "title": "COMAC Practice to Conduct MBSA in Avionics System Based on Capella | COMAC & PGM | Capella Days 2023",
+    "description": "Practice in COMAC to Conduct MBSA in Avionics System Based on Capella\nPresented by Wan Rang from COMAC, Weizhen Yan and Renfei Xu from PGM.\nThe slides presentation are available right here: https://bit.ly/CD23_COMAC_PGM_slides\n\n***\nCOMAC is one of the world's leading civil aircraft suppliers, and its avionics system architecture design is completed based on Capella. We will introduce how we extend Capella in COMAC to support 4761-compliant MBSA work. It includes how to define failure conditions in Capella PA model, how to carry out failure propagation modeling on Capella function, behavioral physical component, and node physical component, how to automatically generate fault trees for failure conditions, and how to carry out safety analysis based on the calculation results of the minimum cut set of each fault tree, and so on.\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Introduction\n2:34 - Avionic Systems overview\n5:43 - Practice of MBSA in SADRI (COMAC)\n7:10 - Our technical path\n8:28 - Overview of COMSPEC\n10:10 - MBSA analysis process based on MBSE modeling\n11:37 - Functional and Physical Architecture\n13:33 - Functional/Physical Architecture analysis - FM Management\n14:48 - Functional/Physical Architecture analysis - FPM\n16:34 - Functional/Physical Architecture analysis - FC Management\n17:38 - FT Analysis\n18:30 - Safety Analysis\n22:20 - Demonstration\n25:55 - Summary\n28:16 - Q&A: What benefit does COMSPEC offers?\n29:28 - Q&A: Did you use Capella features for the Fault/Failure Mode analysis?\n30:04 - Q&A: Can Capella automatically generate the requirements for FDAL/IDAL?\n30:50 - Q&A: How are external events managed?\n31:34 - Q&A: Does Capella support multi-languages?\n32:25 - Q&A: Can COMSPEC run ISO26262\n33:35 - Q&A: What is the learning curve for this add-on?\n34:02 - Q&A: How many system layers were in scope for cascade analysis?\n34:51 - Q&A: Is COMSPEC free to download?\n35:06 - Q&A: Are there any new features you are planning for the future of Capella?\n36:00 - Q&A: On which kind of application COMSPEC has been used?\n36:55 - Q&A: Can the tool help to produce FMEA or FMECA\n37:26 - Outro",
+    "video_id": "JFJ1F_PN6vY",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "JFJ1F_PN6vY.webp",
+    "playlist_index": 4,
+    "duration": "37:32"
+  },
+  {
+    "title": "Capella for Modelling CubeSat: Tailored SE Process | BlueKei | Capella Days 2023",
+    "description": "Capella for Modelling CubeSat: Tailored SE Process for Leveraging Model-Based Systems Engineering\nPresented by Suvigya Gupta, Dhirendra Singh and Stueti Gupta from BlueKei Solutions.\nThe slides presentations are available right here: https://bit.ly/CD23_BlueKei_slides\n\n***\nCubeSat developers face a unique set of challenges when designing and deploying small satellite systems. They are continually striving to enhance reliability and efficiency of these small satellite systems. Evolving mission requirements arise a need to provide for objective evidence of mission assurance. Systems Engineering approach backed up by MBSE practices can enable minimizing project disruptions by optimizing and ensure that CubeSats can adapt to evolving mission requirements. This could facilitate efficient resource allocation, minimize design errors, and enhance overall mission success. CubeSat developers can optimize operational and system analysis, construct a comprehensive End Product Breakdown Structure, tailor SE efforts to the development lifecycle, and effectively tackle common development challenges, such as compatibility issues during integration and testing. \n\nThe goal of this presentation is to enable CubeSat developers seamlessly integrate SE practices along with MBSE into their existing workflows.\n\nKeeping our assumptions close to industry practice, a model has been developed relying on available literature on CubeSat development using Capella. Using the model as reference, this presentation will be highlighting on proposed tailored SE process that is intended to provide a strategic advantage by enabling more predictable project outcomes. The model will be focused on supporting systematic decomposition of CubeSat functions and architectures to gain a clearer understanding of system's operational logic and physical components. It would also address effective interface management and agile development using functional chain that could further contribute to increased redundancy for CubeSat.\n\nIn conclusion, by embracing SE & MBSE practices, it is intended to promote the development of CubeSats that remain reliable throughout their operational lifetimes, furthering advancements in space exploration, scientific research, and technology demonstration.\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Speakers introduction\n3:15 - Outline\n4:15 - CubeSats in a nutshell\n7:22 - Where lies the complexity?\n13:25 - How does SE and MBSE help manage complexity?\n14:39 - Vee Model\n17:18 - Digital Thread - Traceability\n18:42 - Scope of Modeling\n19:27 - How does system model contribute to dealing with the technical-management challenges?\n20:15 - Operational Analysis\n22:05 - System analysis\n25:00 - Architecture\n29:16 - System Model - Observations\n33:30 - Conclusion\n35:25 - Q&A: Can we use Capella or Matlab for appropriate physical outcome?\n36:47 - Q&A: What is the length of the Full System Model?\n37:50 - Q&A: How are Non-Functional Requirements handled in Capella?\n39:38 - Q&A: Can we generate electrical ICD from physical model?\n41:20 - Q&A: Question from the chairman regarding alternative trade-offs\n43:35 - Outro",
+    "video_id": "qTqXMTwf_wE",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "qTqXMTwf_wE.webp",
+    "playlist_index": 5,
+    "duration": "43:41"
+  },
+  {
+    "title": "Enterprise Modelling for Lifecycle Engineering | Siemens DISW | Capella Days 2023",
+    "description": "Enterprise Modelling for Lifecycle Engineering on the Example of Sustainability.\nPresented by Chantal Sinnwell and Michael Bitzer from Siemens Digital Industries Software\nThe slides presentations are available right here: https://bit.ly/CD23_Siemens-DIS_slides\n\n***\nSystems Engineering is a methodology to design complex systems in interdisciplinary teams from concept to production to operation. It considers the complete problem with its business and technical needs: operations, cost and schedule, performance, training, support, test, manufacturing, and many more. Companies that strive to become Digital Enterprises can leverage Systems Engineering as an approach to consider a company as a System-of-Systems with its individual lifecycles and ecosystems along their Digital Transformation.\nWhen applying model-based Systems Engineering (MBSE) to model required Digital Enterprise capabilities, this approach also supports companies in understanding the impact of topics like e.g. Sustainability. Sustainability impacts a company’s product portfolio, manufacturing systems, service delivery as well as most other business processes. Though, sustainability-oriented approaches like Lifecycle Engineering are necessary, to consider the comprehensive technical, environmental, and economic impacts of decisions within the Enterprise System Lifecycle.\nThis talk will explain – based on a comprehensive example on digital farming solutions – how System Engineering can be applied to understand causalities in Enterprise Systems and to come to meaningful strategic business decisions. It will illustrate how Capella Models can be used for MBSE of agricultural Enterprise Systems with their Products (e.g. grain, meat, milk), Manufacturing Systems (fields, agricultural machinery, stables), Business Processes (e.g. sowing, fertilizing, harvesting, milking) and Ecosystems (e.g. agricultural machinery manufacturers, contract workers, satellite data providers). This talk will also demonstrate, how such Capella Models can consequentially be leveraged to apply the method of Lifecycle Engineering to understand the impact of lifecycle-spanning topics like Sustainability on the Architecture of Enterprises, its Products, Manufacturing systems and Business Processes.\n\n***\nReferences:\n-C. Sinnwell, S. Faust: Expand MBSE into Model-based Production Engineering (MBPE) to realize a Lego Manufacturing System, Conference “Capella Days 2022”, November 15th-17th, 2022, virtual event, https://www.youtube.com/watch?v=_AOLKk8UmIs. \n-C. Sinnwell: Model-based Production Engineering (MBPE) – Modellbasierte, konzeptionelle Produktionssystemplanung auf Basis früher Produktinformationen, Conference “TdSE 2022”, November 16th-18th, 2022, Paderborn, Germany.\n-M. Bitzer: Introduction Advanced Systems Engineering for regulated Industries using the example of MedTech, Conference “system:ability”, May 23th-24th, 2023, Paderborn, Germany, https://www.systemability.de/gesamtes-programm/. \n-G. Schweitzer, M. Bitzer, M. Vielhaber: Engineering Graph as an approach to support design decisions in product development, International Conference on Engineering Design (ICED23), July 24th-28th, 2023, Bordeaux, France, https://doi.org/10.1017/pds.2023.163.\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Agenda\n1:46 - Introduction to Siemens & Industrial Eco-system\n5:39 - Context : Digital Farming Solutions\n10:28 - Example - Modelling of Entreprise Eco-System with ARCADIA\n28:27 - Summary & Lessons Learned\n30:55 - Q&A: Do you currently apply this approach for project work?\n33:05 - Q&A: Have you applied this approach for many farms already?\n33:29 - Q&A: How can Capella/SMW enhance the Operations (ERP/MES)?\n36:14 - Q&A: Did you look at trade space analysis to help identify optimum solutions within the model?\n36:54 - Q&A: Can we handle the statistics, budget etc. using the model based approach in life cycle engineering or limit to the systems and products?\n37:43 - Q&A: Is Capella one of MBSE tool within Siemens PLM Software suite?\n38:20 - Outro",
+    "video_id": "DrleE6R5Li8",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "DrleE6R5Li8.webp",
+    "playlist_index": 6,
+    "duration": "38:26"
+  },
+  {
+    "title": "Capella MBSE Integration for Robotic Arm Development | Redwire Space Europe | Capella Days 2023",
+    "description": "Presented by Vinayak Vadlamani from Redwire Space Europe.\nThe slides of the presentation are available right here: https://bit.ly/CD23_Redwire-Space-Europe_slides\n\n***\nThe Staark robotic arm development depends on integration of over 200 interfaces between various electromechanical components, spacecraft interfaces and user interfaces for ground support. Capella was piloted for a part of the development that was integrated with the Concept of Operations of robotics development to enable to capture and verify implementation of required features into Staark to enable such tightly coupled systems.\n\n***\nReferences:\nhttps://indico.esa.int/event/321/contributions/6360/\nhttps://redwirespace.com/\nhttps://satsearch.co/products/redwirespace-staark-leo-s10-robotic-arm\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters: \n0:00 - Intro\n1:01 - Presentation of the Product\n3:49 - Speaker presentation\n5:17 - Why MBSE, Why Capella?\n8:29 - Existing Robotic Servicing Architecture\n10:40 - System of Interest\n12:18 - Example ConOps for Capella\n13:35 - Operational Entities/Capabilities\n18:03 - Operational Analysis\n19:40 - Operational Sequence\n21:10 - Demonstration on Capella\n23:16 - Mission-Capability\n24:34 - Development of system functions\n26:42 - Architecture of system analysis\n29:10 - Demonstration on Capella\n30:32 - Robot Specification Network\n31:42 - PVMT Assignment\n34:54 - Conclusion\n36:50 - Q&A: How does Staark OE allign with Arcadia OA layer?\n37:43 - Q&A: Size of the team on the project\n39:00 - Q&A: Your system level look like a logical architecture one\n40:35 - Q&A: What's your rational on these OC?\n42:08 - Q&A: how to show graphically the performance evaluation?\n43:34 - Q&A: Why integrating the Development Efforts & System Activities Phases?\n45:07 - Q&A: Any reason to have the Staark as a unique component of OSV?\n46:40 - Outro",
+    "video_id": "speha6u-Upo",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "speha6u-Upo.webp",
+    "playlist_index": 7,
+    "duration": "46:47"
+  },
+  {
+    "title": "Enhance the Efficiency of Systems Engineering | Capgemini Engineering | Capella Days 2023",
+    "description": "Enhance the Efficiency of Systems Engineering with a Tailoring of SE Processes and ARCADIA Method.\n\nPresented by Bruno Vuillemin from Capgemini Engineering.\nThe slides of the presentation are available right here: https://bit.ly/CD23_Capgemini-engineering_slides\n\n***\nThe latest INCOSE Handbook V5 defines the Tailoring to “adapt the processes to ensure that they meet the needs of an organisation or a project”.\nThe objective of this paper and presentation is to share a tailoring approach defined by CAPGEMINI Engineering for System Engineering processes and ARCADIA method. This approach is generic and is used into several projects for Energy and Railway industries.\nThe objective of this approach is to enhance the efficiency (value driven) of the System Architecting and Engineering activities on a project. \nThe principle of the tailoring approach is to focus from “generic” (coming from SE standards or general-purpose ARCADIA description or general-purpose usage of CAPELLA tool) down to a “specific” (applicable by the project team for the objectives and the context of a real project).\nThis approach is based on a framework (to define generic standards, processes and method). Then, several steps of the approach allow to tailor generic processes and the ARCADIA method. Then, the tailored SE processes and the tailored ARCADIA method are formalized into documents to allow their concrete application on a real project by the project team.\nThe tailoring framework defined by CAPGEMINI is composed of 1) a BPMN model of SE processes, activities and tasks from ISO15288 / INCOSE Handbook, 2) a generic datamodel of SE concepts used by processes, 3) an ARCADIA cartography of levels, objects and views.\nThe steps of the approach allow to define SE/MBSE added values expected by the project. Then a ranking of complexity of the System of Interest will support the tailoring of SE processes and ARCADIA method.\nTo support the concrete application of the project, the output of the tailoring approach is a SEMP document (System Engineering Management Plan) for the project and a MBSE method based on ARCADIA. Trainings sessions on the MSBE tailored method and on the CAPELLA tool allow a right deployment on the project.\nMBSE models are means and not objectives.\n\n***\nReferences:\nhttps://sebokwiki.org/wiki/Application_of_Systems_Engineering_Standards\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Intro and summary\n1:33 - Capgemini Engineering and its team\n6:50 - Clients\n7:36 - Tailoring? Why and added value\n10:39 - Generic vs Realistic?\n15:20 - Tailoring of SE Processes\n32:05 - Tailoring of MBSE Arcadia Method\n36:59 - Conclusion\n39:02 - Q&A: Some examples of System Engineering KPIs?\n40:53 - Q&A: Any rules to know when to stop with the level of detail in the model?\n43:28 - Q&A: How did you validate this tailoring framework?\n46:00 - Outro",
+    "video_id": "eGUXapUU58U",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "eGUXapUU58U.webp",
+    "playlist_index": 8,
+    "duration": "46:06"
+  },
+  {
+    "title": "In Pursuit of Robust Failure Mode Effects Analysis | p2m Berlin & ManTech | Capella Days 2023",
+    "description": "In Pursuit of Robust Failure Mode Effects Analysis in the Design Phase \nPresented by Alice Cellamare from p2m Berlin and Steven Huang from ManTech.\n\nThe slides presentation are available on the Capella website: https://bit.ly/CD23_p2m-Berlin_ManTech_slides\n***\nIn the field of Systems Engineering, the anticipation of failures is of paramount importance, especially in the advanced stages of system design. In practice failure mode effects analysis (FMEA) is performed using a bottoms-up approach to be as thorough as possible at identifying and understanding system failure modes and their causes. Failure modes are typically prioritized according to how serious their consequences are, how frequently they occur, and how easily they can be detected.  \n\nThe objective of this work, which was carried out in the context of the INCOSE Mentoring Program, is to develop a methodology that harnesses all the information embedded within the system model, minimizing reliance on human conjectures. By utilizing the Python4Capella AddOn, a prototype script has been developed for Capella, aiming to automate parts of the analysis process and defining a set of potential failure modes which is as comprehensive as possible.\n\nCentral to this exploration is the use of the concepts of Configuration and Situation, as implemented in the VPMS viewpoint AddOn. These notions offer potential for a more detailed understanding of failure effects, aiding safety analysts in priority scoring. \n\nThis presentation will describe how we relate three different failure classes to failure effects by relying particularly on the information in Exchange Scenario diagrams and illustrate an example of implementing such an method using a common system model in Capella. \n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Intro and outline\n2:52 - Poll 1: In which industry do you work?\n4:04 - Safety Assessment Methods\n5:13 - Poll 2: Which of these do you use or see in your industry?\n6:09 - What about completeness\n7:03 - Known tools for Capella\n8:40 - Poll 3: Which of these do you use?\n9:35 - Project scope\n12:23 - Poll 4: Do you think it is possible/appropriate to use this strategy to achieve a high degree of completeness in failure identification? If not, why?\n14:48 - Relevant model elements\n15:39 - The VMPS Viewpoint\n17:00 - Project activities\n18:02 - Failure types\n19:20 - What do you think about this classification?\n19:46 - Component failure analysis\n20:52 - Analysis of affected elements\n21:23 - Scenario breakdown\n22:30 - Examples\n31:20 - Poll 5: Can you see this working?\n33:09 - Q&A: Can this tool also detect multi-functional chain failures?\n35:43 - Q&A: How do you cover Software Failures?\n37:39 - Q&A: Have you manage to validate analysis with a real component/system?\n39:30 - Q&A: How do you expect it to scale when applied on large models?",
+    "video_id": "JJq9nOoXER8",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "JJq9nOoXER8.webp",
+    "playlist_index": 9,
+    "duration": "45:06"
+  },
+  {
+    "title": "Efficient and Comprehensive FMECAs: the Power of MBSE Models | Applied Materials | Capella Days 2023",
+    "description": "Efficient and Comprehensive FMECAs: Harnessing the Power of MBSE Models in Capella.\n\nPresented by Sushim Koshti and Neela Ayalasomayajula from Applied Materials\nThe slides of the presentation are available right here: https://bit.ly/CD23_Applied-Materials_slides\n\n***\nModel-Based Systems Engineering (MBSE) has redefined the paradigms of systems engineering, and Capella stands out as a quintessential MBSE tool. One of the emergent challenges in this space is the seamless translation of information from MBSE models into other actionable formats, such as FMECAs (Failure Modes, Effects, and Criticality Analysis). Historically, the FMECA generation process has been reliant on cross-functional engineering teams collaborating in brainstorming sessions to identify potential failure modes before they can even start analysis the effects and criticality of these failure modes. While effective, this approach is time-consuming and can often overlook critical failure modes due to inherent limitations of manual brainstorming.  \n\nUsing a case study from the semiconductor equipment industry, our presentation describes a method of leveraging Capella MBSE models to streamline the generation of FMECAs. Utilizing Python4Capella, we automated the extraction of vital MBSE model objects and relationships, essential for generating an exhaustive FMECA, and seamlessly populated it into an MS Excel based FMECA template that is commonly used by the engineering community.\n \nThis presentation will offer participants: \n-The significance and role of MBSE models in building a robust FMECA. \n-An overview of our Python4Capella based solution, shedding light on how we captured and translated the Capella objects to a FMECA Excel template.\n-Demonstrable advantages, insights, and takeaways from our semiconductor equipment industry case study, underscoring the transformative power of MBSE and automation in accuracy, efficiency, and traceability.\n \nEquipped with a practical exploration of our methodology, attendees will be equipped with a potent strategy, not only to reimagine FMECA generation in their domains but also to maximize the potential of their MBSE models, making design reliability and safety assessments more rigorous and efficient.\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Intro and agenda\n1:26 - Presentation of the company\n2:50 - Product Development & MBSE\n5:35 - Electrostatic chucks\n7:30 - MBSE driven design for e-chucks\n18:25 - FMECA : Failures Modes, Effects, Criticality analysis\n20:55 - Typical Design FMECA Process\n23:55 - Shortcomings of Current Process\n27:34 - Leveraging MBSE Models for FMECAs\n32:53 - Building FMECA matrix from MBSE model\n35:22 - Advantages and next steps\n39:47 - Q&A: Will you share the Python scripts developed for export to FMECA?\n40:05 - Q&A: Any internal figures regarding productivity/quality improvements?\n41:47 - Q&A: How to ensure the physical components in Capella are up to date with the ones on your CAD system?\n43:40 - Q&A: Evaluating the effects on your system of every failure of the FMECA?\n44:58 - Outro",
+    "video_id": "WdjleBzWQ4w",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "WdjleBzWQ4w.webp",
+    "playlist_index": 10,
+    "duration": "45:04"
+  },
+  {
+    "title": "Lean Startup with Capella MBSE | StarFish Medical | Capella Days 2023",
+    "description": "Presented by Brent Bailey from StarFish Medical\nThe slides of the presentation are available right here: https://bit.ly/CD23_Starfish-Medical_slides\n\n***\nIn the last 15 years, entrepreneurs have developed methodologies to guide them in creating products and services that customers want. This presentation focuses on applying some of these Lean Startup techniques within Capella to effectively arrive at system architectures.\n\nIn contrast to other MBSE programs, Capella embeds a design methodology that drives its usage; it provides a framework for defining the problem before progressing to solutions. This presentation will guide the strategic application of Lean Startup techniques within the different architectural levels prescribed by ARCADIA. To ensure problem-solution fit for each stakeholder, unique Value Proposition Canvases (VPCs) connect their needs and wants with how the system will work for them. In the Operational Analysis phase, problem interviews will help determine the Customer Profile portion of the VPCs. Functions in the System Analysis represent the gain achievers and pain relievers proposed in the VPCs Value Map section. These are then validated with solution interviews before starting the logical or physical architecture. During both stages of the architectural design, functional chains are used to determine which parts of the design need to be validated. Minimum Viable Products (MVPs), based on these functional chains, can be built to collect validated learnings about customers and other stakeholders. MVPs are not saleable products themselves, but the learnings from these MVPs are integrated in the architecture to ensure that the final product creates value.\n\n***\nReferences:\nTheLeanStartup.com\n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Traditional approach\n5:22 - Lean Startup Approach\n9:45 - Understanding the Needs with Capella\n13:00 - Understanding the Needs: Operational Analysis\n22:16 - Understanding the Needs: System Analysis\n30:45 - The Architecture\n37:14 - Conclusion\n38:32 - Q&A: How to handle expectations if you only earn gains and pains?\n39:15 - Q&A: How would you rate the role of the costs?\n40:48 - Q&A: Are your customers always willing to share their pains?\n42:10 - Q&A: How do you tune the detail level of your Capella model for FEMECA?\n43:18 - Outro",
+    "video_id": "hDh8ulJwVyI",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "hDh8ulJwVyI.webp",
+    "playlist_index": 11,
+    "duration": "43:23"
+  },
+  {
+    "title": "In Pursuit of Robust Failure Mode Effects Analysis | p2m Berlin & ManTech | Capella Days 2023",
+    "description": "In Pursuit of Robust Failure Mode Effects Analysis in the Design Phase \nPresented by Alice Cellamare from p2m Berlin and Steven Huang from ManTech.\n\nThe slides presentation are available on the Capella website: https://bit.ly/CD23_p2m-Berlin_ManTech_slides\n***\nIn the field of Systems Engineering, the anticipation of failures is of paramount importance, especially in the advanced stages of system design. In practice failure mode effects analysis (FMEA) is performed using a bottoms-up approach to be as thorough as possible at identifying and understanding system failure modes and their causes. Failure modes are typically prioritized according to how serious their consequences are, how frequently they occur, and how easily they can be detected.  \n\nThe objective of this work, which was carried out in the context of the INCOSE Mentoring Program, is to develop a methodology that harnesses all the information embedded within the system model, minimizing reliance on human conjectures. By utilizing the Python4Capella AddOn, a prototype script has been developed for Capella, aiming to automate parts of the analysis process and defining a set of potential failure modes which is as comprehensive as possible.\n\nCentral to this exploration is the use of the concepts of Configuration and Situation, as implemented in the VPMS viewpoint AddOn. These notions offer potential for a more detailed understanding of failure effects, aiding safety analysts in priority scoring. \n\nThis presentation will describe how we relate three different failure classes to failure effects by relying particularly on the information in Exchange Scenario diagrams and illustrate an example of implementing such an method using a common system model in Capella. \n\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nCapella Forum: https://forum.mbse-capella.org/\n\n***\nChapters:\n0:00 - Intro and outline\n2:52 - Poll 1: In which industry do you work?\n4:04 - Safety Assessment Methods\n5:13 - Poll 2: Which of these do you use or see in your industry?\n6:09 - What about completeness\n7:03 - Known tools for Capella\n8:40 - Poll 3: Which of these do you use?\n9:35 - Project scope\n12:23 - Poll 4: Do you think it is possible/appropriate to use this strategy to achieve a high degree of completeness in failure identification? If not, why?\n14:48 - Relevant model elements\n15:39 - The VMPS Viewpoint\n17:00 - Project activities\n18:02 - Failure types\n19:20 - What do you think about this classification?\n19:46 - Component failure analysis\n20:52 - Analysis of affected elements\n21:23 - Scenario breakdown\n22:30 - Examples\n31:20 - Poll 5: Can you see this working?\n33:09 - Q&A: Can this tool also detect multi-functional chain failures?\n35:43 - Q&A: How do you cover Software Failures?\n37:39 - Q&A: Have you manage to validate analysis with a real component/system?\n39:30 - Q&A: How do you expect it to scale when applied on large models?",
+    "video_id": "UVRs7Zeo19A",
+    "playlist": "Capella Days 2023",
+    "playlist_id": "PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "UVRs7Zeo19A.webp",
+    "playlist_index": 12,
+    "duration": "45:06"
+  },
+  {
+    "title": "A global engineering process based on MBSE to master complexity | THALES DMS | CapellaDays2022",
+    "description": "A global engineering process based on MBSE to master complexity\n\n***\nPresented by: Guillaume Journaux & Karine Pellen from Thales Defense Mission Systems during Capella Days 2022\nSlides: https://bit.ly/capelladays2022_thales_slides\n***\nProject Challenges\n\n- Functional and non-functional requirements\n- Big team, multi-business units, and multi-geographical sites\n- MBSE skills development\n...\nProject engineering process based on MBSE\n\n- Multi-level MBSE approach (SSS, SSDD, transition to sub-systems, ...)\n- Incremental engineering and AGILE development\n- Engineering artefacts used and how they're linked (ARCADIA, conventional and AGILE artefacts)\n- Feed Forward\n\nOur successes and pains\n-What we expect from Capella for the coming years\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "xbTfq5AQhf8",
+    "playlist": "Capella Days 2022",
+    "playlist_id": "PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "xbTfq5AQhf8.webp",
+    "playlist_index": 1,
+    "duration": "53:26"
+  },
+  {
+    "title": "Quantitative evaluation of Capella functional chains | TNO-ESI & Thermo Fisher | CapellaDays2022",
+    "description": "A method for quantitative evaluation of functional chains supported by a Capella add-on\n\n***\nPresented by: Alexandr Vasenev (TNO-ESI) & Joost Dierkse (Thermo Fisher Scientific) during Capella Days 2022\nSlides: https://bit.ly/capelladays2022_thermofisher_TNO-ESI_slides\n\nThe open-source code of the solution is available at https://github.com/TNO/capella-workflow-dse\n\n***\nDevelopment of high-tech systems is a complex task done by diverse specialists distributed across the globe. Reference architectures including a clear functional breakdown can support them and support their decisions. This presentation proposes an approach to improve the development of advanced electron microscopes by using Capella as an authoritative source of information. To support design decisions, a Capella AddOn has been developed to obtain quantitative information, such as throughput numbers, for a particular workflow. First, we will illustrate how functional and system decompositions can be captured and serve as company-wide architecting assets to inform design decisions. Next, we will outline how simulating Capella models can bring valuable insights to modelers. During a demo, we’ll simulate Capella’s Functional chains using the open-source simulation tool POOSL (https://github.com/eclipse/poosl) , and visualize results using the freely available TRACE4CPS tool (https://www.eclipse.org/trace4cps/). Re-using functions from the reference architecture allows us to reason about design aspects such as the relation between throughput and design choices about function allocation and parallelism.\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "BEYfcVq2glo",
+    "playlist": "Capella Days 2022",
+    "playlist_id": "PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "BEYfcVq2glo.webp",
+    "playlist_index": 2,
+    "duration": "47:47"
+  },
+  {
+    "title": "Expand MBSE into Model-based Production Engineering (MBPE) | SIEMENS | CapellaDays2022",
+    "description": "Expand MBSE into Model-based Production Engineering (MBPE) to realize a Lego Manufacturing System\n\n***\nPresented by: Susan Faust & Chantal Sinnwell from SIEMENS during Capella Days 2022\nSlides: https://bit.ly/capelladays2022_siemens_slides\n***\nMind Game: You want to build a LEGO Mindstorms Factory for Toy Cars and you are Head of Factory Planning. You identify that your manufacturing planning team and your product design team don’t collaborate with each other, because they work in silos and speak different languages. Their progress is too slow, and the results are not synchronized.\n\nImagine: You succeed in merging your experts into one interdisciplinary team where everyone is collaboratively working together – already in the early stages of the engineering cycle. And imagine they start to speak the same language. Doubtless, you would speed up your engineering process. Furthermore, you would also reach a synchronized global solution for your manufacturing system and to be produced toy cars, building bridges inside your organization.\n\nBut how? This has been introduced by Dr.-Ing. C. Sinnwell in February 2020 in her PhD-thesis. There, she published the latest version of a methodology referred to as “MBPE – Model-Based Production Engineering”. The MBPE-methodology is a new approach for the conceptual design of manufacturing systems based on early product information supported by MBSE using UML.\n\nThe presentation will spotlight the MBPE-methodology, explaining how to use MBSE in the context of interdisciplinary factory and manufacturing planning. Also, it will be shown, how the methodology could be adapted to be realized with Eclipse Capella instead of any UML-modeling tool, illustrated by an example on how to conceptualize and model a LEGO Mindstorms production line for Toy Cars.\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "_AOLKk8UmIs",
+    "playlist": "Capella Days 2022",
+    "playlist_id": "PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "_AOLKk8UmIs.webp",
+    "playlist_index": 3,
+    "duration": "45:14"
+  },
+  {
+    "title": "How We Use Capella for Collaborative Design in COMAC | PGM & COMAC | CapellaDays2022",
+    "description": "How We Use Capella for Collaborative Design in COMAC\n\n***\nPresented by Renfei Xu (PGM) and Xinyi Tang (COMAC) during Capella Days 2022\nslides: https://bit.ly/capelladays2022_COMAC-PGM_slides\n***\nCOMAC is one of the leading suppliers of civil aircraft in the world. We will introduce how we use Capella in COMAC for collaborative design, including how to collaborate between overall design group and ATA design groups, and how to collaborate between different ATA design groups. We have done a series of extension development based on the System to Subsystem Transition add-on, to support the business process. These extensions include the integration from subsystem models to system model, the refinement of functional exchanges, the synchronization of newly added functional exchanges, and so on.\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "XSpAaC30XAE",
+    "playlist": "Capella Days 2022",
+    "playlist_id": "PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "XSpAaC30XAE.webp",
+    "playlist_index": 4,
+    "duration": "39:51"
+  },
+  {
+    "title": "Stairway to heaven: Climbing the very first steps | Thales Avionic Systems | CapellaDays2022",
+    "description": "Stairway to heaven: Climbing the very first steps\n\n***\nPresented by Stéphane Bonnet from Thales Avionic Systems during Capella Days 2022\nSlides: https://bit.ly/capelladays2022_THALES-Avionics_slides\n***\nWe MBSE enthusiasts love to imagine or witness sophisticated model-based engineering practices. We dream or in the best cases take advantage of digital continuity, automation, large-scale consistency, integration of disciplines, and end-to-end impact analyses.\n\nHowever not all of our architect and engineer fellows are in a situation in which they can appreciate sophistication of engineering practices the same way as we do. Entangled in everyday problems and facing the pressure to deliver, they perceive the introduction of model-based practices as an additional risk for a benefit that too often appears intangible.\n\nReaching the top of the stairs requires climbing the very first steps. This talk focuses on one of the most challenging aspects of MBSE deployment: lowering the height of the first steps. Paired with a pragmatic and incremental change management strategy, Capella and its add-ons are precious helpers.\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "0ZR2dO1Wzps",
+    "playlist": "Capella Days 2022",
+    "playlist_id": "PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "0ZR2dO1Wzps.webp",
+    "playlist_index": 5,
+    "duration": "49:30"
+  },
+  {
+    "title": "CILAS feedback about Capella use | CILAS & ArianeGroup | CapellaDays2022",
+    "description": "CILAS feedback about Capella use\n\n***\nPresented by: Julien Mansion from CILAS during Capella Days 2022\nSlides: https://bit.ly/capelladays2022_CILAS_slides\n***\nIn the last three years, CILAS has been tailoring and applying the Arcadia methodology to several international projects related to complex optronics products development. Even though the implementation is not yet thorough and systemic within the company, CILAS is already reaping benefits of this approach on several fronts (e.g. communication, identification of optimization opportunities, knowledge capitalization etc). \n\nAll in all, Arcadia is a powerful methodology that significantly helps CILAS reinforcing its core skills and meeting its objectives in very challenging sectors.\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "9twN6-KDoQY",
+    "playlist": "Capella Days 2022",
+    "playlist_id": "PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "9twN6-KDoQY.webp",
+    "playlist_index": 6,
+    "duration": "31:13"
+  },
+  {
+    "title": "Interface Control Document Generation and Linkage to PLM EBOM | SARATECH | CapellaDays2022",
+    "description": "Interface Control Document Generation and Linkage to PLM EBOM\n\n***\nPresented by Michael Ali from Saratech during Capella Days 2022\nSlides: https://bit.ly/capelladays2022_SARATECH_slides\n***\nGeneration of Interface Control Documents (ICDs) using a model-based method has a number of advantages over text-based approaches. This paper describes the Python-based software that was written to automatically generate different versions of an ICD from a structure model in Capella. One use case for this approach is checking parts changes captured in the Engineering Bill of Materials (EBOM) using a PLM tool. We demonstrate an automated workflow that links changes in the EBOM to a request to vet the change against the ICD. This presentation will discuss our rationale, approach, results, and lessons learned.\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "2W4WqGLvkCI",
+    "playlist": "Capella Days 2022",
+    "playlist_id": "PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "2W4WqGLvkCI.webp",
+    "playlist_index": 7,
+    "duration": "33:01"
+  },
+  {
+    "title": "Towards digital-native engineering | NavalGroup | CapellaDays2022",
+    "description": "Towards digital-native engineering at Naval Group\n\n***\nPresented by: Guillaume Leleu & Emmanuel de Chateau-Thierry from Naval Group during Capella Days 2022\nSlides: https://bit.ly/capelladays2022_NAVAL-Group_slides\n***\nClosing the gap between traditional engineering and digital-native model-based driven engineering requires helping engineers to embrace new techniques. Naval Group decided to tackle the following issues: lack of interoperability with other systems, lack of bridge between functional definitions in PID schemas and MBSE physical layers, lack of documenting cross-layers relationships for a specific object's type.\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "9yLqd4A2EjE",
+    "playlist": "Capella Days 2022",
+    "playlist_id": "PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "9yLqd4A2EjE.webp",
+    "playlist_index": 8,
+    "duration": "56:58"
+  },
+  {
+    "title": "Reverse-engineering a Space Mission to Mars with Capella | Politecnico di Milano | CapellaDays2022",
+    "description": "Interplanetary Space Mission as a reverse-engineering background for the Capella environment. \n\n***\nPresented by: Emanuele Tomassi, Davide Bellicoso & Riccardo Rambaldi from Politecnico di Milano during Capella Days 2022\nSlides: https://bit.ly/capelladays2022_Politecnico-di-Milano_slides\n***\nSystems engineering is an iterative approach traditionally applied one-way, from the definition of the user needs to the implementation of a solution that satisfies certain requirements and is constrained by cost and schedule. This presentation instead aims at exploring the educational benefits of applying the opposite practice, thus retrieving system and subsystem level requirements based on a solution already implemented and taking advantage of the MBSE possibilities to realize a model of the system according to the ARCADIA method and systems engineering approach, using the Capella MBSE Tool. This reverse-engineering process has been applied to a renowned Space mission, the ESA Mars Express satellite, whose goal is to investigate all aspects of the martian environment, including the subsurface, surface and atmosphere of the planet, in order to search for evidence of extinct or extant life. The uppermost goal of this project is to demonstrate the benefits for university students at a Master's level keen on systems engineering in implementing the Capella tool to retrieve the system architecture and the operational processes in a \"reversed\" strategy. In this work, students have been compelled to apply systems engineering processes to justify the design choices and exploit the already well-known missions and capabilities to build the architecture and functional chains as a starting point for the reverse engineering of the identified subsystems. The results prove it is possible, and also recommendable time-wise, to teach Space engineering and Systems engineering students by using this inverse approach, rather than the canonic one in which students have to design a whole mission from scratch.\n***\nStay up to date on Capella news and events by following our socials here:\n\nWebsite: https://www.eclipse.org/capella/\nLinkedIn : https://www.linkedin.com/in/capella-mbse-tool/\nTwitter : https://twitter.com/capella_arcadia",
+    "video_id": "PL2eYDF4mt4",
+    "playlist": "Capella Days 2022",
+    "playlist_id": "PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "PL2eYDF4mt4.webp",
+    "playlist_index": 9,
+    "duration": "44:58"
+  },
+  {
+    "title": "Intro to Capella and NASA SE Book: Modeling the HUBBLE Telescope | Rémy Drouin | Capella Days 2021",
+    "description": "Introduction to CAPELLA/ARCADIA and NASA Systems Engineering Handbook: Modeling overview with the HUBBLE Space Telescope.\n\nPresented by: Remy Drouin\n\nSlides: https://bit.ly/capelladays2021_intro_slides\n\nThe NASA System Engineering (SE) handbook aims to provide general guidance and information on systems engineering, as it should be applied throughout NASA. The handbook introduces 3 common technical processes. One of these, is the System Design Process, describing the stakeholder's expectations, requirements definition, logical decomposition, and design solution definition. The 4 activities can be supported by a Model-Based Systems Engineering (MBSE) approach. To do so, an appropriate method and tool is necessary as the one provided by the ARChitecture Analysis & Design Integrated Approach.\n\nARCADIA, with its modeler CAPELLA, is an MBSE solution supporting system modeling activities. Based on 4 architectural layers, which are Operational Analysis, System Analysis, Logical and Physical Architecture, it is a structured architecture engineering method for defining and validating multi-domain systems.\nThis talk will present an educational overview of the ARCADIA methodology and System Design Process from the NASA SE, by introducing MBSE artifacts for space system.\n\nThe HUBBLE Space Telescope (HST) is a Cassegrain reflector telescope. Orbiting above the earth, HST elaborates a clear view of the universe free from the blurring and absorbing effects of the atmosphere. In order to illustrate the journey throughout CAPELLA, the HST will be introduced, as example, based on public information available.",
+    "video_id": "pU5LPXCv9J4",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "pU5LPXCv9J4.webp",
+    "playlist_index": 1,
+    "duration": "1:50:13"
+  },
+  {
+    "title": "How I pack my suitcase | Siemens | Capella Days 2021",
+    "description": "How I pack my suitcase\n\nPresented by: Susan Faust and Chantal Sinnwell (Siemens Digital Industry Software):\n\nSlides: https://bit.ly/capelladays2021_siemens_slides\n\nModel-based systems engineering is everywhere - everyone talks about it, everyone wants to use it, but what is actually behind it? This question will be outlined by means of a playful approach and a real problem: \"I pack my suitcase and take with me...\".\n\nBased on this problem, we will successively use the game to pack the suitcase with the help of SE and finally MBSE and present it by means of a small demonstration. Let's go together on the hopefully soon journey and pack our suitcase.",
+    "video_id": "Z2lwu1JGc1g",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "Z2lwu1JGc1g.webp",
+    "playlist_index": 2,
+    "duration": "34:31"
+  },
+  {
+    "title": "The long way from Bid to project... supported by Capella | Thales Germany | Capella Days 2021",
+    "description": "The long way from Bid to project... supported by Capella \n\nPresented by: Michael Schaefer (Thales Germany):\n\nSlides: https://bit.ly/capelladays2021_thales_germany_slides\n\nIn 2018 during the Capella Days I showed how Capella and ARCADIA could be successfully applied supporting the bid phase of a large railway signalling project. In the meantime, this bid-project has changed into a real-world project.\n\nThis presentation shows the long way from the bid model to the project model in Capella. Beside looking at some questions like \"What can be reused form the bid model?\" or \"How can we quickly enlarge the number of system architects working on the project?\", we will have a look at some of the pitfalls on this way.\n\nAdditionally this talk gives some answers to questions like \"Which of the different views of ARCADIA are suitable for which purpose?\" or \"How can one model special topics like communication with customers, description of external interfaces or safety and security aspects for a large railway traffic management system\".\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "chPcHLk-iHw",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "chPcHLk-iHw.webp",
+    "playlist_index": 3,
+    "duration": "38:38"
+  },
+  {
+    "title": "Case Study covering Conceptual Design of a Fusion Power Plant (STEP) | UKAEA | Capella Days 2021",
+    "description": "A STEP towards Model-based: Case Study covering Conceptual Design of a Fusion Power Plant\n\nPresented by: Yitong Chen and Jason Joannou (UK Atomic Energy Authority):\n\nSlides: https://bit.ly/capelladays2021_UKAEA_slides\n\nSTEP (Spherical Tokamak for Energy Production) is a £220M project aiming to develop a conceptual design for a First of a Kind (FOAK) commercially viable Fusion Power Plant by 2024.\n\nDesigning a power plant at this scale comes with immense challenges: Systems engineering approach is relatively new to the industry, where the industry has been heavily research based and engineering processes are not fully in place. UKAEA, the organisation running the STEP project, is applying Model-Based Systems Engineering using the Capella tool.\n\nThe focus of our approach in managing the complexity of the system is to perform system analysis and logical architecture analysis, to generate engineering artefacts from the model. Through NGO (Needs, Goals, Objectives) analysis key system capabilities were realised to functional chains, which forms the basis for further refinement of the Logical Architecture. The differentiation between logical and physical architectures has ensured that the design stays at the logical space and the team focuses on defining the problem space. This approach has improved interface management process, by creating model-based interface documents, using the model as ‘single source of truth’ to achieve consistency. The architecture definition activities allowed early formalisation of the textual requirements, to drive detailed engineering design in the next phase.\n\nAdopting Capella comes with challenges - one of which stems from the unique characteristic of the concept phase – the need to generate architectural variants and evaluating them. The framework and the language are limited in performing variant modelling, a topic UKAEA plans to investigate further. Another challenge was that middle-out approach was favoured for STEP whereas Arcadia method prefers the top-down approach.\n\nThroughout this journey, adopting Capella with its use-friendly interfaces has allowed us to better engage with the programme in the MBSE approach and indoctrinate better SE practices.\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "-tRun6er-N4",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "-tRun6er-N4.webp",
+    "playlist_index": 4,
+    "duration": "33:04"
+  },
+  {
+    "title": "Using MBSE to Integrate Engineering Undergraduate Courses Curriculum | ITA | Capella Days 2021",
+    "description": "Using MBSE to Integrate Engineering Undergraduate Courses Curriculum\n\nPresented by: Prof. Dr. Christopher Shneider Cerqueira (Instituto Tecnológico de Aeronáutica)\nand Prof. Dr. Eduardo Escobar Bürger (Universidade Federal de Santa Maria).\n\nSlides: https://bit.ly/capelladays2021_brazilcourses_slides\n\nThe use of MBSE into the undergraduate courses brings the opportunity to integrate the curriculum through an Integrated Design Model. This lecture will: (i) explain the incorporation of Capella into an Airspace Engineering Curriculum; (ii) describe the experience in each discipline, allowing to keep the context, expanding through systemic perspectives; and (iii) present some results, feedbacks and lessons learned.\n\nThe lecture will close with how the Brazilian Secretary of Education changed the Brazilian Engineering Courses Guidelines to incorporate Systems Thinking and the opportunity to use Arcadia, and Capella – being free/opensource – as a common Systems Engineering Core.",
+    "video_id": "VM6PKid47XY",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "VM6PKid47XY.webp",
+    "playlist_index": 5,
+    "duration": "47:31"
+  },
+  {
+    "title": "Exploring the various roles of MBSE in the digital thread | ASML | Capella Days 2021",
+    "description": "Exploring the various roles of MBSE in the digital thread\n\nPresented by: Dr Jonnro Erasmus (ASML):\n\nSlides: https://bit.ly/capelladays2021_ASML_slides\n\nIt is generally agreed that model-based systems engineering plays an important part in the digital thread.\n\nDespite the general agreement on its importance, the role itself remains poorly defined. At the very least, systems engineering organizes and integrates the work of the various engineering disciplines and groups. Slightly more ambitiously, MBSE can translate system requirements into system elements. Ideally though, the system model, as the output of the MBSE process, should directly participate in the digital thread, as the link between the system requirements and the bill-of-material.\n\nThis presentation will show how the more idealised role (as a participant in the digital thread) can now be realized and explore some of the benefits and costs associated to such an approach.",
+    "video_id": "WjcMhl4Em0M",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "WjcMhl4Em0M.webp",
+    "playlist_index": 6,
+    "duration": "37:58"
+  },
+  {
+    "title": "Where to Start with MBSE when Thousands of Sys Reqs Are Already Def | Thales AUS | Capella Days 2021",
+    "description": "Where to Start with MBSE when Thousands of System Requirements Are Already Defined\n\nPresented by Peter Havenga and Laura Mallon (Thales Australia)\n\nSlides:  https://bit.ly/capelladays2021_thales_australia_slides\n\nContext: The Thales OneSKY Australia Program is delivering a new Australia-wide integrated Civil and Military Air Traffic Management System, known as CMATS. CMATS replaces the current civilian Air Traffic Management (ATM) system and Defence ATM system, delivering the most advanced and integrated ATM system in the world. It will manage more than 11% of the earth’s airspace and will deliver Air Traffic Services to some of the world’s busiest air routes.\n\nScope: Over the last 4 years of the Design phases of the program, the System-of-Systems Architecture team has defined and deployed a new way of working by focussing on capturing the system-of-systems architecture using state-of-the-art modelling techniques.\nA plan was put in place where the team collectively defined a target set of modelling goals in order to grow the team’s competency. Part of this plan was a roadmap for the longer term which focused on extending the current approach to further increase the business value of the architecture modelling activities.\n\nThis approach has resulted in a stable working environment that not only allows the management of consistency and complexity, but also enables the team to collaboratively and efficiently work on the architecture definition, which has been critical during the recent working from home period and hectic project phases.\n\nThe key Capella solutions that are used within this activity are the Team for Capella solution, application of the Requirements Viewpoint and the Property Value Management Tool.\n\nOne of the important aspects of the modelling plan is to ensure information within the model can be used by the wider organisation, this is achieved through a Thales specific documentation generation solution and a bespoke csv export capability that allows to export data from the information captured in the architecture model.\n\nThis talk will cover the modelling goals for this activity; where the team is standing today; the best practices and lessons learned.\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "DKoDxtaMm2I",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "DKoDxtaMm2I.webp",
+    "playlist_index": 7,
+    "duration": "32:51"
+  },
+  {
+    "title": "Enhancing CubeSat design through Capella: a concrete application | Polit. Milano | Capella Days 2021",
+    "description": "Enhancing CubeSat design through ARCADIA and Capella: a concrete application\n\nPresented by: Paolo Minacapilli (Politecnico di Milano)\n\nSlides: https://bit.ly/capelladays2021_Politecnico_Milano_slides\n\nThe new space economy asks for an overall improvement of systems engineering practices due to aggressive development time and complex systems design, implementation and operation by a number of players who grow with mission complexity. The talk proposes a critical analysis of a Model-Based Systems Engineering approach using ARCADIA and the Capella tool, applied to real CubeSat mission, with the aim of showing potentials and lacks.\n\nFirstly, the way requirements are managed and traced using the Requirements Viewpoint is presented, highlighting the necessity of having a dedicated diagram for the trees generation; a solution to that is proposed in order to easily trace backwards requirements whenever needed. Following the ARCADIA method, the approach begins with the high-level objectives definition through the Operational Analysis, moving to a first internal functional analysis exploiting the second level of Capella, the System Analysis. The Logical Architecture is then developed introducing the concept of subsystem, leading to big decisions which will drive the successive Physical Architecture. The latter opens the road to all CubeSat components modeling using the concept of Node Physical Component, together with physical interfaces definition. Great use of all Capella concepts is done, such as Functional Chains, Control Functions, Replicas, Basic Mass and Price Viewpoints etc.\n\nAs the approach has been applied to a real space project, Phases and Modes have also been modeled exploiting respectively Scenario Diagrams, also used to define mission Concept of Operations, and State Machine Diagrams. Some thoughts oriented toward an improvement of the Modes management will be discussed. Lastly, ARCADIA and Capella do not provide a proper way of dealing with Assembly, Integration, Verification and Testing activities within the same architectural model, therefore an innovative approach is proposed and discussed to include such aspects in the model.",
+    "video_id": "OjBdTofp5wQ",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "OjBdTofp5wQ.webp",
+    "playlist_index": 8,
+    "duration": "42:38"
+  },
+  {
+    "title": "An ex. of model-centric engineering environment with Capella and CI/CD | DB Netz | Capella Days 2021",
+    "description": "An example of model-centric engineering environment with Capella and CI/CD\n\nPresented by: Viktor Kravchenko (DB Netz AG)\n\nSlides: https://bit.ly/capelladays2021_DBNetzAG_slides\n\nToday a number of EU railway operators are on a journey to define what the future of railway operations should look like. In Germany, DB AG works within the sector initiative Digitale Schiene Deutschland. Next to the implementation of ETCS/DSTW technology in the first stage, the initiatives aims in the second stage to improve the performance, quality and efficiency of the railway system by higher degrees of automation in traffic management, train driving and infrastructure operation. This requires implementation of new technologies like artificial intelligence, localization and perception sensors, cloud computing and 5G connectivity.\n\nThe challenge is pretty serious - to modernize and digitalize something as complex we need a solid understanding of the railway system itself, the surrounding actors, the operational processes / workflows, functions and responsibilities. And then we need a way to design automation concepts and test those against the operational needs - we call it The Reference Architecture. An analysis of that scale requires knowledge and expertise across multiple domains and involves a pretty large number of stakeholders. We found ARCADIA method to be just the right thing and as Capella is freely available we could easily test how it fits.\n\nThe reference architecture is being developed in according to a detailed process that elaborates on the basic steps of ARCADIA to give specific guidelines on every step of engineering. The process is broadly structured in the layers of ARCADIA, then influenced by the safety and RAM standard EN 50126, the systems engineering standard ISO 15288 and the specific situation we found ourselves in. The process is described according to architecture framework standard ISO 42010 with an emphasis on precise definition of the contents of each modelling artefact. Early results of the deployment of this detailed process have been positive, with reductions in the complexity of the model, and clearer, more precise and more consistent functions being identified against a reusable pattern.\n\nTo validate the design decisions and assumptions that we made in the Reference Architecture, when a simulation is insufficient, we do prototype projects. The Sensors4Rail prototype project was designed in Capella nearly from the start. And for a number of common engineering reasons it was designed bottom up. It is an example of a classical project madness with disruptive changes, priority shifts and very high level of uncertainty. And thanks to flexibility of Capella and ARCADIA we got through it with the model being the place where most of the engineering decisions took place - be it functional, software or hardware engineering.\n\nAs the adoption went on we saw a need for deriving documents and engineering artifacts from the model and sharing those with various internal and external stakeholders. We tried to do that by hand first but as it was time consuming we went through a project to automate workflows around Capella. Today we operate a number of CI/CD pipelines that deliver documents, engineering artifact and Confluence page updates on every commit. We have a framework that enables us to derive engineering artifacts from the model quickly, traverse it in all possible directions and render in any shape and form (IDL, pdf, xlsx). For those projects that use TeamForCapella we operate a self-service web-based management environment.\n\nIn this presentation you’ll have a guided tour through the MBSE Toolchain we made around Capella, Gitlab, Confluence, Jira and TeamForCapella and get a feeling for what automation one could get by mixing open-source with nice (open API) commercial and simple bespoke tools.\n\nCreative commons BY-ND Licence: Attributon + NoDerivatives",
+    "video_id": "IxJ4rM3EYCs",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "IxJ4rM3EYCs.webp",
+    "playlist_index": 9,
+    "duration": "36:57"
+  },
+  {
+    "title": "Using MBSE and Capella to Improve Regulatory Certification | Stille AB | Capella Days 2021",
+    "description": "** Note: John Andersson couldn't present live, but with the agreement of the Incose, we provide the video of the same talk during the 7th Annual Systems Engineering in Healthcare Conference **\n\nUsing MBSE and Capella to Improve Regulatory Certification\n\nPresented by: John Andersson (Stille AB) :\n\nThe regulatory certification for medical devices can be an extremely long and costly process.\n\nCertification process will look at things from a process point of view to user validation and everything in between.\n\nOne of the big problem is to describe the product in an easy to understand way and to get the certifying institute to grasp how risks and requirements has flown down into the design and onto the product with crystal clear traceability.\n\nThis is our journey to get there!",
+    "video_id": "X8Z5ChRnhUo",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "X8Z5ChRnhUo.webp",
+    "playlist_index": 10,
+    "duration": "39:25"
+  },
+  {
+    "title": "How much time does modeling take? Exp. from modeling without experience | NUST | Capella Days 2021",
+    "description": "How much time does modeling take? Experience from modeling without experience\n\nPresented by: Evelyn Honoré-Livermore (The Norwegian University of Science and Technology)\n\nSlides: https://bit.ly/capelladays2021_NTNU_slides\n\nA shared common mental model of a system design between team members is a goal many projects aspire to. Applying MBSE can be one way of achieving this. Here we present the results of an inexperienced modeler taking existing code logic and modeling it in Capella 5.0, and measuring how much effort was needed. The models make the logic of the program more accessible to coders who did not worked on that specific piece of code previously, which can increase the possibility of code review and improving logic. The case study was a University CubeSat team, where team members join the project as a part of their thesis, while the project continues for 2-3 years, and modeling the code logic can reduce some of the onboarding effort required when new members want to reuse or improve on existing codebase.",
+    "video_id": "Tmr6W70cOzE",
+    "playlist": "Capella Days 2021",
+    "playlist_id": "PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "Tmr6W70cOzE.webp",
+    "playlist_index": 11,
+    "duration": "29:57"
+  },
+  {
+    "title": "MBSE with Capella: Reconciling with the past, moving towards the future | Thales | Capella Days 2020",
+    "description": "Keynote: MBSE with Arcadia and Capella - Reconciling with the past and moving towards the future \n\nBy Juan Navas (Thales)\n\nComplex systems engineering programs not only deal with the inherent complexity of the systems they develop but also shall be able to adapt very quickly to changes.\n\nThis requires adapting existing well-proven engineering practices in order to support shorter time-to-market, more frequent variations in operational contexts and usages, and more complex engineering organizations. In this talk, Juan Navas will present the latest methodological progress on Arcadia and Capella that tackle these stakes.\n\nSessions slides: https://fr.slideshare.net/Obeo_corp/capella-days-2020-keynote-mbse-with-arcadia-and-capella-reconciling-with-the-past-and-moving-towards-the-future\n\nAll the Capella Days slides: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\nCreative Commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "6jpihA9bpts",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "6jpihA9bpts.webp",
+    "playlist_index": 1,
+    "duration": "36:36"
+  },
+  {
+    "title": "Innovating with MBSE – Medical Device Example | Siemens | Capella Days 2020",
+    "description": "Innovating with MBSE – Medical Device Example\n\nBy Tony Komar\n\nSustained innovation is a goal for many development organizations. Sustaining innovation is depicted on an Innovation as a matrix as the result of a well-defined problem, and a well-defined domain definition. An example will be presented how an MBSE tool, based on open-source tool Capella, can enhance both the problem definition and domain definition of a ventilator. It will show how the MBSE tool enhanced the understanding of the problem, and how that understanding can lead to an innovative solution.\n\nSessions slide: https://fr.slideshare.net/Obeo_corp/capella-days-2020-innovating-with-mbse-medical-device-example\n\nAll the Capella Days slides: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\n\nCreative Commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "B4MR3UQ2rnU",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "B4MR3UQ2rnU.webp",
+    "playlist_index": 2,
+    "duration": "42:47"
+  },
+  {
+    "title": "Successful Capella landing on a CNES operational use case | Artal/Magellium | Capella Days 2020",
+    "description": "Successful Capella landing on a CNES operational use case\n\nBy Jonathan Lasalle (Artal/Magellium)\n\nThe Space Variable Objects Monitor (SVOM) is a space system dedicated to gamma-ray detection and study, under development by China National Space Administration (CNSA) and the French Space Agency (CNES), to be launched in 2021. The system shall be able to trigger alerts of Gamma-Ray Burst (GRB) in real-time with a maximum of associated data. It is composed of a space segment (a set of various sensors embedded on a satellite) associated with a worldwide antenna ground network, all managed by the two agencies.\n\nThe design of this system was conducted within the framework of the CNES engineering process, based on a set of documents cascading the textual requirements from the high-level concept of operations to the technical specification of equipment. The validation of the obtained specification mainly relies on human expertise and on the validation campaign. The complexity of the system made it a perfect candidate for experimentation of MBSE using Capella. Two projects took place successively in this context: a first one was an R&T study, dedicated to the analysis of the current process and the evaluation of the potential benefits that MBSE could bring (restricted to some part of the system but spread on several engineering layers (architecture, simulation, satellite database definition...)). Due to promising results, a second project, based on the models realized during the first study, was dedicated to the operational capture of the system validation.\n\nThe smooth incursion of Capella in CNES engineering process was undeniably well received. The SVOM experts were converted to this new way of working. The building of an operational model-based toolchain to capture the system architecture and its associated V&V specification is an achievement that opens the door to a wider reach of MBSE within CNES.\n\nSessions slides: https://bit.ly/capelladays2020_artal_slides\n\nAll the Capella Days slides: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "MSSauntRZkE",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "MSSauntRZkE.webp",
+    "playlist_index": 3,
+    "duration": "41:51"
+  },
+  {
+    "title": "MBSE and the High-Tech Equipment Industry, how do they match up? | ESI-TNO | Capella Days 2020",
+    "description": "MBSE and the High-Tech Equipment Industry, how do they match up?\n\nBy Teun Hendriks (ESI-TNO)\n\nMBSE is by now widely adopted in the Aerospace and Defense industry. These industries however typically develop their systems with very large, one-of-a-kind system projects, following the V model. A large upfront (MB)SE effort is justified then as the cost of late failures are extremely high.\n\nThe High-Tech Equipment Industry on the other hand develops its systems incrementally with an agile Systems Engineering process, supporting many product variants and often a configure-to-order sales process.\n\nHow does MBSE match up with the characteristics of the High-Tech Equipment Industry? ESI and its partners have started a collaborative project to study together whether, and if so how, MBSE, or MBSE elements, can improve Systems Engineering in this industry business context.\n\nThis talk will provide an update on the state of SE in the High-Tech Equipment Industry, its use of models, and the outlook on the fit of MBSE in this industry context.\n\nSession slides: https://fr.slideshare.net/Obeo_corp/capella-days-2020-mbse-and-the-hightech-equipment-industry-how-do-they-match-up\n\nAll slides from Capella Days 2020: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\nCreative Commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "9lKKhCu1mlQ",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "9lKKhCu1mlQ.webp",
+    "playlist_index": 4,
+    "duration": "39:28"
+  },
+  {
+    "title": "Capella Development Status & Future Work | Thales | Capella Days 2020",
+    "description": "Capella Development Status & Future Work\n\nBy Aurélien Pinsonneau, Minh Tu Ton That & Sandu Postaru (Thales)\n\nIn this talk, Thales’ Capella development team will present some of the latest Capella features and enhancements, noteworthy add-ons from the Capella eco-system, and what future work will bring to the tool.\n\nSession slides: https://fr.slideshare.net/Obeo_corp/capella-days-2020-capella-development-status-future-work\n\nAll slides from Capella Days 2020: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "rXU6s_BxWVs",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "rXU6s_BxWVs.webp",
+    "playlist_index": 5,
+    "duration": "37:09"
+  },
+  {
+    "title": "Integrating MBSE&LCA for Removing Plastic fr the Oceans w/ TheSeaCleaners | Obeo | Capella Days 2020",
+    "description": "Integrating MBSE and Life Cycle Assessment for Removing Plastics from the Oceans with The SeaCleaners\n\nBy Arnaud Dieumegard & Raphaël Pagé (Obeo)\n\nMore than 8 million tons of plastic are dumped in the oceans every year. If we don’t take action, in 2050, there will be more plastic than fishes in the oceans!\n\nThe SeaCleaners association has been founded to provide global, long-term, and worldwide solutions for fighting against ocean plastic pollution. The flagship project initiated by The SeaCleaners is the MANTA, the first seagoing vessel capable of collecting and processing in continuous flow large quantities of macro plastic waste floating at the surface of oceans. Its design has been focusing on many innovative technologies in the field of renewable energy production or by limiting her global carbon footprint maximizing energy self-sufficiency.\n\nIn this talk, we will present a Capella extension developed by Obeo in partnership with The SeaCleaners and Altran to facilitate the Life-Cycle Assessment (LCA) of complex systems. This extension consists of additional concepts added to Capella for inventorying components' physical characteristics and the substances they consume and/or emit. This information attached to the system architecture can be automatically exported as an initial inventory analysis to LCA tools used by environmental experts to perform their impact analysis (such as SimaPro and OpenLCA).\n\nExperimented on a MANTA subsystem, we will show how this integration between Capella and LCA Tools accelerates the evaluation of the impacts a system has on its environment and helps system designers to make architecture decisions that are better for the planet.\n\nSession slides: https://fr.slideshare.net/Obeo_corp/capella-days-2020-integrating-mbse-and-life-cycle-assessment-for-removing-plastics-from-the-oceans-with-the-seacleaners\n\nAll the slides from Capella Days 2020: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\nCreative Commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "MJfk4QQjSkE",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "MJfk4QQjSkE.webp",
+    "playlist_index": 6,
+    "duration": "37:35"
+  },
+  {
+    "title": "Specif & Architecture of a System Factory for Space Systems using Capella | GMV | Capella Days 2020",
+    "description": "Specification and Architecture of a System Factory for Space Systems using Capella\n\nBy Elena Alaña Salazar & Tiago Manuel Da Silva Jorge (GMV)\n\nThe deployment of Model-Based System Engineering in space projects is not straightforward. The interactions among stakeholders at various levels happen to be difficult because the various tools involved are not fully interoperable.\n\nOne of the key elements that would facilitate and ensure the exchange of engineering data information is the definition of a System Engineering supporting infrastructure, also called System Factory, that would allow implementing this interoperability.\n\nThis presentation introduces the approach that is being followed to define the functional architecture of this System Factory which follows the Arcadia method and uses the Capella tool.\n\nSession slides: https://fr.slideshare.net/Obeo_corp/capella-days-2020-specification-and-architecture-of-a-system-factory-for-space-systems-using-capella\n\nAll of the Capella Day slides: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\nCreative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "G-XvdLoHQQw",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "G-XvdLoHQQw.webp",
+    "playlist_index": 7,
+    "duration": "38:35"
+  },
+  {
+    "title": "An Adventure with Capella - A study from NEXTRAIL | Capella Days 2020",
+    "description": "An Adventure with Capella - A study from NEXTRAIL\n\nBy Harish Narayanan (NEXTRAIL)\n\nIn this talk, Harish will share his experiences on a project where he had to develop system requirement specifications for an Automatic Train Operation -Trackside (ATO-TS) system, one of the key components that helps with Automatic Train Operations.\n\nHe will present his personal experiences with Capella, as a new user, and will explain the different focus points where NEXTRAIL applies Capella including systems modelling and data modelling (for Interfaces).\n\nYou will discover the project-specific analysis with Capella and will get answers to the following questions:\n\nHow Capella was related to the scope of the project? Including basic understandings of the systems.\nHow it helped NEXTRAIL achieve targets of the projects?\nWhat were their modelling practices? Ease of modelling, workflow using a meta-model, MBSE activities, integration with teams, beneficial aspects of Capella...\nWhat were the problems NEXTRAIL faced while modelling?\nHarish will conclude with possible additions/suggestions for modelling improvements.\n\nSession slides: https://fr.slideshare.net/Obeo_corp/capella-days-2020-an-adventure-with-capella-a-study-from-nextrail\n\nAll the slides from Capella Days 2020: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\n\nCreative Commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "qbGG8KF_j3E",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "qbGG8KF_j3E.webp",
+    "playlist_index": 8,
+    "duration": "37:34"
+  },
+  {
+    "title": "High-Speed Transportation Case-Study | Virgin Hyperloop | Capella Days 2020",
+    "description": "High-Speed Transportation Case-Study, by Virgin Hyperloop\n\nBy Brandon Blau (Virgin Hyperloop)\n\nVirgin Hyperloop is developing a system that can propel passenger or cargo pods at speeds of over 1000 km/h. That is 3x faster than high-speed rail and more than 10x faster than traditional rail.\n\nIn this talk, Brandon Blau will present how Capella is used on this project.\n\nSession slides: https://fr.slideshare.net/Obeo_corp/capella-days-2020-highspeed-transportation-casestudy-by-virgin-hyperloop\n\nAll of the Capella Days 2020 slides: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\nCreative Commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "4HSYXPVpUnw",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "4HSYXPVpUnw.webp",
+    "playlist_index": 9,
+    "duration": "50:17"
+  },
+  {
+    "title": "Modelling in a regulatory centric domain | Stille AB | Capella Days 2020",
+    "description": "Modeling in a regulatory centric domain\n\nBy John Andersson (Stille AB)\n\nThe medical device domain is heavily driven by regulatory requirements and processes that many feel very old fashion. The aim of these notifying bodies is to ensure safety for the patient, user, and environment. Even though the concept of MBSE is widely accepted when it comes to the execution of a project it still often waterfall and V-model methodology.\n\nFor long medical device development has been documenting focused domain and we with it. Now we exploring to move into a modeling-centric way of developing our products, and it’s not only technical issues but processes, readability, accessibility, and teamwork that we need to adjust.\n\nAccess to all of the Capella Days 2020 slides: https://fr.slideshare.net/Obeo_corp/clipboards/capella-days-2020\n\nCreative Commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "9dErPsOqoKM",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "9dErPsOqoKM.webp",
+    "playlist_index": 10,
+    "duration": "37:15"
+  },
+  {
+    "title": "Arcadia/Capella Open Q&A Session | Capella Days 2020",
+    "description": "Arcadia/Capella Open Q&A Session\n\nBy Jean-luc Voirin & Juan Navas (Thales)\n\nQuestions asked in advance or live to Arcadia and Capella experts.\n\nCreative Commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "zEgSEeS4hp4",
+    "playlist": "Capella Days 2020",
+    "playlist_id": "PLfrEYVpSGVLyr1VFTWN8uhM_S30qgZy05",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "zEgSEeS4hp4.webp",
+    "playlist_index": 11,
+    "duration": "32:02"
+  },
+  {
+    "title": "How to Install Capella on Mac",
+    "description": "Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "Ztpqy7KoZl4",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "Ztpqy7KoZl4.webp",
+    "playlist_index": 1,
+    "duration": "2:21"
+  },
+  {
+    "title": "How to Drill-down the Model with the Semantic Explorer",
+    "description": "Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "KxdtJ6g5e5M",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "KxdtJ6g5e5M.webp",
+    "playlist_index": 2,
+    "duration": "1:14"
+  },
+  {
+    "title": "How to See Hidden Diagram Elements",
+    "description": "Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "10y3t2496HU",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "10y3t2496HU.webp",
+    "playlist_index": 3,
+    "duration": "40"
+  },
+  {
+    "title": "[HOW TO] Replicate model elements in Capella",
+    "description": "In this video you will see how to replicate model elements in Capella using the REC / RPL mechanism\n\nPlease leave a comment here in order to propose the next topics to be covered by similar videos:\nhttps://polarsys.org/forums/index.php/t/851/\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "h-ax61eVlxM",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "h-ax61eVlxM.webp",
+    "playlist_index": 4,
+    "duration": "4:04"
+  },
+  {
+    "title": "Capella: Productivity tools",
+    "description": "Automated refinement, libraries of replicable elements, etc.\n\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "HKMaGc99Zh8",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "HKMaGc99Zh8.webp",
+    "playlist_index": 5,
+    "duration": "3:49"
+  },
+  {
+    "title": "Capella: Embedded methodological guidance",
+    "description": "This video shows how Capella provides methodological support\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "OGpHMR_j3AM",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "OGpHMR_j3AM.webp",
+    "playlist_index": 6,
+    "duration": "2:03"
+  },
+  {
+    "title": "Capella: Browsing the model",
+    "description": "Navigation in the model, model anlaysis\n\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "UiOiBomTU1c",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "UiOiBomTU1c.webp",
+    "playlist_index": 7,
+    "duration": "3:21"
+  },
+  {
+    "title": "Capella: Manage model complexity",
+    "description": "Advanced mechanisms to cope with complex and large models\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "WtwAzftHd4A",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "WtwAzftHd4A.webp",
+    "playlist_index": 8,
+    "duration": "3:15"
+  },
+  {
+    "title": "Capella: Multi-viewpoint trade-off analysis",
+    "description": "Multi-viewpoint trade-off analysis\n\n\n© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "cT43CmZM2go",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "cT43CmZM2go.webp",
+    "playlist_index": 9,
+    "duration": "3:15"
+  },
+  {
+    "title": "Commented Arcadia - Capella model - Physical Architecture",
+    "description": "© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "1EEcDtLAiXk",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "1EEcDtLAiXk.webp",
+    "playlist_index": 10,
+    "duration": "20:55"
+  },
+  {
+    "title": "Commented Arcadia / Capella model - Logical Architecture",
+    "description": "",
+    "video_id": "4jSoVNb4gaQ",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "4jSoVNb4gaQ.webp",
+    "playlist_index": 11,
+    "duration": "12:26"
+  },
+  {
+    "title": "Commented Arcadia / Capella model - Customer Operational Need Analysis",
+    "description": "© Capella. Creative commons BY-ND Licence: Attribution + NoDerivatives",
+    "video_id": "TawT_G9DNNc",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "TawT_G9DNNc.webp",
+    "playlist_index": 12,
+    "duration": "14:11"
+  },
+  {
+    "title": "Commented Arcadia / Capella model - System Need Analysis",
+    "description": "",
+    "video_id": "UESXFZFbi5Q",
+    "playlist": "How-To",
+    "playlist_id": "PLfrEYVpSGVLysQtDVTj8SUAZPvxFh9fbi",
+    "yt_channel_id": "@EclipseCapella",
+    "thumbnail": "UESXFZFbi5Q.webp",
+    "playlist_index": 13,
+    "duration": "20:21"
+  },
+  {
+    "title": "Publication for Capella - Expose a Capella model on a web server",
+    "description": "",
+    "video_id": "8-HqyMh_EqE",
+    "playlist": "Capella - Solutions by Obeo",
+    "playlist_id": "PLDCKzuGIN_ZxcuMhfNWU16ITkoCYLjWba",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "8-HqyMh_EqE.webp",
+    "playlist_index": 1,
+    "duration": "1:22"
+  },
+  {
+    "title": "Capella Short Demo",
+    "description": "In this video discover the main features and a short demonstration of Capella, the open source MBSE tool.\nLearn more here:  https://www.eclipse.org/capella/",
+    "video_id": "v5SxNNwcnGA",
+    "playlist": "Capella - The technology",
+    "playlist_id": "PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "v5SxNNwcnGA.webp",
+    "playlist_index": 1,
+    "duration": "2:37"
+  },
+  {
+    "title": "Strategies and tools for model reuse with | Capella Webinar",
+    "description": "How to manage libraries and building blocks?\n\nReusing models or parts of models with Capella\nis not only conceptually appealing, it is a real productivity enabler.\nBut it is also a true challenge!\n\nTechnical solutions initially dedicated to simple duplication\nand synchronisation of model parts have recently evolved\nand now enable multiple, classical use cases of reusing models.\n\nIn this webinar, we will illustrate:\n\nHow the Capella technology of replicable elements (aka REC/RPL) both enables\nflexible design workflows (including instance-driven modeling) and\nmakes possible the modeling of architectures by assembly of building blocks.\n\n\nHow Yuzu leverages Capella to help manage the life-cycle\nof building blocks and model assets, their dependencies,\ntheir versioning, their publication, etc.",
+    "video_id": "440YRZdPNLc",
+    "playlist": "Capella - The technology",
+    "playlist_id": "PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "440YRZdPNLc.webp",
+    "playlist_index": 3,
+    "duration": "58:38"
+  },
+  {
+    "title": "Integrated MBSE Methodology Case Study | Realize Live EU 2020",
+    "description": "During this talk held at Siemens Realize Live 2020 digital edition, Obeo VP, Etienne Juliot talks about the importance of Model-Based Systems Engineering (MBSE) adoption and how it can be the key to mastering the integration of complex systems.",
+    "video_id": "wvWSQsYMQ4s",
+    "playlist": "Capella - SMW (System Modeling Workbench)",
+    "playlist_id": "PLDCKzuGIN_ZxcUYoaSqZFINB_sCkfAQFb",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "wvWSQsYMQ4s.webp",
+    "playlist_index": 4,
+    "duration": "20:08"
+  },
+  {
+    "title": "Publication for Capella - Manage Links from Capella Models",
+    "description": "This video shows how to manage links to an ALM tool from a Capella model published with Publication for Capella.\nhttps://www.obeosoft.com/fr/produits/publication-for-capella",
+    "video_id": "aQlWGrqy3Xc",
+    "playlist": "Capella - Solutions by Obeo",
+    "playlist_id": "PLDCKzuGIN_ZxcuMhfNWU16ITkoCYLjWba",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "aQlWGrqy3Xc.webp",
+    "playlist_index": 5,
+    "duration": "1:02"
+  },
+  {
+    "title": "Publication for Capella - Link Requirements to Model Elements",
+    "description": "This video shows how to link requirements to Capella model elements, right from a requirements management tool, with Publication for Capella.",
+    "video_id": "ybIBMDQdIs8",
+    "playlist": "Capella - Solutions by Obeo",
+    "playlist_id": "PLDCKzuGIN_ZxcuMhfNWU16ITkoCYLjWba",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "ybIBMDQdIs8.webp",
+    "playlist_index": 6,
+    "duration": "41"
+  },
+  {
+    "title": "Cloud for Capella",
+    "description": "Cloud for Capella, offers a ready-to-use environment on which Capella, pre-integrated add-ons, and collaborative solutions are already installed.\n\nObeo deploys this environment for you on a secured Cloud server accessible remotely\n\nMore info: https://www.obeosoft.com/en/products/cloud-for-capella",
+    "video_id": "Fo7amsMIsyM",
+    "playlist": "Capella - Solutions by Obeo",
+    "playlist_id": "PLDCKzuGIN_ZxcuMhfNWU16ITkoCYLjWba",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "Fo7amsMIsyM.webp",
+    "playlist_index": 7,
+    "duration": "1:43"
+  },
+  {
+    "title": "PME + Grand Groupe, retex d'une collaboration réussie sur Capella  | Open Source Experience 2021",
+    "description": "En 2014, Thales et Obeo lançaient le projet open-source Eclipse Capella. Sept ans après, la solution Capella est désormais confortablement installée sur le marché des solutions d’architecture de systèmes industriels, avec plusieurs centaines d’organisations utilisatrices sur tous les continents. Issu d’une collaboration entamée plusieurs années auparavant entre le grand groupe international d’ingénierie et une jeune startup nantaise, Capella est un atelier d’ingénierie système (MBSE) permettant de définir l’architecture de systèmes complexes dans des domaines tels que le spatial, les transports, la santé ou les télécoms. Avec ce talk, nous reviendrons sur la genèse du projet et la stratégie mise en œuvre pour sa mise en open-source. En particulier, comment Thales et Obeo collaborent étroitement pour faire évoluer Capella, assurer sa promotion au niveau international et développer un écosystème riche et diversifié à même d’accompagner les démarches de découverte, d’adoption et de déploiement.\n\nEtienne JULIOT - Vice-Président - Obeo\nJuan NAVAS - Modelling & Simulation Lead Expert - Thales",
+    "video_id": "6t2Iyvpibhs",
+    "playlist": "Capella - Solutions by Obeo",
+    "playlist_id": "PLDCKzuGIN_ZxcuMhfNWU16ITkoCYLjWba",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "6t2Iyvpibhs.webp",
+    "playlist_index": 8,
+    "duration": "25:32"
+  },
+  {
+    "title": "Stéphane Bonnet talks about Sirius and Capella | SiriusCon Paris 2016",
+    "description": "Interview of Stéphane Bonnet (Thales - Capella Design Authority & MBSE Senior Coach)  at SiriusCon Paris 2016, the international conference on graphical modeling.\n\nEclipse Sirius is an Open Source technology that you can use to easily create a customized modeling workbench.\n\nDedicated to your area of expertise and supporting your design concepts, it allows you to graphically design complex systems (IT software, business activities, physics, etc.) while keeping the corresponding data consistent (architecture, component properties, etc.).\n\nA modeling workbench created with Sirius comprises a set of Eclipse editors (diagrams, tables and trees) that allow you to create, edit and visualize EMF models.\n\nCapella is a model-based engineering solution that has been successfully deployed in a wide variety of industrial contexts. \nThe Capella workbench is an Eclipse application implementing the Arcadia method providing both a Domain Specific Language (DSL) and toolset which is dedicated to guidance, productivity and quality. Intuitive model editing and viewing capabilities help engineers focus on the design and description of the system and its architecture.\n\nMore about Sirius: http://www.eclipse.org/sirius/\nMore about Capella: https://polarsys.org/capella/",
+    "video_id": "OpsQYJ24GGQ",
+    "playlist": "Capella - The technology",
+    "playlist_id": "PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "OpsQYJ24GGQ.webp",
+    "playlist_index": 11,
+    "duration": "1:42"
+  },
+  {
+    "title": "Realization of Model-Based Safety Analysis and Integration with Capella | SiriusCon 2020",
+    "description": "Realization of Model-Based Safety Analysis and Integration with Capella\nby MARK ZELLER, Siemens CT\n\nThe importance of mission or safety-critical software systems in many application domains of embedded systems is continuously growing, and so is the effort and complexity for reliability and safety analysis. Model-based system engineering (MBSE) is currently one of the key approaches to cope with increasing system complexity.\n\nWith Component Fault Trees (CFTs) there is a model- and component-based methodology for safety analysis, which extends the advantages of model-based development to safety & reliability engineering. In this talk, we demonstrate how to ease the development of safety-critical systems by implementing a graphical modeling tool for Component Fault Trees using Sirius and integrate safety analysis capabilities in a model-based system engineering workflow in Capella.\n\nMark Zeller, Siemens CT\nMarc Zeller works as a Senior Key Expert for model-based safety and reliability engineering at Siemens Corporate Technology. His research interests are focused on the efficient and effective development of dependability-relevant Cyber-physical Systems using model-based engineering techniques. Marc Zeller received a diploma in Computer Science from the Karlsruhe Institute of Technology (KIT) in 2007 and obtained a PhD in Computer Science from the University of Augsburg in 2013. With over 10-years' experience in different industrial domains, such as automotive, railway, avionics, or industry automations, he has been involved in various projects establishing model-based engineering techniques and is author of many publications in this area.",
+    "video_id": "i-815lDS4dw",
+    "playlist": "Capella - Solutions by Obeo",
+    "playlist_id": "PLDCKzuGIN_ZxcuMhfNWU16ITkoCYLjWba",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "i-815lDS4dw.webp",
+    "playlist_index": 12,
+    "duration": "27:17"
+  },
+  {
+    "title": "Connecter Capella à la plateforme IBM ELM (IBM Jazz) | Webinaire Publication for Capella",
+    "description": "Découvrez comment Publication for Capella permet une intégration fine entre le workbench MBSE Capella et IBM Engineering Lifecycle Management (IBM Jazz) et pour connecter Capella avec DOORS Next, Engineering Workflow Management (EWM), etc.\n\nCe webinaire à été présenté par Laurent Delaigue d'Obeo et Philippe Leblanc de Persistent",
+    "video_id": "Ckiqhk7WplY",
+    "playlist": "Capella - Solutions by Obeo",
+    "playlist_id": "PLDCKzuGIN_ZxcuMhfNWU16ITkoCYLjWba",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "Ckiqhk7WplY.webp",
+    "playlist_index": 13,
+    "duration": "57:04"
+  },
+  {
+    "title": "Connecting Capella to IBM ELM platform (IBM Jazz) | Webinar Publication for Capella",
+    "description": "Presented by Laurent Delaigue and Philippe Leblanc, discover in this webinar how Publication for Capella provides fine-grained integration between the MBSE workbench Capella and IBM Engineering Lifecycle Management (IBM Jazz).",
+    "video_id": "rGQ6xFmUiOA",
+    "playlist": "Capella - Solutions by Obeo",
+    "playlist_id": "PLDCKzuGIN_ZxcuMhfNWU16ITkoCYLjWba",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "rGQ6xFmUiOA.webp",
+    "playlist_index": 14,
+    "duration": "52:30"
+  },
+  {
+    "title": "Capella Short Demo",
+    "description": "Discover the main features and a short demonstration of Capella, the open source MBSE tool.\nLearn more here:  https://www.eclipse.org/capella/",
+    "video_id": "OBI1Bpf0af4",
+    "playlist": "Capella - The technology",
+    "playlist_id": "PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "OBI1Bpf0af4.webp",
+    "playlist_index": 28,
+    "duration": "2:19"
+  },
+  {
+    "title": "How to Collaborate and Generate Documents with Capella? (by Obeo) | Capella Webinar",
+    "description": "",
+    "video_id": "tnLDinb0jkg",
+    "playlist": "Capella Webinars",
+    "playlist_id": "PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-",
+    "yt_channel_id": "@obeocorp",
+    "thumbnail": "tnLDinb0jkg.webp",
+    "playlist_index": 53,
+    "duration": "55:56"
   }
 ]
