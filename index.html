@@ -25,7 +25,7 @@
         .navbar-fixed-top{
             position: fixed;
             min-height: 80px;
-            padding: 20px 20px 0 20px;
+            padding-top: 20px;;
             top: 0;
             right: 0;
             left: 0;
@@ -107,12 +107,20 @@
             let rowDiv; // Variable pour stocker la balise div de la ligne actuelle
             for (let i = 0; i < filteredVideos.length; i++) {
                 const video = filteredVideos[i];
-
                 const videoId = video.video_id;
-                const videoUrl = `https://media.obeosoft.com/capella/${videoId}.mp4`;
+                const videoChannelId = video.yt_channel_id;
+                let videoUrl;
+
+                if (videoChannelId === '@EclipseCapella') {
+                    videoUrl = `https://media.obeosoft.com/capella/${videoId}.mp4`;
+                } else {
+                    videoUrl = `https://media.obeosoft.com/obeo/${videoId}.mp4`;
+                }
+
+
                 const videoThumbnailUrl = `images/thumbnails/${videoId}.webp`; 
                 const videoTitle = video.title;
-                const videoDuration = video.duration_string;
+                const videoDuration = video.duration;
 
                 const videoElement = document.createElement('div');
                 videoElement.classList.add('video');
