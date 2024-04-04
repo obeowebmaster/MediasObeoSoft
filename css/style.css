@@ -1,0 +1,116 @@
+body {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #676767;
+    background-color: #ffffff
+}
+header {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #dedede;
+}
+.container {
+    max-width: 1280px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+.navbar-fixed-top{
+    position: fixed;
+    min-height: 80px;
+    padding: 20px 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+a {text-decoration: none;}
+.video p a {font-weight: 600;}
+.video a:hover, .accordion-button, .accordion-button::after {color: #fbb800;}
+h1, .video a, .accordion-button:not(.collapsed) {color: #002B3C}
+.logo img {width: 220px;}
+.flags {
+    display: flex;
+    gap: 10px;
+}
+.flags img {
+    width: 18px;
+    cursor: pointer;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+#intro{margin-top: 100px;}
+#videos{margin-top: 20px;
+}
+.video {
+    width: calc(33.33% - 20px);
+    box-sizing: border-box;
+    padding: 10px;
+}
+.video img {
+    width: 100%;
+    height: auto;
+}
+.video p {
+    margin: 5px 0;
+}
+.accordion-body {padding: 30px 20px 0 20px;}
+.accordion-button {padding: 20px 0;}
+.accordion-button {
+    font-size: 19px;
+    font-weight: 700;
+}
+.accordion-button::after, .accordion-button:not(.collapsed)::after,  .accordion-button:not(.collapsed){background-image:none; box-shadow: none;}
+.accordion-button:focus {box-shadow: none;}
+.accordion-button:not(.collapsed){background-color: #ffffff;}
+.accordion-item {
+    border-top: none;
+    border-bottom: 1px solid #dedede;
+    border-right: none;
+    border-left: none;
+}
+/* These styles are required to make icons render reliably */
+.icon::after {
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.icon-solid::before, .icon-solid::after  {
+font: var(--fa-font-solid);
+font-size: 25px;
+}
+.icon-caret-down, .accordion-button::after {
+    content: '\f0d7';
+}
+.bg_green1 {
+    background: #009db5
+}
+.txt_green1 {
+    color: #007788
+}
+.txt_green2 {
+    color: #009db5
+}
+.txt_green3 {
+    color: #4ebcc2
+}
+.txt_green4 {
+    color: #badfe1
+}
+.txt_gray1 {
+    color: #bbb
+}
+.txt_gray2 {
+    color: #dedede
+}
+.txt_gray3 {
+    color: #f7f7f7
+}
