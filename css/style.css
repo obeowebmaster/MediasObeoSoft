@@ -3,7 +3,7 @@ body {
     margin: 0 auto;
     padding: 20px;
     font-family: "Open Sans",Arial,sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.42857143;
     color: #676767;
     background-color: #ffffff
@@ -12,6 +12,9 @@ header {
     margin-bottom: 20px;
     background-color: #ffffff;
     border-bottom: 1px solid #dedede;
+}
+h1{
+    font-family: "Open Sans Condensed", sans-serif;
 }
 .container {
     max-width: 1280px;
@@ -29,14 +32,23 @@ header {
     left: 0;
     z-index: 1030;
 }
-a {text-decoration: none;}
-.video p a {font-weight: 600;}
+a {color:#fbb800; font-weight: 700; text-decoration: none;}
+.video .duration, .video .yt_link {font-size: 13px;}
+.video .yt_link a:hover {color:#fbb800;}
 .video a:hover, .accordion-button, .accordion-button::after {color: #fbb800;}
 h1, .video a, .accordion-button:not(.collapsed) {color: #002B3C}
+.video .yt_link a {font-weight: 400; color: #ababab; text-decoration: underline;}
 .logo img {width: 220px;}
-.flags {
+
+.contact a.btn {
+    border: 2px solid #002b3c;
+    background: #002b3c;
+    color: #ffffff;
+    margin-top: 20px;
+}
+.flags, .duration {
     display: flex;
-    gap: 10px;
+    gap: 20px;
 }
 .flags img {
     width: 18px;
@@ -46,7 +58,10 @@ h1, .video a, .accordion-button:not(.collapsed) {color: #002B3C}
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
+    width: auto;
 }
+.video .row {width: fit-content;
+    flex-wrap: nowrap;}
 #intro{margin-top: 100px;}
 #videos{margin-top: 20px;
 }
@@ -106,11 +121,211 @@ font-size: 25px;
     color: #badfe1
 }
 .txt_gray1 {
-    color: #bbb
+    color: #ababab
 }
 .txt_gray2 {
     color: #dedede
 }
 .txt_gray3 {
     color: #f7f7f7
+}
+
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+.thumb {
+    margin: 10px;
+}
+
+.thumb img {
+    width: 150px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+.thumb img:hover {
+    transform: scale(1.1);
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8); /* Fond noir avec transparence */
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+}
+
+.modal-content {
+    position: relative;
+    padding: 20px; /* Garde le padding autour du contenu */
+    background-color: white;
+    width: auto; /* Laisse la largeur du modal s'ajuster à celle du contenu */
+    max-width: 100%; /* Ne dépasse pas la taille de l'écran */
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    display: inline-block; /* Adapte la taille du modal à celle du contenu */
+}
+
+.media-container {
+    display: inline-block; /* S'ajuste à la taille du média */
+}
+
+.modal img, .modal video {
+    max-width: 100%; /* L'image/vidéo occupe toute la largeur disponible */
+    max-height: 80vh; /* Limite la hauteur à 80% de la hauteur de la fenêtre */
+    width: auto; /* Ajuste la largeur du média en fonction de sa taille réelle */
+    height: auto; /* Garde les proportions du média */
+    display: block; /* Supprime les marges internes */
+}
+
+.modal-info {
+    display: block; /* Fait en sorte que la description occupe toute la largeur */
+    max-width: 100%; /* Assure que le texte ne dépasse pas la largeur du média */
+    margin-top: 10px; /* Ajoute un espace entre l'image et la description */
+}
+
+.modal-text {
+    text-align: left;
+    max-width: 100%; /* La largeur du texte ne dépassera pas celle du média */
+    margin: 0 auto; /* Centre le texte horizontalement */
+}
+
+.modal-position {
+    text-align: right;
+    font-weight: bold;
+    font-size: 14px;
+    white-space: nowrap;
+    margin-top: 10px; /* Ajoute un peu d'espace en haut */
+    margin-left: auto; /* Permet de maintenir l'indicateur à droite */
+}
+
+.modal h3 {
+    margin: 0;
+    font-size: 20px;
+    text-align: left;
+}
+
+.modal p {
+    margin: 10px 0;
+    text-align: left;
+    padding-right: 20px; /* Ajoute un padding pour aérer la description */
+}
+
+
+
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #333;
+    font-weight: bold;
+}
+
+/* Arrow bwidth: fit-content;
+    flex-wrap: nowrap;uttons */
+.arrow {width: fit-content;
+    flex-wrap: nowrap;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    font-size: 36px;
+    color: #333;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 50%;
+    user-select: none;
+    transition: background-color 0.3s;
+}
+
+.arrow-lwidth: fit-content;
+    flex-wrap: nowrap;eft {
+    left: 20px;
+    transform: translateY(-50%);
+}
+
+.arrow-rwidth: fit-content;
+    flex-wrap: nowrap;ight {
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+.arrow:hwidth: fit-content;
+    flex-wrap: nowrap;over {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: transparent;
+    color: #002B3C;
+}
+
+/* Responsive Media Queries */
+@media (max-width: 768px) {
+    .modal-content {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .arrow {width: fit-content;
+    flex-wrap: nowrap;
+        font-size: 30px;
+    }
+}
+@media (max-width: 600px) {
+    .row {
+      flex-direction: column; /* Les éléments passent en colonne */
+      align-items: flex-start; /* Aligne les éléments à gauche */
+    }
+  
+    .duration, .yt_link {
+      margin-bottom: 8px; /* Espace entre les éléments */
+    }
+  }
+
+@media (max-width: 480px) {
+    .thumb img {
+        width: 100px;
+    }
+
+    .modal-content {
+        max-width: 100%;
+        padding: 10px;
+    }
+
+    .arrow {width: fit-content;
+    flex-wrap: nowrap;
+        font-size: 24px;
+        padding: 5px;
+    }
+
+    .close {
+        font-size: 20px;
+    }
 }

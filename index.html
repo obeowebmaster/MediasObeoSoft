@@ -18,17 +18,23 @@
         <div class="logo">
             <img src="images/logos/logo_obeo.png" alt="Logo Obeo" />
         </div>
-        <div class="flags">
-            <img src="images/flags/flag_fr.png" alt="French" onclick="changeLanguage('fr')" />
-            <img src="images/flags/flag_en.png" alt="English" onclick="changeLanguage('en')" />
+        <div>
+            <div class="flags">
+                <img src="images/flags/flag_fr.png" alt="French" onclick="changeLanguage('fr')" />
+                <img src="images/flags/flag_en.png" alt="English" onclick="changeLanguage('en')" />
+            </div>
+            <div class="contact">
+                <a class="btn" href="https://www.obeosoft.com/en/contact" target="_blank">Contact</a>
+            </div>
         </div>
     </div>
     </header>
     <div id="intro">
         <h1>Capella Videos</h1>
-        <h6>New to Eclipse Capella™? Advanced user? Business executive? Find the answers to your questions about Capella.</h5>
+        <h5>New to Eclipse Capella™? Advanced user? Business executive? Find the answers to your questions about Capella.</h5>
+        <p>This section allows users without access to YouTube to view videos published on the <a href="https://www.youtube.com/@EclipseCapella">Capella</a> and <a href="https://www.youtube.com/user/obeocorp">Obeo</a> YouTube accounts.</p>
     </div>
-
+    
     <div class="accordion" id="videos">
     </div>
 
@@ -63,6 +69,7 @@
          const playlistNames = {
             'PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-': 'Capella Webinars',
             'PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx': 'Capella - The technology',
+            'PLfrEYVpSGVLz4i-rHdkgWbl5jdVzHMRUn': 'Capella - Getting started with Arcadia and Capella',
             'PLfrEYVpSGVLxKMpTzcm130M-mDgWP2QTK': 'Capella Days 2023',
             'PLfrEYVpSGVLzbLqLJCohL_Cfgu8EzuXtr': 'Capella Days 2022',
             'PLfrEYVpSGVLzhfwfDMN6Pt0nIwftM4wiW': 'Capella Days 2021',
@@ -95,8 +102,12 @@
             for (let i = 0; i < videos.length; i++) {
                 const video = videos[i];
                 const videoId = video.video_id;
+                const playlistId = video.playlist_id;
                 const videoChannelId = video.yt_channel_id;
                 let videoUrl;
+                let videoYTUrl;
+                
+                
 
                 if (videoChannelId === '@EclipseCapella') {
                     videoUrl = `https://media.obeosoft.com/capella/${videoId}.mp4`;
@@ -107,13 +118,18 @@
                 const videoTitle = video.title;
                 const videoDuration = video.duration;
 
+                videoYTUrl=`https://www.youtube.com/watch?v=${videoId}&list=${playlistId}`;
+            
                 const videoElement = document.createElement('div');
                 videoElement.classList.add('video');
                 videoElement.innerHTML = `
                     <a href="${videoUrl}"><img src="${videoThumbnailUrl}" alt="${videoTitle}"></a>
                     <p><a href="${videoUrl}">${videoTitle}</a></p>
-                    <p class="txt_gray1">Duration: ${videoDuration}</p>
-                `;
+                    <div class="row">
+                    <div class="yt_link txt_gray1"><a href="${videoYTUrl}" target="_blank">YouTube Link</a></div>
+                    <div class="duration txt_gray1"><p>Duration: ${videoDuration}</p></div>
+                    </div>
+                    `;
 
                 if (i % 3 === 0) { // Si nous avons atteint une nouvelle ligne
                     rowDiv = document.createElement('div');
