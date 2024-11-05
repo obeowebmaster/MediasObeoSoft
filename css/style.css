@@ -1,7 +1,4 @@
 body {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 20px;
     font-family: "Open Sans",Arial,sans-serif;
     font-size: 16px;
     line-height: 1.42857143;
@@ -33,10 +30,21 @@ h1{
     z-index: 1030;
 }
 a {color:#fbb800; font-weight: 700; text-decoration: none;}
+.btn, .btn-outline-primary:hover {
+    border: 2px solid #fbb800;
+    background-color: #fbb800 ; 
+    color: #002B3C;
+}
+.btn-outline-primary, .btn-primary:hover{
+    background: transparent;
+    color: #fbb800;
+    border: 2px solid #fbb800;
+}
+
 .video .duration, .video .yt_link {font-size: 13px;}
 .video .yt_link a:hover {color:#fbb800;}
 .video a:hover, .accordion-button, .accordion-button::after {color: #fbb800;}
-h1, .video a, .accordion-button:not(.collapsed) {color: #002B3C}
+h1, .video a, .accordion-button:not(.collapsed){color: #002B3C}
 .video .yt_link a {font-weight: 400; color: #ababab; text-decoration: underline;}
 .logo img {width: 220px;}
 
@@ -62,7 +70,6 @@ h1, .video a, .accordion-button:not(.collapsed) {color: #002B3C}
 }
 .video .row {width: fit-content;
     flex-wrap: nowrap;}
-#intro{margin-top: 100px;}
 #videos{margin-top: 20px;
 }
 .video {
