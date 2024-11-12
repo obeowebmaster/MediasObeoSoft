@@ -10,7 +10,8 @@ header {
     background-color: #ffffff;
     border-bottom: 1px solid #dedede;
 }
-h1{
+h1, h2{
+    color: #002B3C;
     font-family: "Open Sans Condensed", sans-serif;
 }
 .container {
