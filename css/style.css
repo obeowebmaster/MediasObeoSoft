@@ -32,6 +32,7 @@ a {
 }
 .btn, .btn-outline-primary:hover {
     border: 2px solid #fbb800;
+    border-radius: 0;
     background-color: #fbb800 ; 
     color: #002B3C;
 }
@@ -61,8 +62,9 @@ color: #007788;
 .nav-pills .nav-link.active {
     background-color: #002B3C;
     color: #fbb800;
-    border-radius: 4px;
     border-bottom: 0 solid transparent;
+    border-radius: 0;
+
 }
 
 .nav-pills .nav-link.active:hover {
