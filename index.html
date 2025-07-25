@@ -210,6 +210,7 @@
             // Générer les vidéos
             videos.forEach(video => {
                 const videoId = video.video_id;
+                const videoThumbnail = video.thumbnail;
                 const playlistName = video.playlist;
                 const videoChannelId = video.yt_channel_id;
                 const videoUrl = videoChannelId === '@EclipseCapella'
@@ -217,7 +218,7 @@
                     : videoChannelId === '@EclipseSysON'
                         ? `https://media.obeosoft.com/syson/${videoId}.mp4`
                         : `https://media.obeosoft.com/obeo/${videoId}.mp4`;
-                const videoThumbnailUrl = `images/thumbnails/${videoId}.webp`;
+                const videoThumbnailUrl = `images/thumbnails/${videoThumbnail}`;
                 const videoTitle = video.title;
                 const videoDescription = video.description;
                 const videoDuration = video.duration;
