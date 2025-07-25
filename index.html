@@ -172,6 +172,7 @@
 
         // Correspondance entre les IDs de playlist et leurs noms
         const playlistNames = {
+            'PLavBhTZ41hHxAQaTQdHp_pATh3Zs2-0NW': 'SysON - Demo',
             'PLfrEYVpSGVLxEFRODSWUTP8N5i3NTG4o-': 'Capella Webinars',
             'PLDCKzuGIN_ZwoohDtiavJ8E4-lfcMNeGx': 'Capella - The technology',
             'PLfrEYVpSGVLz4i-rHdkgWbl5jdVzHMRUn': 'Capella - Getting started with Arcadia and Capella',
@@ -213,7 +214,9 @@
                 const videoChannelId = video.yt_channel_id;
                 const videoUrl = videoChannelId === '@EclipseCapella'
                     ? `https://media.obeosoft.com/capella/${videoId}.mp4`
-                    : `https://media.obeosoft.com/obeo/${videoId}.mp4`;
+                    : videoChannelId === '@EclipseSysON'
+                        ? `https://media.obeosoft.com/syson/${videoId}.mp4`
+                        : `https://media.obeosoft.com/obeo/${videoId}.mp4`;
                 const videoThumbnailUrl = `images/thumbnails/${videoId}.webp`;
                 const videoTitle = video.title;
                 const videoDescription = video.description;
